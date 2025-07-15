@@ -120,7 +120,7 @@ You can easily test the system by modifying the query variable at the bottom of 
 
 ## 📜 License
 
-The code in this repository is licensed under the MIT License. See the [LICENSE](https://www.google.com/url?sa=E&q=LICENSE) file for details.
+The code in this repository is licensed under the MIT License. See the [LICENSE](https://github.com/houqiii/IoT-Brain/blob/main/LICENSE) file for details.
 
 
 
