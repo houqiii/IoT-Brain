@@ -1,0 +1,159 @@
+Road: Zhuoyue_road
+Connectivity: the_north_gate_door & the_west_gate_door & Dongfang_road & Xingyun_road & Qinghe_road & Jiyuan_road & Liyuan_road & Yongqing_road
+
+Road: Xingyun_road
+Connectivity: playground_front_door & Zhuoyue_road & Xingyun_side_road
+
+Road: Xingyun_side_road
+Connectivity: stadium_back_door & Xingyun_road
+
+Road: Chuangxin_road
+Connectivity: stadium_front_door & Xinzhi_building_front_door & Dongfang_road & Fuhui_road & Yuanjing_side_road_1 & Shenglan_road
+
+Road: Qiushi_road
+Connectivity: teaching_building_1_door & the_east_gate_door & Qiushi_side_road_1 & Qiushi_side_road_2 & Weiyuan_road
+
+Road: Heping_road
+Connectivity: cafeteria_front_door & the_south_gate_door & Heping_side_road_1 & Heping_side_road_2 & Heping_side_road_3 & Xinxi_road & faculty_center_road & Tianlan_road & Zhenhua_road
+
+Road: Ankang_road
+Connectivity: playground_back_door & student_apartment_6_door & Ankang_side_road_1 & Ankang_side_road_2 & Fuhui_road & Ankang_side_road_3 & Ankang_side_road_4 & Shiji_road & Yongqing_side_road_2
+
+Road: Qinghe_road
+Connectivity: Zhuoyue_road & car_park_2_front_door
+
+Road: Jiyuan_road
+Connectivity: Zhuoyue_road & car_park_2_back_door
+
+Road: Ankang_side_road_1
+Connectivity: car_park_1_front_door & Ankang_road
+
+Road: Fuhui_road
+Connectivity: Ankang_road & Chuangxin_road & Mingzhu_road
+
+Road: Heping_side_road_1
+Connectivity: student_apartment_3_door & Heping_road & Ankang_side_road_4
+
+Road: Heping_side_road_3
+Connectivity: student_apartment_1_door & Heping_road & outdoor_tennis_court_road & outdoor_basketball_court_road
+
+Road: faculty_center_road
+Connectivity: faculty_center_door & Heping_road
+
+Road: Shenglan_road
+Connectivity: teaching_building_3_door & Chuangxin_road & Tianlan_road & Shenglan_side_road_2 & Shenglan_side_road_1
+
+Road: Ankang_side_road_2
+Connectivity: outdoor_volleyball_court_1_door & Ankang_road
+
+Road: Ankang_side_road_3
+Connectivity: student_apartment_7_door & Ankang_road
+
+Road: Xinxi_road
+Connectivity: library_A_main_door & Heping_road & Xinxi_side_road & Shenglan_side_road_1 & Mingzhu_road & library_B_road
+
+Road: library_B_road
+Connectivity: library_B_door & Xinxi_road & library_C_road
+
+Road: library_C_road
+Connectivity: library_B_road & library_C_door
+
+Road: Zhenhua_road
+Connectivity: teaching_building_2_door & Heping_road & Weiyuan_road
+
+Road: Weiyuan_road
+Connectivity: Zhenhua_road & Shenglan_side_road_2 & Qiushi_side_road_2 & Qiushi_road
+
+Road: Shenglan_side_road_2
+Connectivity: Shenglan_road & Weiyuan_road
+
+Road: Tianlan_road
+Connectivity: Heping_road & Shenglan_road
+
+Road: Shenglan_side_road_1
+Connectivity: Shenglan_road & Xinxi_road
+
+Road: Mingzhu_road
+Connectivity: Fuhui_road & Xinxi_road & Mingzhu_side_road_1 & Mingzhu_side_road_2
+
+Road: Yuanjing_road
+Connectivity: staff_canteen_door & staff_dormitory_door & Yuanjing_side_road_3 & Yuanjing_side_road_2 & Yuanjing_side_road_1
+
+Road: Yuanjing_side_road_2
+Connectivity: Yuanjing_road & hospital_door
+
+Road: Yuanjing_side_road_3
+Connectivity: Yuanjing_road & Zhuoyue_road
+
+Road: Yuanjing_side_road_1
+Connectivity: Yuanjing_road & Qiushi_side_road_1 & Chuangxin_road
+
+Road: Qiushi_side_road_1
+Connectivity: Yuanjing_side_road_1 & Qiushi_road
+
+Road: Heping_side_road_2
+Connectivity: student_apartment_2_door & Heping_road
+
+Road: Shiji_road
+Connectivity: Ankang_road & Heping_side_road_2
+
+Road: Ankang_side_road_4
+Connectivity: Heping_side_road_1 & Ankang_road
+
+Road: outdoor_basketball_court_road
+Connectivity: outdoor_basketball_court_door & Heping_side_road_3 & Futian_road
+
+Road: Lixiang_road
+Connectivity: student_apartment_4_door & Shiji_road & Yongqing_road & Futian_road
+
+Road: Futian_road
+Connectivity: outdoor_basketball_court_road & Lixiang_road & Yongqing_road
+
+Road: outdoor_tennis_court_road
+Connectivity: outdoor_tennis_court_door & Heping_side_road_3
+
+Road: Yongqing_road
+Connectivity: Zhuoyue_road & Lixiang_road & Futian_road & Yongqing_side_road_1 & Yongqing_side_road_2 & Yongqing_side_road_3
+
+Road: Yongqing_side_road_3
+Connectivity: student_apartment_5_door & Yongqing_road
+
+Road: Yongqing_side_road_2
+Connectivity: Ankang_road & Yongqing_road
+
+Road: Yongqing_side_road_1
+Connectivity: Ankang_side_road_3 & Shuangyong_side_road & Yongqing_road
+
+Road: Xinguang_road
+Connectivity: outdoor_volleyball_court_2_door & outdoor_volleyball_court_3_door & Xinguang_side_road
+
+Road: Shuangyong_road
+Connectivity: Shuangyong_side_road & Xinguang_road & outdoor_volleyball_court_4_door
+
+Road: Shuangyong_side_road
+Connectivity: Shuangyong_road & Yongqing_side_road_1
+
+Road: Xinguang_side_road
+Connectivity: Xinguang_road & Ankang_side_road_2
+
+Road: Qiushi_side_road_2
+Connectivity: Xinzhi_buidling_back_door & Qiushi_road & Weiyuan_road
+
+Road: Liyuan_road
+Connectivity: car_park_1_back_door & Zhuoyue_road
+
+Road: Xinxi_side_road
+Connectivity: cafeteria_1F_right_door & Xinxi_road
+
+Road: Mingzhu_side_road_2
+Connectivity: cafeteria_back_door & Mingzhu_road
+
+Road: Mingzhu_side_road_1
+Connectivity: cafeteria_1F_left_door & Mingzhu_road
+
+Road: Dongfang_road
+Connectivity: Chuangxin_road & Zhuoyue_road
+
+Road: Fuhui_side_road
+Connectivity: Fuhui_road & student_apartment_8_door
+

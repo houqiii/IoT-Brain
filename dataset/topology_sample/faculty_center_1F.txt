@@ -1,0 +1,1174 @@
+<location_name: assembly-hall>
+<!-- The following points form the location: assembly-hall -->
+  <node x='0' y='475'>
+<tag k='assembly_hall_vertex' v='assembly_hall_vertex_A' />
+  </node>
+  <node x='230' y='474'>
+<tag k='assembly_hall_vertex' v='assembly_hall_vertex_D' />
+    <tag k='hall_1F_vertex' v='hall_1F_vertex_1' />
+  </node>
+  <node x='231' y='324'>
+<tag k='assembly_hall_vertex' v='assembly_hall_vertex_C' />
+  </node>
+  <node x='1' y='325'>
+<tag k='assembly_hall_vertex' v='assembly_hall_vertex_B' />
+  </node>
+  <node x='230' y='398'>
+<tag k='door' v='assembly_hall_door' />
+  </node>
+  <node x='53' y='467'>
+<tag k='stage_vertex' v='stage_vertex_4' />
+  </node>
+  <node x='14' y='468'>
+<tag k='stage_vertex' v='stage_vertex_1' />
+  </node>
+  <node x='14' y='332'>
+<tag k='stage_vertex' v='stage_vertex_2' />
+  </node>
+  <node x='53' y='332'>
+<tag k='stage_vertex' v='stage_vertex_3' />
+  </node>
+  <node x='22' y='398'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='assembly_hall_stage_camera_1' />
+  </node>
+<stage>
+    <nd ref='stage_vertex_4' />
+    <nd ref='stage_vertex_1' />
+    <nd ref='stage_vertex_2' />
+    <nd ref='stage_vertex_3' />
+</stage>
+  <node x='71' y='331'>
+<tag k='audience_seating_vertex' v='audience_seating_vertex_2' />
+  </node>
+  <node x='213' y='331'>
+<tag k='audience_seating_vertex' v='audience_seating_vertex_3' />
+  </node>
+  <node x='71' y='467'>
+<tag k='audience_seating_vertex' v='audience_seating_vertex_1' />
+  </node>
+  <node x='213' y='466'>
+<tag k='audience_seating_vertex' v='audience_seating_vertex_4' />
+  </node>
+  <node x='78' y='339'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='assembly_hall_audience_seating_camera_1' />
+  </node>
+  <node x='208' y='459'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='assembly_hall_audience_seating_camera_2' />
+  </node>
+<audience-seating>
+    <nd ref='audience_seating_vertex_2' />
+    <nd ref='audience_seating_vertex_3' />
+    <nd ref='audience_seating_vertex_1' />
+    <nd ref='audience_seating_vertex_4' />
+</audience-seating>
+<assembly-hall>
+    <nd ref='assembly_hall_vertex_A' />
+    <nd ref='assembly_hall_vertex_D' />
+    <nd ref='assembly_hall_vertex_C' />
+    <nd ref='assembly_hall_vertex_B' />
+</assembly-hall>
+
+<location_name: hall-1F>
+<!-- The following points form the location: hall-1F -->
+  <node x='230' y='474'>
+<tag k='assembly_hall_vertex' v='assembly_hall_vertex_D' />
+    <tag k='hall_1F_vertex' v='hall_1F_vertex_1' />
+  </node>
+  <node x='231' y='278'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_2' />
+    <tag k='reception_room_vertex' v='reception_room_vertex_A' />
+  </node>
+  <node x='326' y='277'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_3' />
+    <tag k='reception_room_vertex' v='reception_room_vertex_D' />
+  </node>
+  <node x='326' y='233'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_4' />
+    <tag k='reception_room_vertex' v='reception_room_vertex_C' />
+  </node>
+  <node x='231' y='234'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_5' />
+    <tag k='reception_room_vertex' v='reception_room_vertex_B' />
+  </node>
+  <node x='231' y='170'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_6' />
+    <tag k='women's_restroom_A_vertex' v='women's_restroom_A_vertex_A' />
+  </node>
+  <node x='289' y='170'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_7' />
+    <tag k='women's_restroom_A_vertex' v='women's_restroom_A_vertex_D' />
+  </node>
+  <node x='289' y='123'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_8' />
+    <tag k='men's_restroom_A_vertex' v='men's_restroom_A_vertex_C' />
+  </node>
+  <node x='232' y='124'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_9' />
+    <tag k='men's_restroom_A_vertex' v='men's_restroom_A_vertex_B' />
+  </node>
+  <node x='301' y='183'>
+<tag k='elevator' v='1F-elevator_1' />
+    <tag k='surveillance' v='1F-elevator_1_camera' />
+  </node>
+  <node x='322' y='183'>
+<tag k='elevator' v='1F-elevator_2' />
+    <tag k='surveillance' v='1F-elevator_2_camera' />
+  </node>
+  <node x='232' y='98'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_10' />
+    <tag k='presentation_hall_A_vertex' v='presentation_hall_A_vertex_A' />
+  </node>
+  <node x='404' y='96'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_11' />
+    <tag k='presentation_hall_B_vertex' v='presentation_hall_B_vertex_D' />
+  </node>
+  <node x='404' y='60'>
+<tag k='duty_room_vertex' v='duty_room_vertex_A' />
+    <tag k='hall_1F_vertex' v='hall_1F_vertex_12' />
+  </node>
+  <node x='456' y='60'>
+<tag k='duty_room_vertex' v='duty_room_vertex_D' />
+    <tag k='hall_1F_vertex' v='hall_1F_vertex_13' />
+  </node>
+  <node x='456' y='2'>
+<tag k='duty_room_vertex' v='duty_room_vertex_C' />
+    <tag k='hall_1F_vertex' v='hall_1F_vertex_14' />
+  </node>
+  <node x='513' y='1'>
+<tag k='exhibition_hall_vertex' v='exhibition_hall_vertex_B' />
+    <tag k='hall_1F_vertex' v='hall_1F_vertex_15' />
+  </node>
+  <node x='513' y='85'>
+<tag k='exhibition_hall_vertex' v='exhibition_hall_vertex_A' />
+    <tag k='hall_1F_vertex' v='hall_1F_vertex_16' />
+  </node>
+  <node x='604' y='85'>
+<tag k='exhibition_hall_vertex' v='exhibition_hall_vertex_D' />
+    <tag k='hall_1F_vertex' v='hall_1F_vertex_17' />
+  </node>
+  <node x='604' y='111'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_18' />
+    <tag k='rehearsal_hall_vertex' v='rehearsal_hall_vertex_C' />
+  </node>
+  <node x='511' y='111'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_19' />
+    <tag k='rehearsal_hall_vertex' v='rehearsal_hall_vertex_B' />
+  </node>
+  <node x='603' y='222'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_23' />
+    <tag k='rehearsal_hall_vertex' v='rehearsal_hall_vertex_D' />
+  </node>
+  <node x='603' y='259'>
+<tag k='dance_studio_vertex' v='dance_studio_vertex_C' />
+    <tag k='hall_1F_vertex' v='hall_1F_vertex_24' />
+  </node>
+  <node x='441' y='223'>
+<tag k='fire_fighting_access_1F_vertex' v='fire_fighting_access_1F_vertex_A' />
+    <tag k='hall_1F_vertex' v='hall_1F_vertex_22' />
+  </node>
+  <node x='442' y='161'>
+<tag k='fire_fighting_access_1F_vertex' v='fire_fighting_access_1F_vertex_B' />
+    <tag k='hall_1F_vertex' v='hall_1F_vertex_21' />
+  </node>
+  <node x='511' y='161'>
+<tag k='fire_fighting_access_1F_vertex' v='fire_fighting_access_1F_vertex_C' />
+    <tag k='hall_1F_vertex' v='hall_1F_vertex_20' />
+  </node>
+  <node x='350' y='260'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_25' />
+    <tag k='lounge_vertex' v='lounge_vertex_B' />
+  </node>
+  <node x='348' y='474'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_26' />
+    <tag k='storage_room_vertex' v='storage_room_vertex_A' />
+  </node>
+  <node x='293' y='418'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='hall_1F_camera_1' />
+  </node>
+  <node x='269' y='338'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='hall_1F_camera_2' />
+  </node>
+  <node x='337' y='214'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='hall_1F_camera_3' />
+  </node>
+  <node x='518' y='240'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='hall_1F_camera_4' />
+  </node>
+  <node x='323' y='123'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='hall_1F_camera_5' />
+  </node>
+  <node x='486' y='105'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='hall_1F_camera_6' />
+  </node>
+  <node x='489' y='1'>
+<tag k='door' v='faculty_center_door' />
+  </node>
+<hall-1F>
+    <nd ref='hall_1F_vertex_1' />
+    <nd ref='hall_1F_vertex_2' />
+    <nd ref='hall_1F_vertex_3' />
+    <nd ref='hall_1F_vertex_4' />
+    <nd ref='hall_1F_vertex_5' />
+    <nd ref='hall_1F_vertex_6' />
+    <nd ref='hall_1F_vertex_7' />
+    <nd ref='hall_1F_vertex_8' />
+    <nd ref='hall_1F_vertex_9' />
+    <nd ref='hall_1F_vertex_10' />
+    <nd ref='hall_1F_vertex_11' />
+    <nd ref='hall_1F_vertex_12' />
+    <nd ref='hall_1F_vertex_13' />
+    <nd ref='hall_1F_vertex_14' />
+    <nd ref='hall_1F_vertex_15' />
+    <nd ref='hall_1F_vertex_16' />
+    <nd ref='hall_1F_vertex_17' />
+    <nd ref='hall_1F_vertex_18' />
+    <nd ref='hall_1F_vertex_19' />
+    <nd ref='hall_1F_vertex_23' />
+    <nd ref='hall_1F_vertex_24' />
+    <nd ref='hall_1F_vertex_22' />
+    <nd ref='hall_1F_vertex_21' />
+    <nd ref='hall_1F_vertex_20' />
+    <nd ref='hall_1F_vertex_25' />
+    <nd ref='hall_1F_vertex_26' />
+</hall-1F>
+
+<location_name: exhibition-hall>
+<!-- The following points form the location: exhibition-hall -->
+  <node x='605' y='0'>
+<tag k='exhibition_hall_vertex' v='exhibition_hall_vertex_C' />
+  </node>
+  <node x='513' y='1'>
+<tag k='exhibition_hall_vertex' v='exhibition_hall_vertex_B' />
+    <tag k='hall_1F_vertex' v='hall_1F_vertex_15' />
+  </node>
+  <node x='513' y='85'>
+<tag k='exhibition_hall_vertex' v='exhibition_hall_vertex_A' />
+    <tag k='hall_1F_vertex' v='hall_1F_vertex_16' />
+  </node>
+  <node x='604' y='85'>
+<tag k='exhibition_hall_vertex' v='exhibition_hall_vertex_D' />
+    <tag k='hall_1F_vertex' v='hall_1F_vertex_17' />
+  </node>
+  <node x='513' y='42'>
+<tag k='door' v='exhibition_hall_door' />
+  </node>
+  <node x='535' y='69'>
+<tag k='facility' v='exhibition_hall_adjustable_display_stand_1' />
+  </node>
+  <node x='534' y='29'>
+<tag k='facility' v='exhibition_hall_exhibition_display_case_1' />
+  </node>
+  <node x='562' y='69'>
+<tag k='facility' v='exhibition_hall_adjustable_display_stand_2' />
+  </node>
+  <node x='586' y='69'>
+<tag k='facility' v='exhibition_hall_adjustable_display_stand_3' />
+  </node>
+  <node x='561' y='28'>
+<tag k='facility' v='exhibition_hall_exhibition_display_case_2' />
+  </node>
+  <node x='587' y='28'>
+<tag k='facility' v='exhibition_hall_exhibition_display_case_3' />
+  </node>
+  <node x='534' y='14'>
+<tag k='facility' v='exhibition_hall_exhibition_display_case_4' />
+  </node>
+  <node x='561' y='13'>
+<tag k='facility' v='exhibition_hall_exhibition_display_case_5' />
+  </node>
+  <node x='586' y='13'>
+<tag k='facility' v='exhibition_hall_exhibition_display_case_6' />
+  </node>
+  <node x='534' y='53'>
+<tag k='facility' v='exhibition_hall_adjustable_display_stand_4' />
+  </node>
+  <node x='586' y='53'>
+<tag k='facility' v='exhibition_hall_adjustable_display_stand_6' />
+  </node>
+  <node x='561' y='53'>
+<tag k='facility' v='exhibition_hall_adjustable_display_stand_5' />
+  </node>
+  <node x='559' y='41'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='exhibition_hall_camera_1' />
+  </node>
+<exhibition-hall>
+    <nd ref='exhibition_hall_vertex_C' />
+    <nd ref='exhibition_hall_vertex_B' />
+    <nd ref='exhibition_hall_vertex_A' />
+    <nd ref='exhibition_hall_vertex_D' />
+</exhibition-hall>
+
+<location_name: presentation-hall-A>
+<!-- The following points form the location: presentation-hall-A -->
+  <node x='232' y='4'>
+<tag k='presentation_hall_A_vertex' v='presentation_hall_A_vertex_B' />
+  </node>
+  <node x='232' y='98'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_10' />
+    <tag k='presentation_hall_A_vertex' v='presentation_hall_A_vertex_A' />
+  </node>
+  <node x='342' y='97'>
+<tag k='presentation_hall_A_vertex' v='presentation_hall_A_vertex_D' />
+    <tag k='presentation_hall_B_vertex' v='presentation_hall_B_vertex_A' />
+  </node>
+  <node x='343' y='3'>
+<tag k='presentation_hall_A_vertex' v='presentation_hall_A_vertex_C' />
+    <tag k='presentation_hall_B_vertex' v='presentation_hall_B_vertex_B' />
+  </node>
+  <node x='282' y='97'>
+<tag k='door' v='presentation_hall_A_door' />
+  </node>
+  <node x='247' y='51'>
+<tag k='facility' v='presentation_hall_A_podium' />
+  </node>
+  <node x='242' y='59'>
+<tag k='facility' v='presentation_hall_A_display_screen' />
+  </node>
+  <node x='305' y='10'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='presentation_hall_A_camera_1' />
+  </node>
+  <node x='303' y='90'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='presentation_hall_A_camera_2' />
+  </node>
+  <node x='269' y='83'>
+<tag k='facility' v='presentation_hall_A_audience_chair_1' />
+  </node>
+  <node x='282' y='83'>
+<tag k='facility' v='presentation_hall_A_audience_chair_2' />
+  </node>
+  <node x='295' y='83'>
+<tag k='facility' v='presentation_hall_A_audience_chair_3' />
+  </node>
+  <node x='308' y='83'>
+<tag k='facility' v='presentation_hall_A_audience_chair_4' />
+  </node>
+  <node x='320' y='82'>
+<tag k='facility' v='presentation_hall_A_audience_chair_5' />
+  </node>
+  <node x='331' y='82'>
+<tag k='facility' v='presentation_hall_A_audience_chair_6' />
+  </node>
+  <node x='269' y='74'>
+<tag k='facility' v='presentation_hall_A_audience_chair_7' />
+  </node>
+  <node x='320' y='73'>
+<tag k='facility' v='presentation_hall_A_audience_chair_11' />
+  </node>
+  <node x='331' y='72'>
+<tag k='facility' v='presentation_hall_A_audience_chair_12' />
+  </node>
+  <node x='308' y='73'>
+<tag k='facility' v='presentation_hall_A_audience_chair_10' />
+  </node>
+  <node x='295' y='74'>
+<tag k='facility' v='presentation_hall_A_audience_chair_9' />
+  </node>
+  <node x='282' y='74'>
+<tag k='facility' v='presentation_hall_A_audience_chair_8' />
+  </node>
+  <node x='269' y='65'>
+<tag k='facility' v='presentation_hall_A_audience_chair_13' />
+  </node>
+  <node x='320' y='64'>
+<tag k='facility' v='presentation_hall_A_audience_chair_17' />
+  </node>
+  <node x='332' y='64'>
+<tag k='facility' v='presentation_hall_A_audience_chair_18' />
+  </node>
+  <node x='308' y='64'>
+<tag k='facility' v='presentation_hall_A_audience_chair_16' />
+  </node>
+  <node x='295' y='65'>
+<tag k='facility' v='presentation_hall_A_audience_chair_15' />
+  </node>
+  <node x='283' y='65'>
+<tag k='facility' v='presentation_hall_A_audience_chair_14' />
+  </node>
+  <node x='269' y='55'>
+<tag k='facility' v='presentation_hall_A_audience_chair_19' />
+  </node>
+  <node x='320' y='54'>
+<tag k='facility' v='presentation_hall_A_audience_chair_23' />
+  </node>
+  <node x='332' y='54'>
+<tag k='facility' v='presentation_hall_A_audience_chair_24' />
+  </node>
+  <node x='308' y='54'>
+<tag k='facility' v='presentation_hall_A_audience_chair_22' />
+  </node>
+  <node x='295' y='55'>
+<tag k='facility' v='presentation_hall_A_audience_chair_21' />
+  </node>
+  <node x='283' y='55'>
+<tag k='facility' v='presentation_hall_A_audience_chair_20' />
+  </node>
+  <node x='270' y='46'>
+<tag k='facility' v='presentation_hall_A_audience_chair_25' />
+  </node>
+  <node x='320' y='45'>
+<tag k='facility' v='presentation_hall_A_audience_chair_29' />
+  </node>
+  <node x='332' y='45'>
+<tag k='facility' v='presentation_hall_A_audience_chair_30' />
+  </node>
+  <node x='308' y='45'>
+<tag k='facility' v='presentation_hall_A_audience_chair_28' />
+  </node>
+  <node x='296' y='46'>
+<tag k='facility' v='presentation_hall_A_audience_chair_27' />
+  </node>
+  <node x='283' y='46'>
+<tag k='facility' v='presentation_hall_A_audience_chair_26' />
+  </node>
+  <node x='270' y='37'>
+<tag k='facility' v='presentation_hall_A_audience_chair_31' />
+  </node>
+  <node x='320' y='35'>
+<tag k='facility' v='presentation_hall_A_audience_chair_35' />
+  </node>
+  <node x='332' y='35'>
+<tag k='facility' v='presentation_hall_A_audience_chair_36' />
+  </node>
+  <node x='309' y='36'>
+<tag k='facility' v='presentation_hall_A_audience_chair_34' />
+  </node>
+  <node x='296' y='36'>
+<tag k='facility' v='presentation_hall_A_audience_chair_33' />
+  </node>
+  <node x='283' y='37'>
+<tag k='facility' v='presentation_hall_A_audience_chair_32' />
+  </node>
+  <node x='270' y='28'>
+<tag k='facility' v='presentation_hall_A_audience_chair_37' />
+  </node>
+  <node x='321' y='27'>
+<tag k='facility' v='presentation_hall_A_audience_chair_41' />
+  </node>
+  <node x='332' y='26'>
+<tag k='facility' v='presentation_hall_A_audience_chair_42' />
+  </node>
+  <node x='309' y='27'>
+<tag k='facility' v='presentation_hall_A_audience_chair_40' />
+  </node>
+  <node x='296' y='27'>
+<tag k='facility' v='presentation_hall_A_audience_chair_39' />
+  </node>
+  <node x='283' y='28'>
+<tag k='facility' v='presentation_hall_A_audience_chair_38' />
+  </node>
+  <node x='270' y='19'>
+<tag k='facility' v='presentation_hall_A_audience_chair_43' />
+  </node>
+  <node x='321' y='18'>
+<tag k='facility' v='presentation_hall_A_audience_chair_47' />
+  </node>
+  <node x='332' y='18'>
+<tag k='facility' v='presentation_hall_A_audience_chair_48' />
+  </node>
+  <node x='309' y='18'>
+<tag k='facility' v='presentation_hall_A_audience_chair_46' />
+  </node>
+  <node x='296' y='19'>
+<tag k='facility' v='presentation_hall_A_audience_chair_45' />
+  </node>
+  <node x='283' y='19'>
+<tag k='facility' v='presentation_hall_A_audience_chair_44' />
+  </node>
+<presentation-hall-A>
+    <nd ref='presentation_hall_A_vertex_B' />
+    <nd ref='presentation_hall_A_vertex_A' />
+    <nd ref='presentation_hall_A_vertex_D' />
+    <nd ref='presentation_hall_A_vertex_C' />
+</presentation-hall-A>
+
+<location_name: men's-restroom-B>
+<!-- The following points form the location: men's-restroom-B -->
+  <node x='324' y='396'>
+<tag k='men's_restroom_B_vertex' v='men's_restroom_B_vertex_D' />
+  </node>
+  <node x='286' y='396'>
+<tag k='men's_restroom_B_vertex' v='men's_restroom_B_vertex_A' />
+  </node>
+  <node x='286' y='363'>
+<tag k='men's_restroom_B_vertex' v='men's_restroom_B_vertex_B' />
+  </node>
+  <node x='324' y='363'>
+<tag k='men's_restroom_B_vertex' v='men's_restroom_B_vertex_C' />
+    <tag k='women's_restroom_B_vertex' v='women's_restroom_B_vertex_D' />
+  </node>
+  <node x='286' y='378'>
+<tag k='door' v='men's_restroom_B_door' />
+  </node>
+<men's-restroom-B>
+    <nd ref='men's_restroom_B_vertex_D' />
+    <nd ref='men's_restroom_B_vertex_A' />
+    <nd ref='men's_restroom_B_vertex_B' />
+    <nd ref='men's_restroom_B_vertex_C' />
+</men's-restroom-B>
+
+<location_name: women's-restroom-B>
+<!-- The following points form the location: women's-restroom-B -->
+  <node x='324' y='363'>
+<tag k='men's_restroom_B_vertex' v='men's_restroom_B_vertex_C' />
+    <tag k='women's_restroom_B_vertex' v='women's_restroom_B_vertex_D' />
+  </node>
+  <node x='300' y='363'>
+<tag k='women's_restroom_B_vertex' v='women's_restroom_B_vertex_A' />
+  </node>
+  <node x='300' y='323'>
+<tag k='women's_restroom_B_vertex' v='women's_restroom_B_vertex_B' />
+  </node>
+  <node x='324' y='323'>
+<tag k='women's_restroom_B_vertex' v='women's_restroom_B_vertex_C' />
+  </node>
+  <node x='313' y='323'>
+<tag k='door' v='women's_restroom_B_door' />
+  </node>
+<women's-restroom-B>
+    <nd ref='women's_restroom_B_vertex_D' />
+    <nd ref='women's_restroom_B_vertex_A' />
+    <nd ref='women's_restroom_B_vertex_B' />
+    <nd ref='women's_restroom_B_vertex_C' />
+</women's-restroom-B>
+
+<location_name: reception-room>
+<!-- The following points form the location: reception-room -->
+  <node x='231' y='278'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_2' />
+    <tag k='reception_room_vertex' v='reception_room_vertex_A' />
+  </node>
+  <node x='326' y='277'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_3' />
+    <tag k='reception_room_vertex' v='reception_room_vertex_D' />
+  </node>
+  <node x='326' y='233'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_4' />
+    <tag k='reception_room_vertex' v='reception_room_vertex_C' />
+  </node>
+  <node x='231' y='234'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_5' />
+    <tag k='reception_room_vertex' v='reception_room_vertex_B' />
+  </node>
+  <node x='326' y='254'>
+<tag k='door' v='reception_room_door' />
+  </node>
+<reception-room>
+    <nd ref='reception_room_vertex_A' />
+    <nd ref='reception_room_vertex_D' />
+    <nd ref='reception_room_vertex_C' />
+    <nd ref='reception_room_vertex_B' />
+</reception-room>
+
+<location_name: women's-restroom-A>
+<!-- The following points form the location: women's-restroom-A -->
+  <node x='231' y='170'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_6' />
+    <tag k='women's_restroom_A_vertex' v='women's_restroom_A_vertex_A' />
+  </node>
+  <node x='289' y='170'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_7' />
+    <tag k='women's_restroom_A_vertex' v='women's_restroom_A_vertex_D' />
+  </node>
+  <node x='289' y='147'>
+<tag k='men's_restroom_A_vertex' v='men's_restroom_A_vertex_D' />
+    <tag k='women's_restroom_A_vertex' v='women's_restroom_A_vertex_C' />
+  </node>
+  <node x='231' y='147'>
+<tag k='men's_restroom_A_vertex' v='men's_restroom_A_vertex_A' />
+    <tag k='women's_restroom_A_vertex' v='women's_restroom_A_vertex_B' />
+  </node>
+  <node x='289' y='156'>
+<tag k='door' v='women's_restroom_A_door' />
+  </node>
+<women's-restroom-A>
+    <nd ref='women's_restroom_A_vertex_A' />
+    <nd ref='women's_restroom_A_vertex_D' />
+    <nd ref='women's_restroom_A_vertex_C' />
+    <nd ref='women's_restroom_A_vertex_B' />
+</women's-restroom-A>
+
+<location_name: men's-restroom-A>
+<!-- The following points form the location: men's-restroom-A -->
+  <node x='289' y='147'>
+<tag k='men's_restroom_A_vertex' v='men's_restroom_A_vertex_D' />
+    <tag k='women's_restroom_A_vertex' v='women's_restroom_A_vertex_C' />
+  </node>
+  <node x='231' y='147'>
+<tag k='men's_restroom_A_vertex' v='men's_restroom_A_vertex_A' />
+    <tag k='women's_restroom_A_vertex' v='women's_restroom_A_vertex_B' />
+  </node>
+  <node x='289' y='123'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_8' />
+    <tag k='men's_restroom_A_vertex' v='men's_restroom_A_vertex_C' />
+  </node>
+  <node x='232' y='124'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_9' />
+    <tag k='men's_restroom_A_vertex' v='men's_restroom_A_vertex_B' />
+  </node>
+  <node x='289' y='134'>
+<tag k='door' v='men's_restroom_A_door' />
+  </node>
+<men's-restroom-A>
+    <nd ref='men's_restroom_A_vertex_D' />
+    <nd ref='men's_restroom_A_vertex_A' />
+    <nd ref='men's_restroom_A_vertex_C' />
+    <nd ref='men's_restroom_A_vertex_B' />
+</men's-restroom-A>
+
+<location_name: presentation-hall-B>
+<!-- The following points form the location: presentation-hall-B -->
+  <node x='342' y='97'>
+<tag k='presentation_hall_A_vertex' v='presentation_hall_A_vertex_D' />
+    <tag k='presentation_hall_B_vertex' v='presentation_hall_B_vertex_A' />
+  </node>
+  <node x='343' y='3'>
+<tag k='presentation_hall_A_vertex' v='presentation_hall_A_vertex_C' />
+    <tag k='presentation_hall_B_vertex' v='presentation_hall_B_vertex_B' />
+  </node>
+  <node x='404' y='96'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_11' />
+    <tag k='presentation_hall_B_vertex' v='presentation_hall_B_vertex_D' />
+  </node>
+  <node x='405' y='2'>
+<tag k='duty_room_vertex' v='duty_room_vertex_B' />
+    <tag k='presentation_hall_B_vertex' v='presentation_hall_B_vertex_C' />
+  </node>
+  <node x='375' y='97'>
+<tag k='door' v='presentation_hall_B_door' />
+  </node>
+  <node x='374' y='13'>
+<tag k='facility' v='presentation_hall_B_podium' />
+  </node>
+  <node x='382' y='10'>
+<tag k='facility' v='presentation_hall_B_display_screen' />
+  </node>
+  <node x='364' y='86'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='presentation_hall_B_camera_1' />
+  </node>
+  <node x='391' y='14'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='presentation_hall_B_camera_2' />
+  </node>
+  <node x='367' y='52'>
+<tag k='facility' v='presentation_hall_B_audience_chair_10' />
+  </node>
+  <node x='393' y='62'>
+<tag k='facility' v='presentation_hall_B_audience_chair_8' />
+  </node>
+  <node x='380' y='40'>
+<tag k='facility' v='presentation_hall_B_audience_chair_15' />
+  </node>
+  <node x='354' y='74'>
+<tag k='facility' v='presentation_hall_B_audience_chair_1' />
+  </node>
+  <node x='354' y='62'>
+<tag k='facility' v='presentation_hall_B_audience_chair_5' />
+  </node>
+  <node x='367' y='63'>
+<tag k='facility' v='presentation_hall_B_audience_chair_6' />
+  </node>
+  <node x='367' y='29'>
+<tag k='facility' v='presentation_hall_B_audience_chair_18' />
+  </node>
+  <node x='393' y='39'>
+<tag k='facility' v='presentation_hall_B_audience_chair_16' />
+  </node>
+  <node x='393' y='73'>
+<tag k='facility' v='presentation_hall_B_audience_chair_4' />
+  </node>
+  <node x='393' y='52'>
+<tag k='facility' v='presentation_hall_B_audience_chair_12' />
+  </node>
+  <node x='354' y='29'>
+<tag k='facility' v='presentation_hall_B_audience_chair_17' />
+  </node>
+  <node x='380' y='62'>
+<tag k='facility' v='presentation_hall_B_audience_chair_7' />
+  </node>
+  <node x='380' y='51'>
+<tag k='facility' v='presentation_hall_B_audience_chair_11' />
+  </node>
+  <node x='367' y='40'>
+<tag k='facility' v='presentation_hall_B_audience_chair_14' />
+  </node>
+  <node x='380' y='74'>
+<tag k='facility' v='presentation_hall_B_audience_chair_3' />
+  </node>
+  <node x='354' y='52'>
+<tag k='facility' v='presentation_hall_B_audience_chair_9' />
+  </node>
+  <node x='354' y='40'>
+<tag k='facility' v='presentation_hall_B_audience_chair_13' />
+  </node>
+  <node x='367' y='74'>
+<tag k='facility' v='presentation_hall_B_audience_chair_2' />
+  </node>
+  <node x='393' y='28'>
+<tag k='facility' v='presentation_hall_B_audience_chair_20' />
+  </node>
+  <node x='380' y='29'>
+<tag k='facility' v='presentation_hall_B_audience_chair_19' />
+  </node>
+<presentation-hall-B>
+    <nd ref='presentation_hall_B_vertex_A' />
+    <nd ref='presentation_hall_B_vertex_B' />
+    <nd ref='presentation_hall_B_vertex_D' />
+    <nd ref='presentation_hall_B_vertex_C' />
+</presentation-hall-B>
+
+<location_name: duty-room>
+<!-- The following points form the location: duty-room -->
+  <node x='405' y='2'>
+<tag k='duty_room_vertex' v='duty_room_vertex_B' />
+    <tag k='presentation_hall_B_vertex' v='presentation_hall_B_vertex_C' />
+  </node>
+  <node x='404' y='60'>
+<tag k='duty_room_vertex' v='duty_room_vertex_A' />
+    <tag k='hall_1F_vertex' v='hall_1F_vertex_12' />
+  </node>
+  <node x='456' y='60'>
+<tag k='duty_room_vertex' v='duty_room_vertex_D' />
+    <tag k='hall_1F_vertex' v='hall_1F_vertex_13' />
+  </node>
+  <node x='456' y='2'>
+<tag k='duty_room_vertex' v='duty_room_vertex_C' />
+    <tag k='hall_1F_vertex' v='hall_1F_vertex_14' />
+  </node>
+  <node x='456' y='28'>
+<tag k='door' v='duty_room_door' />
+  </node>
+  <node x='429' y='31'>
+<tag k='facility' v='duty_room_office_desk' />
+  </node>
+  <node x='443' y='48'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='duty_room_camera_1' />
+  </node>
+<duty-room>
+    <nd ref='duty_room_vertex_B' />
+    <nd ref='duty_room_vertex_A' />
+    <nd ref='duty_room_vertex_D' />
+    <nd ref='duty_room_vertex_C' />
+</duty-room>
+
+<location_name: rehearsal-hall>
+<!-- The following points form the location: rehearsal-hall -->
+  <node x='604' y='111'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_18' />
+    <tag k='rehearsal_hall_vertex' v='rehearsal_hall_vertex_C' />
+  </node>
+  <node x='511' y='111'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_19' />
+    <tag k='rehearsal_hall_vertex' v='rehearsal_hall_vertex_B' />
+  </node>
+  <node x='510' y='223'>
+<tag k='fire_fighting_access_1F_vertex' v='fire_fighting_access_1F_vertex_D' />
+    <tag k='rehearsal_hall_vertex' v='rehearsal_hall_vertex_A' />
+  </node>
+  <node x='603' y='222'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_23' />
+    <tag k='rehearsal_hall_vertex' v='rehearsal_hall_vertex_D' />
+  </node>
+  <node x='560' y='111'>
+<tag k='door' v='rehearsal_hall_door' />
+  </node>
+  <node x='529' y='194'>
+<tag k='facility' v='rehearsal_hall_drum_set' />
+  </node>
+  <node x='587' y='194'>
+<tag k='facility' v='rehearsal_hall_piano' />
+  </node>
+  <node x='559' y='172'>
+<tag k='facility' v='rehearsal_hall_conductor's_podium' />
+  </node>
+  <node x='576' y='213'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='rehearsal_hall_camera_1' />
+  </node>
+<rehearsal-hall>
+    <nd ref='rehearsal_hall_vertex_C' />
+    <nd ref='rehearsal_hall_vertex_B' />
+    <nd ref='rehearsal_hall_vertex_A' />
+    <nd ref='rehearsal_hall_vertex_D' />
+</rehearsal-hall>
+
+<location_name: fire-fighting-access-1F>
+<!-- The following points form the location: fire-fighting-access-1F -->
+  <node x='510' y='223'>
+<tag k='fire_fighting_access_1F_vertex' v='fire_fighting_access_1F_vertex_D' />
+    <tag k='rehearsal_hall_vertex' v='rehearsal_hall_vertex_A' />
+  </node>
+  <node x='441' y='223'>
+<tag k='fire_fighting_access_1F_vertex' v='fire_fighting_access_1F_vertex_A' />
+    <tag k='hall_1F_vertex' v='hall_1F_vertex_22' />
+  </node>
+  <node x='442' y='161'>
+<tag k='fire_fighting_access_1F_vertex' v='fire_fighting_access_1F_vertex_B' />
+    <tag k='hall_1F_vertex' v='hall_1F_vertex_21' />
+  </node>
+  <node x='511' y='161'>
+<tag k='fire_fighting_access_1F_vertex' v='fire_fighting_access_1F_vertex_C' />
+    <tag k='hall_1F_vertex' v='hall_1F_vertex_20' />
+  </node>
+  <node x='479' y='161'>
+<tag k='door' v='fire_fighting_access_1F_door' />
+  </node>
+<fire-fighting-access-1F>
+    <nd ref='fire_fighting_access_1F_vertex_D' />
+    <nd ref='fire_fighting_access_1F_vertex_A' />
+    <nd ref='fire_fighting_access_1F_vertex_B' />
+    <nd ref='fire_fighting_access_1F_vertex_C' />
+</fire-fighting-access-1F>
+
+<location_name: sports-space>
+<!-- The following points form the location: sports-space -->
+  <node x='427' y='322'>
+<tag k='lounge_vertex' v='lounge_vertex_D' />
+    <tag k='sports_space_vertex' v='sports_space_vertex_A' />
+  </node>
+  <node x='428' y='260'>
+<tag k='lounge_vertex' v='lounge_vertex_C' />
+    <tag k='sports_space_vertex' v='sports_space_vertex_B' />
+  </node>
+  <node x='524' y='322'>
+<tag k='dance_studio_vertex' v='dance_studio_vertex_A' />
+    <tag k='sports_space_vertex' v='sports_space_vertex_D' />
+  </node>
+  <node x='524' y='259'>
+<tag k='dance_studio_vertex' v='dance_studio_vertex_B' />
+    <tag k='sports_space_vertex' v='sports_space_vertex_C' />
+  </node>
+  <node x='479' y='259'>
+<tag k='door' v='sports_space_door' />
+  </node>
+  <node x='448' y='305'>
+<tag k='facility' v='sports_space_treadmill_1' />
+  </node>
+  <node x='461' y='305'>
+<tag k='facility' v='sports_space_treadmill_2' />
+  </node>
+  <node x='473' y='305'>
+<tag k='facility' v='sports_space_treadmill_3' />
+  </node>
+  <node x='486' y='305'>
+<tag k='facility' v='sports_space_treadmill_4' />
+  </node>
+  <node x='498' y='305'>
+<tag k='facility' v='sports_space_treadmill_5' />
+  </node>
+  <node x='509' y='304'>
+<tag k='facility' v='sports_space_treadmill_6' />
+  </node>
+  <node x='447' y='286'>
+<tag k='facility' v='sports_space_exercise_bike_1' />
+  </node>
+  <node x='461' y='286'>
+<tag k='facility' v='sports_space_exercise_bike_2' />
+  </node>
+  <node x='473' y='285'>
+<tag k='facility' v='sports_space_exercise_bike_3' />
+  </node>
+  <node x='485' y='285'>
+<tag k='facility' v='sports_space_exercise_bike_4' />
+  </node>
+  <node x='497' y='284'>
+<tag k='facility' v='sports_space_exercise_bike_5' />
+  </node>
+  <node x='508' y='284'>
+<tag k='facility' v='sports_space_exercise_bike_6' />
+  </node>
+  <node x='514' y='314'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='sports_space_camera_1' />
+  </node>
+<sports-space>
+    <nd ref='sports_space_vertex_A' />
+    <nd ref='sports_space_vertex_B' />
+    <nd ref='sports_space_vertex_D' />
+    <nd ref='sports_space_vertex_C' />
+</sports-space>
+
+<location_name: lounge>
+<!-- The following points form the location: lounge -->
+  <node x='427' y='322'>
+<tag k='lounge_vertex' v='lounge_vertex_D' />
+    <tag k='sports_space_vertex' v='sports_space_vertex_A' />
+  </node>
+  <node x='428' y='260'>
+<tag k='lounge_vertex' v='lounge_vertex_C' />
+    <tag k='sports_space_vertex' v='sports_space_vertex_B' />
+  </node>
+  <node x='349' y='322'>
+<tag k='lounge_vertex' v='lounge_vertex_A' />
+    <tag k='storage_room_vertex' v='storage_room_vertex_B' />
+  </node>
+  <node x='350' y='260'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_25' />
+    <tag k='lounge_vertex' v='lounge_vertex_B' />
+  </node>
+  <node x='388' y='260'>
+<tag k='door' v='lounge_door' />
+  </node>
+  <node x='364' y='305'>
+<tag k='facility' v='lounge_sofa_1' />
+  </node>
+  <node x='379' y='304'>
+<tag k='facility' v='lounge_sofa_2' />
+  </node>
+  <node x='395' y='304'>
+<tag k='facility' v='lounge_sofa_3' />
+  </node>
+  <node x='410' y='304'>
+<tag k='facility' v='lounge_sofa_4' />
+  </node>
+  <node x='364' y='286'>
+<tag k='facility' v='lounge_sofa_5' />
+  </node>
+  <node x='379' y='285'>
+<tag k='facility' v='lounge_sofa_6' />
+  </node>
+  <node x='395' y='286'>
+<tag k='facility' v='lounge_sofa_7' />
+  </node>
+  <node x='409' y='285'>
+<tag k='facility' v='lounge_sofa_8' />
+  </node>
+  <node x='357' y='315'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='lounge_camera_1' />
+  </node>
+<lounge>
+    <nd ref='lounge_vertex_D' />
+    <nd ref='lounge_vertex_C' />
+    <nd ref='lounge_vertex_A' />
+    <nd ref='lounge_vertex_B' />
+</lounge>
+
+<location_name: dance-studio>
+<!-- The following points form the location: dance-studio -->
+  <node x='524' y='322'>
+<tag k='dance_studio_vertex' v='dance_studio_vertex_A' />
+    <tag k='sports_space_vertex' v='sports_space_vertex_D' />
+  </node>
+  <node x='524' y='259'>
+<tag k='dance_studio_vertex' v='dance_studio_vertex_B' />
+    <tag k='sports_space_vertex' v='sports_space_vertex_C' />
+  </node>
+  <node x='602' y='321'>
+<tag k='dance_studio_vertex' v='dance_studio_vertex_D' />
+    <tag k='lawn_vertex' v='lawn_vertex_C' />
+  </node>
+  <node x='603' y='259'>
+<tag k='dance_studio_vertex' v='dance_studio_vertex_C' />
+    <tag k='hall_1F_vertex' v='hall_1F_vertex_24' />
+  </node>
+  <node x='568' y='259'>
+<tag k='door' v='dance_studio_door' />
+  </node>
+<dance-studio>
+    <nd ref='dance_studio_vertex_A' />
+    <nd ref='dance_studio_vertex_B' />
+    <nd ref='dance_studio_vertex_D' />
+    <nd ref='dance_studio_vertex_C' />
+</dance-studio>
+
+<location_name: lawn>
+<!-- The following points form the location: lawn -->
+  <node x='602' y='321'>
+<tag k='dance_studio_vertex' v='dance_studio_vertex_D' />
+    <tag k='lawn_vertex' v='lawn_vertex_C' />
+  </node>
+  <node x='601' y='472'>
+<tag k='lawn_vertex' v='lawn_vertex_D' />
+  </node>
+  <node x='490' y='322'>
+<tag k='lawn_vertex' v='lawn_vertex_B' />
+    <tag k='storage_room_vertex' v='storage_room_vertex_C' />
+  </node>
+  <node x='429' y='473'>
+<tag k='lawn_vertex' v='lawn_vertex_A' />
+    <tag k='storage_room_vertex' v='storage_room_vertex_D' />
+  </node>
+  <node x='463' y='390'>
+<tag k='door' v='door_between_storage_room_and_lawn' />
+  </node>
+<lawn>
+    <nd ref='lawn_vertex_C' />
+    <nd ref='lawn_vertex_D' />
+    <nd ref='lawn_vertex_B' />
+    <nd ref='lawn_vertex_A' />
+</lawn>
+
+<location_name: storage-room>
+<!-- The following points form the location: storage-room -->
+  <node x='349' y='322'>
+<tag k='lounge_vertex' v='lounge_vertex_A' />
+    <tag k='storage_room_vertex' v='storage_room_vertex_B' />
+  </node>
+  <node x='348' y='474'>
+<tag k='hall_1F_vertex' v='hall_1F_vertex_26' />
+    <tag k='storage_room_vertex' v='storage_room_vertex_A' />
+  </node>
+  <node x='490' y='322'>
+<tag k='lawn_vertex' v='lawn_vertex_B' />
+    <tag k='storage_room_vertex' v='storage_room_vertex_C' />
+  </node>
+  <node x='429' y='473'>
+<tag k='lawn_vertex' v='lawn_vertex_A' />
+    <tag k='storage_room_vertex' v='storage_room_vertex_D' />
+  </node>
+  <node x='349' y='394'>
+<tag k='door' v='storage_room_main_door' />
+  </node>
+  <node x='463' y='390'>
+<tag k='door' v='door_between_storage_room_and_lawn' />
+  </node>
+  <node x='379' y='449'>
+<tag k='facility' v='storage_room_storage_cabinet_1' />
+  </node>
+  <node x='394' y='449'>
+<tag k='facility' v='storage_room_storage_cabinet_2' />
+  </node>
+  <node x='410' y='449'>
+<tag k='facility' v='storage_room_storage_cabinet_3' />
+  </node>
+  <node x='425' y='449'>
+<tag k='facility' v='storage_room_storage_cabinet_4' />
+  </node>
+  <node x='379' y='437'>
+<tag k='facility' v='storage_room_storage_cabinet_5' />
+  </node>
+  <node x='394' y='437'>
+<tag k='facility' v='storage_room_storage_cabinet_6' />
+  </node>
+  <node x='410' y='436'>
+<tag k='facility' v='storage_room_storage_cabinet_7' />
+  </node>
+  <node x='425' y='436'>
+<tag k='facility' v='storage_room_storage_cabinet_8' />
+  </node>
+  <node x='379' y='426'>
+<tag k='facility' v='storage_room_storage_cabinet_9' />
+  </node>
+  <node x='394' y='426'>
+<tag k='facility' v='storage_room_storage_cabinet_10' />
+  </node>
+  <node x='410' y='425'>
+<tag k='facility' v='storage_room_storage_cabinet_11' />
+  </node>
+  <node x='425' y='425'>
+<tag k='facility' v='storage_room_storage_cabinet_12' />
+  </node>
+  <node x='380' y='414'>
+<tag k='facility' v='storage_room_storage_cabinet_13' />
+  </node>
+  <node x='394' y='414'>
+<tag k='facility' v='storage_room_storage_cabinet_14' />
+  </node>
+  <node x='410' y='414'>
+<tag k='facility' v='storage_room_storage_cabinet_15' />
+  </node>
+  <node x='425' y='414'>
+<tag k='facility' v='storage_room_storage_cabinet_16' />
+  </node>
+  <node x='380' y='403'>
+<tag k='facility' v='storage_room_storage_cabinet_17' />
+  </node>
+  <node x='395' y='403'>
+<tag k='facility' v='storage_room_storage_cabinet_18' />
+  </node>
+  <node x='411' y='403'>
+<tag k='facility' v='storage_room_storage_cabinet_19' />
+  </node>
+  <node x='425' y='402'>
+<tag k='facility' v='storage_room_storage_cabinet_20' />
+  </node>
+  <node x='380' y='390'>
+<tag k='facility' v='storage_room_storage_cabinet_21' />
+  </node>
+  <node x='395' y='390'>
+<tag k='facility' v='storage_room_storage_cabinet_22' />
+  </node>
+  <node x='410' y='390'>
+<tag k='facility' v='storage_room_storage_cabinet_23' />
+  </node>
+  <node x='425' y='390'>
+<tag k='facility' v='storage_room_storage_cabinet_24' />
+  </node>
+  <node x='380' y='378'>
+<tag k='facility' v='storage_room_storage_cabinet_25' />
+  </node>
+  <node x='395' y='378'>
+<tag k='facility' v='storage_room_storage_cabinet_26' />
+  </node>
+  <node x='411' y='377'>
+<tag k='facility' v='storage_room_storage_cabinet_27' />
+  </node>
+  <node x='425' y='377'>
+<tag k='facility' v='storage_room_storage_cabinet_28' />
+  </node>
+  <node x='380' y='365'>
+<tag k='facility' v='storage_room_storage_cabinet_29' />
+  </node>
+  <node x='395' y='365'>
+<tag k='facility' v='storage_room_storage_cabinet_30' />
+  </node>
+  <node x='411' y='365'>
+<tag k='facility' v='storage_room_storage_cabinet_31' />
+  </node>
+  <node x='425' y='364'>
+<tag k='facility' v='storage_room_storage_cabinet_32' />
+  </node>
+  <node x='380' y='353'>
+<tag k='facility' v='storage_room_storage_cabinet_33' />
+  </node>
+  <node x='395' y='353'>
+<tag k='facility' v='storage_room_storage_cabinet_34' />
+  </node>
+  <node x='411' y='352'>
+<tag k='facility' v='storage_room_storage_cabinet_35' />
+  </node>
+  <node x='425' y='352'>
+<tag k='facility' v='storage_room_storage_cabinet_36' />
+  </node>
+  <node x='380' y='340'>
+<tag k='facility' v='storage_room_storage_cabinet_37' />
+  </node>
+  <node x='395' y='340'>
+<tag k='facility' v='storage_room_storage_cabinet_38' />
+  </node>
+  <node x='411' y='340'>
+<tag k='facility' v='storage_room_storage_cabinet_39' />
+  </node>
+  <node x='426' y='340'>
+<tag k='facility' v='storage_room_storage_cabinet_40' />
+  </node>
+  <node x='404' y='430'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='storage_room_camera_1' />
+  </node>
+  <node x='403' y='357'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='storage_room_camera_2' />
+  </node>
+<storage-room>
+    <nd ref='storage_room_vertex_B' />
+    <nd ref='storage_room_vertex_A' />
+    <nd ref='storage_room_vertex_C' />
+    <nd ref='storage_room_vertex_D' />
+</storage-room>
+
+

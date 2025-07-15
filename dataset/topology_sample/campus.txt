@@ -1,0 +1,3612 @@
+<location_name: track-and-field-ground>
+<!-- The following points form the location: track-and-field-ground -->
+  <node x='202' y='1044'>
+<tag k='track_and_field_ground_vertex' v='track_and_field_ground_vertex_1' />
+  </node>
+  <node x='208' y='1057'>
+<tag k='track_and_field_ground_vertex' v='track_and_field_ground_vertex_20' />
+  </node>
+  <node x='221' y='1067'>
+<tag k='track_and_field_ground_vertex' v='track_and_field_ground_vertex_19' />
+  </node>
+  <node x='238' y='1075'>
+<tag k='track_and_field_ground_vertex' v='track_and_field_ground_vertex_18' />
+  </node>
+  <node x='257' y='1078'>
+<tag k='track_and_field_ground_vertex' v='track_and_field_ground_vertex_17' />
+  </node>
+  <node x='277' y='1078'>
+<tag k='track_and_field_ground_vertex' v='track_and_field_ground_vertex_16' />
+  </node>
+  <node x='294' y='1074'>
+<tag k='track_and_field_ground_vertex' v='track_and_field_ground_vertex_15' />
+  </node>
+  <node x='309' y='1069'>
+<tag k='track_and_field_ground_vertex' v='track_and_field_ground_vertex_14' />
+  </node>
+  <node x='322' y='1058'>
+<tag k='track_and_field_ground_vertex' v='track_and_field_ground_vertex_13' />
+  </node>
+  <node x='329' y='1044'>
+<tag k='track_and_field_ground_vertex' v='track_and_field_ground_vertex_12' />
+  </node>
+  <node x='330' y='881'>
+<tag k='track_and_field_ground_vertex' v='track_and_field_ground_vertex_11' />
+  </node>
+  <node x='324' y='867'>
+<tag k='track_and_field_ground_vertex' v='track_and_field_ground_vertex_10' />
+  </node>
+  <node x='311' y='854'>
+<tag k='track_and_field_ground_vertex' v='track_and_field_ground_vertex_9' />
+  </node>
+  <node x='296' y='847'>
+<tag k='track_and_field_ground_vertex' v='track_and_field_ground_vertex_8' />
+  </node>
+  <node x='277' y='845'>
+<tag k='track_and_field_ground_vertex' v='track_and_field_ground_vertex_7' />
+  </node>
+  <node x='243' y='848'>
+<tag k='track_and_field_ground_vertex' v='track_and_field_ground_vertex_5' />
+  </node>
+  <node x='228' y='854'>
+<tag k='track_and_field_ground_vertex' v='track_and_field_ground_vertex_4' />
+  </node>
+  <node x='212' y='866'>
+<tag k='track_and_field_ground_vertex' v='track_and_field_ground_vertex_3' />
+  </node>
+  <node x='204' y='881'>
+<tag k='track_and_field_ground_vertex' v='track_and_field_ground_vertex_2' />
+  </node>
+  <node x='258' y='845'>
+<tag k='track_and_field_ground_vertex' v='track_and_field_ground_vertex_6' />
+  </node>
+  <node x='210' y='886'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='track-and-field ground_camera_1' />
+  </node>
+  <node x='319' y='1051'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='track-and-field ground_camera_2' />
+  </node>
+<track-and-field-ground>
+    <nd ref='track_and_field_ground_vertex_1' />
+    <nd ref='track_and_field_ground_vertex_20' />
+    <nd ref='track_and_field_ground_vertex_19' />
+    <nd ref='track_and_field_ground_vertex_18' />
+    <nd ref='track_and_field_ground_vertex_17' />
+    <nd ref='track_and_field_ground_vertex_16' />
+    <nd ref='track_and_field_ground_vertex_15' />
+    <nd ref='track_and_field_ground_vertex_14' />
+    <nd ref='track_and_field_ground_vertex_13' />
+    <nd ref='track_and_field_ground_vertex_12' />
+    <nd ref='track_and_field_ground_vertex_11' />
+    <nd ref='track_and_field_ground_vertex_10' />
+    <nd ref='track_and_field_ground_vertex_9' />
+    <nd ref='track_and_field_ground_vertex_8' />
+    <nd ref='track_and_field_ground_vertex_7' />
+    <nd ref='track_and_field_ground_vertex_5' />
+    <nd ref='track_and_field_ground_vertex_4' />
+    <nd ref='track_and_field_ground_vertex_3' />
+    <nd ref='track_and_field_ground_vertex_2' />
+    <nd ref='track_and_field_ground_vertex_6' />
+</track-and-field-ground>
+
+<location_name: football-field>
+<!-- The following points form the location: football-field -->
+  <node x='223' y='1044'>
+<tag k='football_field_vertex' v='football_field_vertex_1' />
+  </node>
+  <node x='225' y='881'>
+<tag k='football_field_vertex' v='football_field_vertex_2' />
+  </node>
+  <node x='312' y='881'>
+<tag k='football_field_vertex' v='football_field_vertex_3' />
+  </node>
+  <node x='311' y='1044'>
+<tag k='football_field_vertex' v='football_field_vertex_4' />
+  </node>
+<football-field>
+    <nd ref='football_field_vertex_1' />
+    <nd ref='football_field_vertex_2' />
+    <nd ref='football_field_vertex_3' />
+    <nd ref='football_field_vertex_4' />
+</football-field>
+
+<location_name: track-and-field-ground-stand-north>
+<!-- The following points form the location: track-and-field-ground-stand-north -->
+  <node x='145' y='989'>
+<tag k='rostrum_vertex' v='rostrum_vertex_1' />
+    <tag k='track_and_field_ground_stand_north_vertex' v='track_and_field_ground_stand_north_vertex_2' />
+  </node>
+  <node x='173' y='1051'>
+<tag k='track_and_field_ground_stand_north_vertex' v='track_and_field_ground_stand_north_vertex_4' />
+  </node>
+  <node x='144' y='1051'>
+<tag k='track_and_field_ground_stand_north_vertex' v='track_and_field_ground_stand_north_vertex_1' />
+  </node>
+  <node x='173' y='989'>
+<tag k='track_and_field_ground_stand_north_vertex' v='track_and_field_ground_stand_north_vertex_3' />
+  </node>
+  <node x='160' y='989'>
+<tag k='door' v='rostrum_left_door & track-and-field_ground_stand_nouth_door' />
+  </node>
+  <node x='162' y='1033'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='track-and-field_ground_stand_north_camera_1' />
+  </node>
+<track-and-field-ground-stand-north>
+    <nd ref='track_and_field_ground_stand_north_vertex_2' />
+    <nd ref='track_and_field_ground_stand_north_vertex_4' />
+    <nd ref='track_and_field_ground_stand_north_vertex_1' />
+    <nd ref='track_and_field_ground_stand_north_vertex_3' />
+</track-and-field-ground-stand-north>
+
+<location_name: rostrum>
+<!-- The following points form the location: rostrum -->
+  <node x='145' y='989'>
+<tag k='rostrum_vertex' v='rostrum_vertex_1' />
+    <tag k='track_and_field_ground_stand_north_vertex' v='track_and_field_ground_stand_north_vertex_2' />
+  </node>
+  <node x='185' y='989'>
+<tag k='rostrum_vertex' v='rostrum_vertex_4' />
+  </node>
+  <node x='185' y='953'>
+<tag k='rostrum_vertex' v='rostrum_vertex_3' />
+  </node>
+  <node x='145' y='953'>
+<tag k='rostrum_vertex' v='rostrum_vertex_2' />
+    <tag k='track_and_field_ground_stand_south_vertex' v='track_and_field_ground_stand_south_vertex_1' />
+  </node>
+  </node>
+  <node x='160' y='989'>
+<tag k='door' v='rostrum_left_door & track-and-field_ground_stand_nouth_door' />
+  </node>
+  <node x='160' y='953'>
+<tag k='door' v='rostrum_right_door & track-and-field_ground_stand_south_door' />
+  </node>
+  <node x='167' y='970'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='rostrum_camera_1' />
+  </node>
+<rostrum>
+    <nd ref='rostrum_vertex_1' />
+    <nd ref='rostrum_vertex_4' />
+    <nd ref='rostrum_vertex_3' />
+    <nd ref='rostrum_vertex_2' />
+</rostrum>
+
+<location_name: track-and-field-ground-stand-south>
+<!-- The following points form the location: track-and-field-ground-stand-south -->
+  <node x='145' y='953'>
+<tag k='rostrum_vertex' v='rostrum_vertex_2' />
+    <tag k='track_and_field_ground_stand_south_vertex' v='track_and_field_ground_stand_south_vertex_1' />
+  </node>
+  <node x='146' y='874'>
+<tag k='track_and_field_ground_stand_south_vertex' v='track_and_field_ground_stand_south_vertex_2' />
+  </node>
+  <node x='174' y='874'>
+<tag k='track_and_field_ground_stand_south_vertex' v='track_and_field_ground_stand_south_vertex_3' />
+  </node>
+  <node x='173' y='953'>
+<tag k='track_and_field_ground_stand_south_vertex' v='track_and_field_ground_stand_south_vertex_4' />
+  </node>
+  <node x='160' y='953'>
+<tag k='door' v='rostrum_right_door & track-and-field_ground_stand_south_door' />
+  </node>
+  <node x='162' y='899'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='track-and-field_ground_stand_south_camera_1' />
+  </node>
+<track-and-field-ground-stand-south>
+    <nd ref='track_and_field_ground_stand_south_vertex_1' />
+    <nd ref='track_and_field_ground_stand_south_vertex_2' />
+    <nd ref='track_and_field_ground_stand_south_vertex_3' />
+    <nd ref='track_and_field_ground_stand_south_vertex_4' />
+</track-and-field-ground-stand-south>
+
+<location_name: car-park-1>
+<!-- The following points form the location: car-park-1 -->
+  <node x='106' y='839'>
+<tag k='car_park_1_vertex' v='car_park_1_vertex_1' />
+  </node>
+  <node x='180' y='839'>
+<tag k='car_park_1_vertex' v='car_park_1_vertex_4' />
+  </node>
+  <node x='180' y='797'>
+<tag k='car_park_1_vertex' v='car_park_1_vertex_3' />
+  </node>
+  <node x='106' y='798'>
+<tag k='car_park_1_vertex' v='car_park_1_vertex_2' />
+  </node>
+  <node x='174' y='797'>
+<tag k='Ankang_side_road_1_vertex' v='Ankang_side_road_1_vertex_1' />
+    <tag k='door' v='car_park_1_front_door' />
+  </node>
+  <node x='113' y='798'>
+<tag k='Liyuan_road_vertex' v='Liyuan_road_vertex_1' />
+    <tag k='door' v='car_park_1_back_door' />
+  </node>
+  <node x='142' y='819'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='car_park_1_camera_1' />
+  </node>
+<car-park-1>
+    <nd ref='car_park_1_vertex_1' />
+    <nd ref='car_park_1_vertex_4' />
+    <nd ref='car_park_1_vertex_3' />
+    <nd ref='car_park_1_vertex_2' />
+</car-park-1>
+
+<location_name: car-park-2>
+<!-- The following points form the location: car-park-2 -->
+  <node x='131' y='1096'>
+<tag k='car_park_2_vertex' v='car_park_2_vertex_2' />
+  </node>
+  <node x='170' y='1096'>
+<tag k='car_park_2_vertex' v='car_park_2_vertex_3' />
+  </node>
+  <node x='170' y='1164'>
+<tag k='car_park_2_vertex' v='car_park_2_vertex_4' />
+  </node>
+  <node x='131' y='1164'>
+<tag k='car_park_2_vertex' v='car_park_2_vertex_1' />
+  </node>
+  <node x='170' y='1131'>
+<tag k='Qinghe_road_vertex' v='Qinghe_road_vertex_1' />
+    <tag k='door' v='car_park_2_front_door' />
+  </node>
+  <node x='131' y='1131'>
+<tag k='Jiyuan_road_vertex' v='Jiyuan_road_vertex_1' />
+    <tag k='door' v='car_park_2_back_door' />
+  </node>
+  <node x='153' y='1131'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='car_park_2_camera_1' />
+  </node>
+<car-park-2>
+    <nd ref='car_park_2_vertex_2' />
+    <nd ref='car_park_2_vertex_3' />
+    <nd ref='car_park_2_vertex_4' />
+    <nd ref='car_park_2_vertex_1' />
+</car-park-2>
+
+<location_name: playground>
+<!-- The following points form the location: playground -->
+  <node x='127' y='1067'>
+<tag k='playground_vertex' v='playground_vertex_1' />
+  </node>
+  <node x='194' y='1067'>
+<tag k='playground_vertex' v='playground_vertex_8' />
+  </node>
+  <node x='194' y='1103'>
+<tag k='playground_vertex' v='playground_vertex_7' />
+  </node>
+  <node x='351' y='1103'>
+<tag k='playground_vertex' v='playground_vertex_6' />
+  </node>
+  <node x='353' y='802'>
+<tag k='playground_vertex' v='playground_vertex_5' />
+  </node>
+  <node x='205' y='803'>
+<tag k='playground_vertex' v='playground_vertex_4' />
+  </node>
+  <node x='205' y='854'>
+<tag k='playground_vertex' v='playground_vertex_3' />
+  </node>
+  <node x='129' y='855'>
+<tag k='playground_vertex' v='playground_vertex_2' />
+  </node>
+  <node x='279' y='803'>
+<tag k='Ankang_road_vertex' v='Ankang_road_vertex_1' />
+    <tag k='door' v='playground_back_door' />
+  </node>
+  <node x='352' y='943'>
+<tag k='Xingyun_road_vertex' v='Xingyun_road_vertex_1' />
+    <tag k='door' v='playground_front_door' />
+  </node>
+<playground>
+    <nd ref='playground_vertex_1' />
+    <nd ref='playground_vertex_8' />
+    <nd ref='playground_vertex_7' />
+    <nd ref='playground_vertex_6' />
+    <nd ref='playground_vertex_5' />
+    <nd ref='playground_vertex_4' />
+    <nd ref='playground_vertex_3' />
+    <nd ref='playground_vertex_2' />
+</playground>
+
+<location_name: outdoor-volleyball-court-1>
+<!-- The following points form the location: outdoor-volleyball-court-1 -->
+  <node x='217' y='767'>
+<tag k='outdoor_volleyball_court_1_vertex' v='outdoor_volleyball_court_1_vertex_A' />
+  </node>
+  <node x='217' y='721'>
+<tag k='outdoor_volleyball_court_1_vertex' v='outdoor_volleyball_court_1_vertex_B' />
+  </node>
+  <node x='292' y='721'>
+<tag k='outdoor_volleyball_court_1_vertex' v='outdoor_volleyball_court_1_vertex_C' />
+  </node>
+  <node x='292' y='767'>
+<tag k='outdoor_volleyball_court_1_vertex' v='outdoor_volleyball_court_1_vertex_C' />
+  </node>
+  <node x='260' y='721'>
+<tag k='Ankang_side_road_2_vertex' v='Ankang_side_road_2_vertex_1' />
+    <tag k='door' v='outdoor_volleyball_court_1_door' />
+  </node>
+  <node x='263' y='762'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='outdoor_volleyball_court_1_camera_1' />
+  </node>
+  </node>
+  <node x='241' y='729'>
+<tag k='outdoor_volleyball_court_1_court_1_vertex' v='outdoor_volleyball_court_1_court_1_vertex_3' />
+  </node>
+  <node x='219' y='729'>
+<tag k='outdoor_volleyball_court_1_court_1_vertex' v='outdoor_volleyball_court_1_court_1_vertex_2' />
+  </node>
+  <node x='219' y='758'>
+<tag k='outdoor_volleyball_court_1_court_1_vertex' v='outdoor_volleyball_court_1_court_1_vertex_1' />
+  </node>
+  <node x='241' y='758'>
+<tag k='outdoor_volleyball_court_1_court_1_vertex' v='outdoor_volleyball_court_1_court_1_vertex_4' />
+  </node>
+<outdoor-volleyball-court-1-court-1>
+    <nd ref='outdoor_volleyball_court_1_court_1_vertex_3' />
+    <nd ref='outdoor_volleyball_court_1_court_1_vertex_2' />
+    <nd ref='outdoor_volleyball_court_1_court_1_vertex_1' />
+    <nd ref='outdoor_volleyball_court_1_court_1_vertex_4' />
+</outdoor-volleyball-court-1-court-1>
+  <node x='243' y='758'>
+<tag k='outdoor_volleyball_court_1_court_2_vertex' v='outdoor_volleyball_court_1_court_2_vertex_1' />
+  </node>
+  <node x='266' y='729'>
+<tag k='outdoor_volleyball_court_1_court_2_vertex' v='outdoor_volleyball_court_1_court_2_vertex_3' />
+  </node>
+  <node x='244' y='729'>
+<tag k='outdoor_volleyball_court_1_court_2_vertex' v='outdoor_volleyball_court_1_court_2_vertex_2' />
+  </node>
+  <node x='266' y='758'>
+<tag k='outdoor_volleyball_court_1_court_2_vertex' v='outdoor_volleyball_court_1_court_2_vertex_4' />
+  </node>
+<outdoor-volleyball-court-1-court-2>
+    <nd ref='outdoor_volleyball_court_1_court_2_vertex_1' />
+    <nd ref='outdoor_volleyball_court_1_court_2_vertex_3' />
+    <nd ref='outdoor_volleyball_court_1_court_2_vertex_2' />
+    <nd ref='outdoor_volleyball_court_1_court_2_vertex_4' />
+</outdoor-volleyball-court-1-court-2>
+  <node x='290' y='729'>
+<tag k='outdoor_volleyball_court_1_court_3_vertex' v='outdoor_volleyball_court_1_court_3_vertex_3' />
+  </node>
+  <node x='268' y='729'>
+<tag k='outdoor_volleyball_court_1_court_3_vertex' v='outdoor_volleyball_court_1_court_3_vertex_2' />
+  </node>
+  <node x='290' y='758'>
+<tag k='outdoor_volleyball_court_1_court_3_vertex' v='outdoor_volleyball_court_1_court_3_vertex_4' />
+  </node>
+  <node x='268' y='758'>
+<tag k='outdoor_volleyball_court_1_court_3_vertex' v='outdoor_volleyball_court_1_court_3_vertex_1' />
+  </node>
+<outdoor-volleyball-court-1-court-3>
+    <nd ref='outdoor_volleyball_court_1_court_3_vertex_3' />
+    <nd ref='outdoor_volleyball_court_1_court_3_vertex_2' />
+    <nd ref='outdoor_volleyball_court_1_court_3_vertex_4' />
+    <nd ref='outdoor_volleyball_court_1_court_3_vertex_1' />
+</outdoor-volleyball-court-1-court-3>
+<outdoor-volleyball-court-1>
+    <nd ref='outdoor_volleyball_court_1_vertex_A' />
+    <nd ref='outdoor_volleyball_court_1_vertex_B' />
+    <nd ref='outdoor_volleyball_court_1_vertex_C' />
+    <nd ref='outdoor_volleyball_court_1_vertex_C' />
+</outdoor-volleyball-court-1>
+
+<location_name: outdoor-volleyball-court-2>
+<!-- The following points form the location: outdoor-volleyball-court-2 -->
+  <node x='108' y='775'>
+<tag k='outdoor_volleyball_court_2_vertex' v='outdoor_volleyball_court_2_vertex_1' />
+  </node>
+  <node x='108' y='726'>
+<tag k='outdoor_volleyball_court_2_vertex' v='outdoor_volleyball_court_2_vertex_2' />
+  </node>
+  <node x='165' y='726'>
+<tag k='outdoor_volleyball_court_2_vertex' v='outdoor_volleyball_court_2_vertex_3' />
+  </node>
+  <node x='165' y='775'>
+<tag k='outdoor_volleyball_court_2_vertex' v='outdoor_volleyball_court_2_vertex_4' />
+  </node>
+  <node x='165' y='750'>
+<tag k='Xinguang_road_vertex' v='Xinguang_road_vertex_1' />
+    <tag k='door' v='outdoor_volleyball_court_2_door' />
+  </node>
+  <node x='138' y='768'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='outdoor_volleyball_court_2_camera_1' />
+  </node>
+  <node x='112' y='734'>
+<tag k='outdoor_volleyball_court_2_court_1_vertex' v='outdoor_volleyball_court_2_court_1_vertex_2' />
+  </node>
+  <node x='135' y='764'>
+<tag k='outdoor_volleyball_court_2_court_1_vertex' v='outdoor_volleyball_court_2_court_1_vertex_4' />
+  </node>
+  <node x='135' y='734'>
+<tag k='outdoor_volleyball_court_2_court_1_vertex' v='outdoor_volleyball_court_2_court_1_vertex_3' />
+  </node>
+  <node x='112' y='764'>
+<tag k='outdoor_volleyball_court_2_court_1_vertex' v='outdoor_volleyball_court_2_court_1_vertex_1' />
+  </node>
+<outdoor-volleyball-court-2-court-1>
+    <nd ref='outdoor_volleyball_court_2_court_1_vertex_2' />
+    <nd ref='outdoor_volleyball_court_2_court_1_vertex_4' />
+    <nd ref='outdoor_volleyball_court_2_court_1_vertex_3' />
+    <nd ref='outdoor_volleyball_court_2_court_1_vertex_1' />
+</outdoor-volleyball-court-2-court-1>
+  <node x='140' y='764'>
+<tag k='outdoor_volleyball_court_2_court_2_vertex' v='outdoor_volleyball_court_2_court_2_vertex_1' />
+  </node>
+  <node x='162' y='734'>
+<tag k='outdoor_volleyball_court_2_court_2_vertex' v='outdoor_volleyball_court_2_court_2_vertex_3' />
+  </node>
+  <node x='140' y='734'>
+<tag k='outdoor_volleyball_court_2_court_2_vertex' v='outdoor_volleyball_court_2_court_2_vertex_2' />
+  </node>
+  <node x='162' y='764'>
+<tag k='outdoor_volleyball_court_2_court_2_vertex' v='outdoor_volleyball_court_2_court_2_vertex_4' />
+  </node>
+<outdoor-volleyball-court-2-court-2>
+    <nd ref='outdoor_volleyball_court_2_court_2_vertex_1' />
+    <nd ref='outdoor_volleyball_court_2_court_2_vertex_3' />
+    <nd ref='outdoor_volleyball_court_2_court_2_vertex_2' />
+    <nd ref='outdoor_volleyball_court_2_court_2_vertex_4' />
+</outdoor-volleyball-court-2-court-2>
+<outdoor-volleyball-court-2>
+    <nd ref='outdoor_volleyball_court_2_vertex_1' />
+    <nd ref='outdoor_volleyball_court_2_vertex_2' />
+    <nd ref='outdoor_volleyball_court_2_vertex_3' />
+    <nd ref='outdoor_volleyball_court_2_vertex_4' />
+</outdoor-volleyball-court-2>
+
+<location_name: outdoor-volleyball-court-3>
+<!-- The following points form the location: outdoor-volleyball-court-3 -->
+  <node x='100' y='697'>
+<tag k='outdoor_volleyball_court_3_vertex' v='outdoor_volleyball_court_3_vertex_1' />
+  </node>
+  <node x='100' y='648'>
+<tag k='outdoor_volleyball_court_3_vertex' v='outdoor_volleyball_court_3_vertex_2' />
+  </node>
+  <node x='157' y='648'>
+<tag k='outdoor_volleyball_court_3_vertex' v='outdoor_volleyball_court_3_vertex_3' />
+  </node>
+  <node x='157' y='697'>
+<tag k='outdoor_volleyball_court_3_vertex' v='outdoor_volleyball_court_3_vertex_4' />
+  </node>
+  <node x='157' y='674'>
+<tag k='Xinguang_road_vertex' v='Xinguang_road_vertex_5' />
+    <tag k='door' v='outdoor_volleyball_court_3_door' />
+  </node>
+  <node x='129' y='691'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='outdoor_volleyball_court_3_camera_1' />
+  </node>
+  <node x='104' y='657'>
+<tag k='outdoor_volleyball_court_3_court_1_vertex' v='outdoor_volleyball_court_3_court_1_vertex_2' />
+  </node>
+  <node x='126' y='687'>
+<tag k='outdoor_volleyball_court_3_court_1_vertex' v='outdoor_volleyball_court_3_court_1_vertex_4' />
+  </node>
+  <node x='126' y='657'>
+<tag k='outdoor_volleyball_court_3_court_1_vertex' v='outdoor_volleyball_court_3_court_1_vertex_3' />
+  </node>
+  <node x='104' y='687'>
+<tag k='outdoor_volleyball_court_3_court_1_vertex' v='outdoor_volleyball_court_3_court_1_vertex_1' />
+  </node>
+<outdoor-volleyball-court-3-court-1>
+    <nd ref='outdoor_volleyball_court_3_court_1_vertex_2' />
+    <nd ref='outdoor_volleyball_court_3_court_1_vertex_4' />
+    <nd ref='outdoor_volleyball_court_3_court_1_vertex_3' />
+    <nd ref='outdoor_volleyball_court_3_court_1_vertex_1' />
+</outdoor-volleyball-court-3-court-1>
+  <node x='131' y='687'>
+<tag k='outdoor_volleyball_court_3_court_2_vertex' v='outdoor_volleyball_court_3_court_2_vertex_1' />
+  </node>
+  <node x='153' y='657'>
+<tag k='outdoor_volleyball_court_3_court_2_vertex' v='outdoor_volleyball_court_3_court_2_vertex_3' />
+  </node>
+  <node x='131' y='657'>
+<tag k='outdoor_volleyball_court_3_court_2_vertex' v='outdoor_volleyball_court_3_court_2_vertex_2' />
+  </node>
+  <node x='153' y='687'>
+<tag k='outdoor_volleyball_court_3_court_2_vertex' v='outdoor_volleyball_court_3_court_2_vertex_4' />
+  </node>
+<outdoor-volleyball-court-3-court-2>
+    <nd ref='outdoor_volleyball_court_3_court_2_vertex_1' />
+    <nd ref='outdoor_volleyball_court_3_court_2_vertex_3' />
+    <nd ref='outdoor_volleyball_court_3_court_2_vertex_2' />
+    <nd ref='outdoor_volleyball_court_3_court_2_vertex_4' />
+</outdoor-volleyball-court-3-court-2>
+<outdoor-volleyball-court-3>
+    <nd ref='outdoor_volleyball_court_3_vertex_1' />
+    <nd ref='outdoor_volleyball_court_3_vertex_2' />
+    <nd ref='outdoor_volleyball_court_3_vertex_3' />
+    <nd ref='outdoor_volleyball_court_3_vertex_4' />
+</outdoor-volleyball-court-3>
+
+<location_name: outdoor-volleyball-court-4>
+<!-- The following points form the location: outdoor-volleyball-court-4 -->
+  <node x='100' y='613'>
+<tag k='outdoor_volleyball_court_4_vertex' v='outdoor_volleyball_court_4_vertex_1' />
+  </node>
+  <node x='100' y='564'>
+<tag k='outdoor_volleyball_court_4_vertex' v='outdoor_volleyball_court_4_vertex_2' />
+  </node>
+  <node x='157' y='564'>
+<tag k='outdoor_volleyball_court_4_vertex' v='outdoor_volleyball_court_4_vertex_3' />
+  </node>
+  <node x='157' y='613'>
+<tag k='outdoor_volleyball_court_4_vertex' v='outdoor_volleyball_court_4_vertex_4' />
+  </node>
+  <node x='157' y='588'>
+<tag k='Shuangyong_road_vertex' v='Shuangyong_road_vertex_3' />
+    <tag k='door' v='outdoor_volleyball_court_4_door' />
+  </node>
+  <node x='130' y='607'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='outdoor_volleyball_court_4_camera_1' />
+  </node>
+  <node x='126' y='573'>
+<tag k='outdoor_volleyball_court_4_court_1_vertex' v='outdoor_volleyball_court_4_court_1_vertex_3' />
+  </node>
+  <node x='104' y='573'>
+<tag k='outdoor_volleyball_court_4_court_1_vertex' v='outdoor_volleyball_court_4_court_1_vertex_2' />
+  </node>
+  <node x='104' y='603'>
+<tag k='outdoor_volleyball_court_4_court_1_vertex' v='outdoor_volleyball_court_4_court_1_vertex_1' />
+  </node>
+  <node x='126' y='603'>
+<tag k='outdoor_volleyball_court_4_court_1_vertex' v='outdoor_volleyball_court_4_court_1_vertex_4' />
+  </node>
+<outdoor-volleyball-court-4-court-1>
+    <nd ref='outdoor_volleyball_court_4_court_1_vertex_3' />
+    <nd ref='outdoor_volleyball_court_4_court_1_vertex_2' />
+    <nd ref='outdoor_volleyball_court_4_court_1_vertex_1' />
+    <nd ref='outdoor_volleyball_court_4_court_1_vertex_4' />
+</outdoor-volleyball-court-4-court-1>
+  <node x='131' y='603'>
+<tag k='outdoor_volleyball_court_4_court_2_vertex' v='outdoor_volleyball_court_4_court_2_vertex_1' />
+  </node>
+  <node x='131' y='573'>
+<tag k='outdoor_volleyball_court_4_court_2_vertex' v='outdoor_volleyball_court_4_court_2_vertex_2' />
+  </node>
+  <node x='154' y='573'>
+<tag k='outdoor_volleyball_court_4_court_2_vertex' v='outdoor_volleyball_court_4_court_2_vertex_3' />
+  </node>
+  <node x='153' y='603'>
+<tag k='outdoor_volleyball_court_4_court_2_vertex' v='outdoor_volleyball_court_4_court_2_vertex_4' />
+  </node>
+<outdoor-volleyball-court-4-court-2>
+    <nd ref='outdoor_volleyball_court_4_court_2_vertex_1' />
+    <nd ref='outdoor_volleyball_court_4_court_2_vertex_2' />
+    <nd ref='outdoor_volleyball_court_4_court_2_vertex_3' />
+    <nd ref='outdoor_volleyball_court_4_court_2_vertex_4' />
+</outdoor-volleyball-court-4-court-2>
+<outdoor-volleyball-court-4>
+    <nd ref='outdoor_volleyball_court_4_vertex_1' />
+    <nd ref='outdoor_volleyball_court_4_vertex_2' />
+    <nd ref='outdoor_volleyball_court_4_vertex_3' />
+    <nd ref='outdoor_volleyball_court_4_vertex_4' />
+</outdoor-volleyball-court-4>
+
+<location_name: student-apartment-7>
+<!-- The following points form the location: student-apartment-7 -->
+  <node x='215' y='674'>
+<tag k='student_apartment_7_vertex' v='student_apartment_7_vertex_1' />
+  </node>
+  <node x='285' y='674'>
+<tag k='student_apartment_7_vertex' v='student_apartment_7_vertex_8' />
+  </node>
+  <node x='286' y='607'>
+<tag k='student_apartment_7_vertex' v='student_apartment_7_vertex_7' />
+  </node>
+  <node x='259' y='607'>
+<tag k='student_apartment_7_vertex' v='student_apartment_7_vertex_6' />
+  </node>
+  <node x='259' y='600'>
+<tag k='student_apartment_7_vertex' v='student_apartment_7_vertex_5' />
+  </node>
+  <node x='240' y='600'>
+<tag k='student_apartment_7_vertex' v='student_apartment_7_vertex_4' />
+  </node>
+  <node x='240' y='607'>
+<tag k='student_apartment_7_vertex' v='student_apartment_7_vertex_3' />
+  </node>
+  <node x='215' y='607'>
+<tag k='student_apartment_7_vertex' v='student_apartment_7_vertex_2' />
+  </node>
+  <node x='251' y='600'>
+<tag k='Ankang_side_road_3_vertex' v='Ankang_side_road_3_vertex_1' />
+    <tag k='door' v='student_apartment_7_door' />
+  </node>
+<student-apartment-7>
+    <nd ref='student_apartment_7_vertex_1' />
+    <nd ref='student_apartment_7_vertex_8' />
+    <nd ref='student_apartment_7_vertex_7' />
+    <nd ref='student_apartment_7_vertex_6' />
+    <nd ref='student_apartment_7_vertex_5' />
+    <nd ref='student_apartment_7_vertex_4' />
+    <nd ref='student_apartment_7_vertex_3' />
+    <nd ref='student_apartment_7_vertex_2' />
+</student-apartment-7>
+
+<location_name: student-apartment-8>
+<!-- The following points form the location: student-apartment-8 -->
+  <node x='366' y='770'>
+<tag k='student_apartment_8_vertex' v='student_apartment_8_vertex_1' />
+  </node>
+  <node x='366' y='725'>
+<tag k='student_apartment_8_vertex' v='student_apartment_8_vertex_2' />
+  </node>
+  <node x='361' y='725'>
+<tag k='student_apartment_8_vertex' v='student_apartment_8_vertex_3' />
+  </node>
+  <node x='361' y='707'>
+<tag k='student_apartment_8_vertex' v='student_apartment_8_vertex_4' />
+  </node>
+  <node x='366' y='707'>
+<tag k='student_apartment_8_vertex' v='student_apartment_8_vertex_5' />
+  </node>
+  <node x='366' y='694'>
+<tag k='student_apartment_8_vertex' v='student_apartment_8_vertex_6' />
+  </node>
+  <node x='399' y='694'>
+<tag k='student_apartment_8_vertex' v='student_apartment_8_vertex_7' />
+  </node>
+  <node x='399' y='688'>
+<tag k='student_apartment_8_vertex' v='student_apartment_8_vertex_8' />
+  </node>
+  <node x='417' y='688'>
+<tag k='student_apartment_8_vertex' v='student_apartment_8_vertex_9' />
+  </node>
+  <node x='417' y='694'>
+<tag k='student_apartment_8_vertex' v='student_apartment_8_vertex_10' />
+  </node>
+  <node x='445' y='694'>
+<tag k='student_apartment_8_vertex' v='student_apartment_8_vertex_11' />
+  </node>
+  <node x='444' y='770'>
+<tag k='student_apartment_8_vertex' v='student_apartment_8_vertex_12' />
+  </node>
+  <node x='408' y='688'>
+<tag k='Fuhui_side_road_vertex' v='Fuhui_side_road_vertex_1' />
+    <tag k='door' v='student_apartment_8_door' />
+  </node>
+<student-apartment-8>
+    <nd ref='student_apartment_8_vertex_1' />
+    <nd ref='student_apartment_8_vertex_2' />
+    <nd ref='student_apartment_8_vertex_3' />
+    <nd ref='student_apartment_8_vertex_4' />
+    <nd ref='student_apartment_8_vertex_5' />
+    <nd ref='student_apartment_8_vertex_6' />
+    <nd ref='student_apartment_8_vertex_7' />
+    <nd ref='student_apartment_8_vertex_8' />
+    <nd ref='student_apartment_8_vertex_9' />
+    <nd ref='student_apartment_8_vertex_10' />
+    <nd ref='student_apartment_8_vertex_11' />
+    <nd ref='student_apartment_8_vertex_12' />
+</student-apartment-8>
+
+<location_name: student-apartment-6>
+<!-- The following points form the location: student-apartment-6 -->
+  <node x='163' y='521'>
+<tag k='student_apartment_6_vertex' v='student_apartment_6_vertex_1' />
+  </node>
+  <node x='164' y='455'>
+<tag k='student_apartment_6_vertex' v='student_apartment_6_vertex_2' />
+  </node>
+  <node x='251' y='455'>
+<tag k='student_apartment_6_vertex' v='student_apartment_6_vertex_3' />
+  </node>
+  <node x='250' y='521'>
+<tag k='student_apartment_6_vertex' v='student_apartment_6_vertex_4' />
+  </node>
+  <node x='234' y='455'>
+<tag k='Ankang_road_vertex' v='Ankang_road_vertex_10' />
+    <tag k='door' v='student_apartment_6_door' />
+  </node>
+<student-apartment-6>
+    <nd ref='student_apartment_6_vertex_1' />
+    <nd ref='student_apartment_6_vertex_2' />
+    <nd ref='student_apartment_6_vertex_3' />
+    <nd ref='student_apartment_6_vertex_4' />
+</student-apartment-6>
+
+<location_name: student-apartment-5>
+<!-- The following points form the location: student-apartment-5 -->
+  <node x='139' y='365'>
+<tag k='student_apartment_5_vertex' v='student_apartment_5_vertex_1' />
+  </node>
+  <node x='139' y='299'>
+<tag k='student_apartment_5_vertex' v='student_apartment_5_vertex_2' />
+  </node>
+  <node x='227' y='299'>
+<tag k='student_apartment_5_vertex' v='student_apartment_5_vertex_3' />
+  </node>
+  <node x='226' y='365'>
+<tag k='student_apartment_5_vertex' v='student_apartment_5_vertex_4' />
+  </node>
+  <node x='210' y='299'>
+<tag k='Yongqing_side_road_3_vertex' v='Yongqing_side_road_3_vertex_1' />
+    <tag k='door' v='student_apartment_5_door' />
+  </node>
+<student-apartment-5>
+    <nd ref='student_apartment_5_vertex_1' />
+    <nd ref='student_apartment_5_vertex_2' />
+    <nd ref='student_apartment_5_vertex_3' />
+    <nd ref='student_apartment_5_vertex_4' />
+</student-apartment-5>
+
+<location_name: student-apartment-4>
+<!-- The following points form the location: student-apartment-4 -->
+  <node x='219' y='220'>
+<tag k='student_apartment_4_vertex' v='student_apartment_4_vertex_1' />
+  </node>
+  <node x='220' y='154'>
+<tag k='student_apartment_4_vertex' v='student_apartment_4_vertex_2' />
+  </node>
+  <node x='307' y='154'>
+<tag k='student_apartment_4_vertex' v='student_apartment_4_vertex_3' />
+  </node>
+  <node x='306' y='220'>
+<tag k='student_apartment_4_vertex' v='student_apartment_4_vertex_4' />
+  </node>
+  <node x='290' y='154'>
+<tag k='Lixiang_road_vertex' v='Lixiang_road_vertex_1' />
+    <tag k='door' v='student_apartment_4_door' />
+  </node>
+<student-apartment-4>
+    <nd ref='student_apartment_4_vertex_1' />
+    <nd ref='student_apartment_4_vertex_2' />
+    <nd ref='student_apartment_4_vertex_3' />
+    <nd ref='student_apartment_4_vertex_4' />
+</student-apartment-4>
+
+<location_name: outdoor-basketball-court>
+<!-- The following points form the location: outdoor-basketball-court -->
+  <node x='349' y='171'>
+<tag k='outdoor_basketball_court_vertex' v='outdoor_basketball_court_vertex_1' />
+  </node>
+  <node x='350' y='116'>
+<tag k='outdoor_basketball_court_vertex' v='outdoor_basketball_court_vertex_2' />
+  </node>
+  <node x='540' y='115'>
+<tag k='outdoor_basketball_court_vertex' v='outdoor_basketball_court_vertex_3' />
+  </node>
+  <node x='540' y='171'>
+<tag k='outdoor_basketball_court_vertex' v='outdoor_basketball_court_vertex_4' />
+  </node>
+  <node x='508' y='171'>
+<tag k='door' v='outdoor_basketball_court_door' />
+    <tag k='outdoor_basketball_court_road_vertex' v='outdoor_basketball_court_road_vertex_1' />
+  </node>
+  <node x='445' y='166'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='outdoor_basketball_court_camera_1' />
+  </node>
+  <node x='359' y='161'>
+<tag k='outdoor_basketball_court_court_1_vertex' v='outdoor_basketball_court_court_1_vertex_1' />
+  </node>
+  <node x='359' y='122'>
+<tag k='outdoor_basketball_court_court_1_vertex' v='outdoor_basketball_court_court_1_vertex_2' />
+  </node>
+  <node x='387' y='122'>
+<tag k='outdoor_basketball_court_court_1_vertex' v='outdoor_basketball_court_court_1_vertex_3' />
+  </node>
+  <node x='387' y='161'>
+<tag k='outdoor_basketball_court_court_1_vertex' v='outdoor_basketball_court_court_1_vertex_4' />
+  </node>
+<outdoor-basketball-court-court-1>
+    <nd ref='outdoor_basketball_court_court_1_vertex_1' />
+    <nd ref='outdoor_basketball_court_court_1_vertex_2' />
+    <nd ref='outdoor_basketball_court_court_1_vertex_3' />
+    <nd ref='outdoor_basketball_court_court_1_vertex_4' />
+</outdoor-basketball-court-court-1>
+  <node x='395' y='161'>
+<tag k='outdoor_basketball_court_court_2_vertex' v='outdoor_basketball_court_court_2_vertex_1' />
+  </node>
+  <node x='395' y='122'>
+<tag k='outdoor_basketball_court_court_2_vertex' v='outdoor_basketball_court_court_2_vertex_2' />
+  </node>
+  <node x='423' y='122'>
+<tag k='outdoor_basketball_court_court_2_vertex' v='outdoor_basketball_court_court_2_vertex_3' />
+  </node>
+  <node x='423' y='161'>
+<tag k='outdoor_basketball_court_court_2_vertex' v='outdoor_basketball_court_court_2_vertex_4' />
+  </node>
+<outdoor-basketball-court-court-2>
+    <nd ref='outdoor_basketball_court_court_2_vertex_1' />
+    <nd ref='outdoor_basketball_court_court_2_vertex_2' />
+    <nd ref='outdoor_basketball_court_court_2_vertex_3' />
+    <nd ref='outdoor_basketball_court_court_2_vertex_4' />
+</outdoor-basketball-court-court-2>
+  <node x='431' y='161'>
+<tag k='outdoor_basketball_court_court_3_vertex' v='outdoor_basketball_court_court_3_vertex_1' />
+  </node>
+  <node x='431' y='122'>
+<tag k='outdoor_basketball_court_court_3_vertex' v='outdoor_basketball_court_court_3_vertex_2' />
+  </node>
+  <node x='459' y='122'>
+<tag k='outdoor_basketball_court_court_3_vertex' v='outdoor_basketball_court_court_3_vertex_3' />
+  </node>
+  <node x='459' y='161'>
+<tag k='outdoor_basketball_court_court_3_vertex' v='outdoor_basketball_court_court_3_vertex_4' />
+  </node>
+<outdoor-basketball-court-court-3>
+    <nd ref='outdoor_basketball_court_court_3_vertex_1' />
+    <nd ref='outdoor_basketball_court_court_3_vertex_2' />
+    <nd ref='outdoor_basketball_court_court_3_vertex_3' />
+    <nd ref='outdoor_basketball_court_court_3_vertex_4' />
+</outdoor-basketball-court-court-3>
+  <node x='467' y='161'>
+<tag k='outdoor_basketball_court_court_4_vertex' v='outdoor_basketball_court_court_4_vertex_1' />
+  </node>
+  <node x='467' y='122'>
+<tag k='outdoor_basketball_court_court_4_vertex' v='outdoor_basketball_court_court_4_vertex_2' />
+  </node>
+  <node x='496' y='122'>
+<tag k='outdoor_basketball_court_court_4_vertex' v='outdoor_basketball_court_court_4_vertex_3' />
+  </node>
+  <node x='495' y='161'>
+<tag k='outdoor_basketball_court_court_4_vertex' v='outdoor_basketball_court_court_4_vertex_4' />
+  </node>
+<outdoor-basketball-court-court-4>
+    <nd ref='outdoor_basketball_court_court_4_vertex_1' />
+    <nd ref='outdoor_basketball_court_court_4_vertex_2' />
+    <nd ref='outdoor_basketball_court_court_4_vertex_3' />
+    <nd ref='outdoor_basketball_court_court_4_vertex_4' />
+</outdoor-basketball-court-court-4>
+  <node x='503' y='161'>
+<tag k='outdoor_basketball_court_court_5_vertex' v='outdoor_basketball_court_court_5_vertex_1' />
+  </node>
+  <node x='503' y='121'>
+<tag k='outdoor_basketball_court_court_5_vertex' v='outdoor_basketball_court_court_5_vertex_2' />
+  </node>
+  <node x='531' y='121'>
+<tag k='outdoor_basketball_court_court_5_vertex' v='outdoor_basketball_court_court_5_vertex_3' />
+  </node>
+  <node x='531' y='161'>
+<tag k='outdoor_basketball_court_court_5_vertex' v='outdoor_basketball_court_court_5_vertex_4' />
+  </node>
+<outdoor-basketball-court-court-5>
+    <nd ref='outdoor_basketball_court_court_5_vertex_1' />
+    <nd ref='outdoor_basketball_court_court_5_vertex_2' />
+    <nd ref='outdoor_basketball_court_court_5_vertex_3' />
+    <nd ref='outdoor_basketball_court_court_5_vertex_4' />
+</outdoor-basketball-court-court-5>
+<outdoor-basketball-court>
+    <nd ref='outdoor_basketball_court_vertex_1' />
+    <nd ref='outdoor_basketball_court_vertex_2' />
+    <nd ref='outdoor_basketball_court_vertex_3' />
+    <nd ref='outdoor_basketball_court_vertex_4' />
+</outdoor-basketball-court>
+
+<location_name: outdoor-tennis-court>
+<!-- The following points form the location: outdoor-tennis-court -->
+  <node x='569' y='86'>
+<tag k='outdoor_tennis_court_vertex' v='outdoor_tennis_court_vertex_2' />
+  </node>
+  <node x='674' y='86'>
+<tag k='outdoor_tennis_court_vertex' v='outdoor_tennis_court_vertex_3' />
+  </node>
+  <node x='674' y='172'>
+<tag k='outdoor_tennis_court_vertex' v='outdoor_tennis_court_vertex_4' />
+  </node>
+  <node x='569' y='172'>
+<tag k='outdoor_tennis_court_vertex' v='outdoor_tennis_court_vertex_1' />
+  </node>
+  <node x='595' y='172'>
+<tag k='door' v='outdoor_tennis_court_door' />
+    <tag k='outdoor_tennis_court_road_vertex' v='outdoor_tennis_court_road_vertex_1' />
+  </node>
+  <node x='622' y='128'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='outdoor_tennis_court_camera_1' />
+  </node>
+  <node x='577' y='163'>
+<tag k='outdoor_tennis_court_court_1_vertex' v='outdoor_tennis_court_court_1_vertex_1' />
+  </node>
+  <node x='577' y='133'>
+<tag k='outdoor_tennis_court_court_1_vertex' v='outdoor_tennis_court_court_1_vertex_2' />
+  </node>
+  <node x='600' y='133'>
+<tag k='outdoor_tennis_court_court_1_vertex' v='outdoor_tennis_court_court_1_vertex_3' />
+  </node>
+  <node x='600' y='163'>
+<tag k='outdoor_tennis_court_court_1_vertex' v='outdoor_tennis_court_court_1_vertex_4' />
+  </node>
+<outdoor-tennis-court-court-1>
+    <nd ref='outdoor_tennis_court_court_1_vertex_1' />
+    <nd ref='outdoor_tennis_court_court_1_vertex_2' />
+    <nd ref='outdoor_tennis_court_court_1_vertex_3' />
+    <nd ref='outdoor_tennis_court_court_1_vertex_4' />
+</outdoor-tennis-court-court-1>
+<tag k='outdoor_tennis_court_court_2_vertex' v='outdoor_tennis_court_court_2_vertex_1' />
+  </node>
+  <node x='611' y='133'>
+<tag k='outdoor_tennis_court_court_2_vertex' v='outdoor_tennis_court_court_2_vertex_2' />
+  </node>
+  <node x='634' y='133'>
+<tag k='outdoor_tennis_court_court_2_vertex' v='outdoor_tennis_court_court_2_vertex_3' />
+  </node>
+  <node x='633' y='163'>
+<tag k='outdoor_tennis_court_court_2_vertex' v='outdoor_tennis_court_court_2_vertex_4' />
+  </node>
+<outdoor-tennis-court-court-2>
+    <nd ref='outdoor_tennis_court_court_2_vertex_1' />
+    <nd ref='outdoor_tennis_court_court_2_vertex_2' />
+    <nd ref='outdoor_tennis_court_court_2_vertex_3' />
+    <nd ref='outdoor_tennis_court_court_2_vertex_4' />
+</outdoor-tennis-court-court-2>
+<tag k='outdoor_tennis_court_court_3_vertex' v='outdoor_tennis_court_court_3_vertex_1' />
+  </node>
+  <node x='645' y='133'>
+<tag k='outdoor_tennis_court_court_3_vertex' v='outdoor_tennis_court_court_3_vertex_2' />
+  </node>
+  <node x='667' y='133'>
+<tag k='outdoor_tennis_court_court_3_vertex' v='outdoor_tennis_court_court_3_vertex_3' />
+  </node>
+  <node x='667' y='163'>
+<tag k='outdoor_tennis_court_court_3_vertex' v='outdoor_tennis_court_court_3_vertex_4' />
+  </node>
+<outdoor-tennis-court-court-3>
+    <nd ref='outdoor_tennis_court_court_3_vertex_1' />
+    <nd ref='outdoor_tennis_court_court_3_vertex_2' />
+    <nd ref='outdoor_tennis_court_court_3_vertex_3' />
+    <nd ref='outdoor_tennis_court_court_3_vertex_4' />
+</outdoor-tennis-court-court-3>
+<tag k='outdoor_tennis_court_court_6_vertex' v='outdoor_tennis_court_court_6_vertex_3' />
+  </node>
+  <node x='645' y='93'>
+<tag k='outdoor_tennis_court_court_6_vertex' v='outdoor_tennis_court_court_6_vertex_2' />
+  </node>
+  <node x='667' y='123'>
+<tag k='outdoor_tennis_court_court_6_vertex' v='outdoor_tennis_court_court_6_vertex_4' />
+  </node>
+  <node x='645' y='123'>
+<tag k='outdoor_tennis_court_court_6_vertex' v='outdoor_tennis_court_court_6_vertex_1' />
+  </node>
+<outdoor-tennis-court-court-6>
+    <nd ref='outdoor_tennis_court_court_6_vertex_3' />
+    <nd ref='outdoor_tennis_court_court_6_vertex_2' />
+    <nd ref='outdoor_tennis_court_court_6_vertex_4' />
+    <nd ref='outdoor_tennis_court_court_6_vertex_1' />
+</outdoor-tennis-court-court-6>
+<tag k='outdoor_tennis_court_court_5_vertex' v='outdoor_tennis_court_court_5_vertex_1' />
+  </node>
+  <node x='634' y='93'>
+<tag k='outdoor_tennis_court_court_5_vertex' v='outdoor_tennis_court_court_5_vertex_3' />
+  </node>
+  <node x='612' y='93'>
+<tag k='outdoor_tennis_court_court_5_vertex' v='outdoor_tennis_court_court_5_vertex_2' />
+  </node>
+  <node x='634' y='123'>
+<tag k='outdoor_tennis_court_court_5_vertex' v='outdoor_tennis_court_court_5_vertex_4' />
+  </node>
+<outdoor-tennis-court-court-5>
+    <nd ref='outdoor_tennis_court_court_5_vertex_1' />
+    <nd ref='outdoor_tennis_court_court_5_vertex_3' />
+    <nd ref='outdoor_tennis_court_court_5_vertex_2' />
+    <nd ref='outdoor_tennis_court_court_5_vertex_4' />
+</outdoor-tennis-court-court-5>
+<tag k='outdoor_tennis_court_court_4_vertex' v='outdoor_tennis_court_court_4_vertex_3' />
+  </node>
+  <node x='578' y='94'>
+<tag k='outdoor_tennis_court_court_4_vertex' v='outdoor_tennis_court_court_4_vertex_2' />
+  </node>
+  <node x='578' y='123'>
+<tag k='outdoor_tennis_court_court_4_vertex' v='outdoor_tennis_court_court_4_vertex_1' />
+  </node>
+  <node x='600' y='123'>
+<tag k='outdoor_tennis_court_court_4_vertex' v='outdoor_tennis_court_court_4_vertex_4' />
+  </node>
+<outdoor-tennis-court-court-4>
+    <nd ref='outdoor_tennis_court_court_4_vertex_3' />
+    <nd ref='outdoor_tennis_court_court_4_vertex_2' />
+    <nd ref='outdoor_tennis_court_court_4_vertex_1' />
+    <nd ref='outdoor_tennis_court_court_4_vertex_4' />
+</outdoor-tennis-court-court-4>
+<outdoor-tennis-court>
+    <nd ref='outdoor_tennis_court_vertex_2' />
+    <nd ref='outdoor_tennis_court_vertex_3' />
+    <nd ref='outdoor_tennis_court_vertex_4' />
+    <nd ref='outdoor_tennis_court_vertex_1' />
+    <nd ref='outdoor_tennis_court_road_vertex_1' />
+</outdoor-tennis-court>
+
+<location_name: student-apartment-1>
+<!-- The following points form the location: student-apartment-1 -->
+  <node x='429' y='279'>
+<tag k='student_apartment_1_vertex' v='student_apartment_1_vertex_2' />
+  </node>
+  <node x='558' y='279'>
+<tag k='student_apartment_1_vertex' v='student_apartment_1_vertex_3' />
+  </node>
+  <node x='573' y='284'>
+<tag k='student_apartment_1_vertex' v='student_apartment_1_vertex_4' />
+  </node>
+  <node x='552' y='343'>
+<tag k='student_apartment_1_vertex' v='student_apartment_1_vertex_5' />
+  </node>
+  <node x='541' y='339'>
+<tag k='student_apartment_1_vertex' v='student_apartment_1_vertex_6' />
+  </node>
+  <node x='428' y='339'>
+<tag k='student_apartment_1_vertex' v='student_apartment_1_vertex_1' />
+  </node>
+  <node x='545' y='279'>
+<tag k='Heping_side_road_3_vertex' v='Heping_side_road_3_vertex_1' />
+    <tag k='door' v='student_apartment_1_door' />
+  </node>
+<student-apartment-1>
+    <nd ref='student_apartment_1_vertex_2' />
+    <nd ref='student_apartment_1_vertex_3' />
+    <nd ref='student_apartment_1_vertex_4' />
+    <nd ref='student_apartment_1_vertex_5' />
+    <nd ref='student_apartment_1_vertex_6' />
+    <nd ref='student_apartment_1_vertex_1' />
+</student-apartment-1>
+
+<location_name: student-apartment-2>
+<!-- The following points form the location: student-apartment-2 -->
+  <node x='378' y='409'>
+<tag k='student_apartment_2_vertex' v='student_apartment_2_vertex_2' />
+  </node>
+  <node x='507' y='409'>
+<tag k='student_apartment_2_vertex' v='student_apartment_2_vertex_3' />
+  </node>
+  <node x='522' y='415'>
+<tag k='student_apartment_2_vertex' v='student_apartment_2_vertex_4' />
+  </node>
+  <node x='501' y='473'>
+<tag k='student_apartment_2_vertex' v='student_apartment_2_vertex_5' />
+  </node>
+  <node x='491' y='469'>
+<tag k='student_apartment_2_vertex' v='student_apartment_2_vertex_6' />
+  </node>
+  <node x='377' y='469'>
+<tag k='student_apartment_2_vertex' v='student_apartment_2_vertex_1' />
+  </node>
+  <node x='492' y='409'>
+<tag k='Heping_side_road_2_vertex' v='Heping_side_road_2_vertex_1' />
+    <tag k='door' v='student_apartment_2_door' />
+  </node>
+<student-apartment-2>
+    <nd ref='student_apartment_2_vertex_2' />
+    <nd ref='student_apartment_2_vertex_3' />
+    <nd ref='student_apartment_2_vertex_4' />
+    <nd ref='student_apartment_2_vertex_5' />
+    <nd ref='student_apartment_2_vertex_6' />
+    <nd ref='student_apartment_2_vertex_1' />
+</student-apartment-2>
+
+<location_name: student-apartment-3>
+<!-- The following points form the location: student-apartment-3 -->
+  <node x='352' y='558'>
+<tag k='student_apartment_3_vertex' v='student_apartment_3_vertex_2' />
+  </node>
+  <node x='481' y='558'>
+<tag k='student_apartment_3_vertex' v='student_apartment_3_vertex_3' />
+  </node>
+  <node x='496' y='563'>
+<tag k='student_apartment_3_vertex' v='student_apartment_3_vertex_4' />
+  </node>
+  <node x='475' y='621'>
+<tag k='student_apartment_3_vertex' v='student_apartment_3_vertex_5' />
+  </node>
+  <node x='465' y='618'>
+<tag k='student_apartment_3_vertex' v='student_apartment_3_vertex_6' />
+  </node>
+  <node x='351' y='617'>
+<tag k='student_apartment_3_vertex' v='student_apartment_3_vertex_1' />
+  </node>
+  <node x='469' y='558'>
+<tag k='Heping_side_road_1_vertex' v='Heping_side_road_1_vertex_1' />
+    <tag k='door' v='student_apartment_3_door' />
+  </node>
+<student-apartment-3>
+    <nd ref='student_apartment_3_vertex_2' />
+    <nd ref='student_apartment_3_vertex_3' />
+    <nd ref='student_apartment_3_vertex_4' />
+    <nd ref='student_apartment_3_vertex_5' />
+    <nd ref='student_apartment_3_vertex_6' />
+    <nd ref='student_apartment_3_vertex_1' />
+</student-apartment-3>
+
+<location_name: faculty-center>
+<!-- The following points form the location: faculty-center -->
+  <node x='901' y='330'>
+<tag k='faculty_center_vertex' v='faculty_center_vertex_1' />
+  </node>
+  <node x='901' y='257'>
+<tag k='faculty_center_vertex' v='faculty_center_vertex_2' />
+  </node>
+  <node x='913' y='257'>
+<tag k='faculty_center_vertex' v='faculty_center_vertex_3' />
+  </node>
+  <node x='914' y='227'>
+<tag k='faculty_center_vertex' v='faculty_center_vertex_4' />
+  </node>
+  <node x='902' y='227'>
+<tag k='faculty_center_vertex' v='faculty_center_vertex_5' />
+  </node>
+  <node x='902' y='176'>
+<tag k='faculty_center_vertex' v='faculty_center_vertex_6' />
+  </node>
+  <node x='1039' y='176'>
+<tag k='faculty_center_vertex' v='faculty_center_vertex_7' />
+  </node>
+  <node x='1039' y='340'>
+<tag k='faculty_center_vertex' v='faculty_center_vertex_8' />
+  </node>
+  <node x='996' y='341'>
+<tag k='faculty_center_vertex' v='faculty_center_vertex_9' />
+  </node>
+  <node x='996' y='321'>
+<tag k='faculty_center_vertex' v='faculty_center_vertex_10' />
+  </node>
+  <node x='973' y='321'>
+<tag k='faculty_center_vertex' v='faculty_center_vertex_11' />
+  </node>
+  <node x='973' y='330'>
+<tag k='faculty_center_vertex' v='faculty_center_vertex_12' />
+  </node>
+  <node x='1018' y='176'>
+<tag k='door' v='faculty_center_door' />
+    <tag k='faculty_center_road_vertex' v='faculty_center_road_vertex_1' />
+  </node>
+<faculty-center>
+    <nd ref='faculty_center_vertex_1' />
+    <nd ref='faculty_center_vertex_2' />
+    <nd ref='faculty_center_vertex_3' />
+    <nd ref='faculty_center_vertex_4' />
+    <nd ref='faculty_center_vertex_5' />
+    <nd ref='faculty_center_vertex_6' />
+    <nd ref='faculty_center_vertex_7' />
+    <nd ref='faculty_center_vertex_8' />
+    <nd ref='faculty_center_vertex_9' />
+    <nd ref='faculty_center_vertex_10' />
+    <nd ref='faculty_center_vertex_11' />
+    <nd ref='faculty_center_vertex_12' />
+    <nd ref='faculty_center_road_vertex_1' />
+</faculty-center>
+
+<location_name: staff-canteen>
+<!-- The following points form the location: staff-canteen -->
+  <node x='1018' y='1123'>
+<tag k='staff_canteen_vertex' v='staff_canteen_vertex_1' />
+  </node>
+  <node x='1018' y='1041'>
+<tag k='staff_canteen_vertex' v='staff_canteen_vertex_2' />
+  </node>
+  <node x='1057' y='1041'>
+<tag k='staff_canteen_vertex' v='staff_canteen_vertex_3' />
+  </node>
+  <node x='1056' y='1123'>
+<tag k='staff_canteen_vertex' v='staff_canteen_vertex_4' />
+  </node>
+  <node x='1057' y='1087'>
+<tag k='Yuanjing_road_vertex' v='Yuanjing_road_vertex_6' />
+    <tag k='door' v='staff_canteen_door' />
+  </node>
+<staff-canteen>
+    <nd ref='staff_canteen_vertex_1' />
+    <nd ref='staff_canteen_vertex_2' />
+    <nd ref='staff_canteen_vertex_3' />
+    <nd ref='staff_canteen_vertex_4' />
+</staff-canteen>
+
+<location_name: staff-dormitory>
+<!-- The following points form the location: staff-dormitory -->
+  <node x='1012' y='996'>
+<tag k='staff_dormitory_vertex' v='staff_dormitory_vertex_1' />
+  </node>
+  <node x='1012' y='961'>
+<tag k='staff_dormitory_vertex' v='staff_dormitory_vertex_2' />
+  </node>
+  <node x='1025' y='961'>
+<tag k='staff_dormitory_vertex' v='staff_dormitory_vertex_3' />
+  </node>
+  <node x='1025' y='959'>
+<tag k='staff_dormitory_vertex' v='staff_dormitory_vertex_4' />
+  </node>
+  <node x='1087' y='959'>
+<tag k='staff_dormitory_vertex' v='staff_dormitory_vertex_5' />
+  </node>
+  <node x='1087' y='961'>
+<tag k='staff_dormitory_vertex' v='staff_dormitory_vertex_6' />
+  </node>
+  <node x='1103' y='961'>
+<tag k='staff_dormitory_vertex' v='staff_dormitory_vertex_7' />
+  </node>
+  <node x='1102' y='995'>
+<tag k='staff_dormitory_vertex' v='staff_dormitory_vertex_8' />
+  </node>
+  <node x='1087' y='995'>
+<tag k='staff_dormitory_vertex' v='staff_dormitory_vertex_9' />
+  </node>
+  <node x='1087' y='997'>
+<tag k='staff_dormitory_vertex' v='staff_dormitory_vertex_10' />
+  </node>
+  <node x='1026' y='998'>
+<tag k='staff_dormitory_vertex' v='staff_dormitory_vertex_11' />
+  </node>
+  <node x='1026' y='996'>
+<tag k='staff_dormitory_vertex' v='staff_dormitory_vertex_12' />
+  </node>
+  <node x='1056' y='959'>
+<tag k='Yuanjing_road_vertex' v='Yuanjing_road_vertex_1' />
+    <tag k='door' v='staff_dormitory_door' />
+  </node>
+<staff-dormitory>
+    <nd ref='staff_dormitory_vertex_1' />
+    <nd ref='staff_dormitory_vertex_2' />
+    <nd ref='staff_dormitory_vertex_3' />
+    <nd ref='staff_dormitory_vertex_4' />
+    <nd ref='staff_dormitory_vertex_5' />
+    <nd ref='staff_dormitory_vertex_6' />
+    <nd ref='staff_dormitory_vertex_7' />
+    <nd ref='staff_dormitory_vertex_8' />
+    <nd ref='staff_dormitory_vertex_9' />
+    <nd ref='staff_dormitory_vertex_10' />
+    <nd ref='staff_dormitory_vertex_11' />
+    <nd ref='staff_dormitory_vertex_12' />
+</staff-dormitory>
+
+<location_name: hospital>
+<!-- The following points form the location: hospital -->
+  <node x='1229' y='987'>
+<tag k='hospital_vertex' v='hospital_vertex_7' />
+  </node>
+  <node x='1262' y='987'>
+<tag k='hospital_vertex' v='hospital_vertex_6' />
+  </node>
+  <node x='1261' y='1054'>
+<tag k='hospital_vertex' v='hospital_vertex_5' />
+  </node>
+  <node x='1315' y='947'>
+<tag k='hospital_vertex' v='hospital_vertex_9' />
+  </node>
+  <node x='1229' y='947'>
+<tag k='hospital_vertex' v='hospital_vertex_8' />
+  </node>
+  <node x='1227' y='1119'>
+<tag k='hospital_vertex' v='hospital_vertex_1' />
+  </node>
+  <node x='1314' y='1119'>
+<tag k='hospital_vertex' v='hospital_vertex_10' />
+  </node>
+  <node x='1228' y='1089'>
+<tag k='hospital_vertex' v='hospital_vertex_2' />
+  </node>
+  <node x='1283' y='1088'>
+<tag k='hospital_vertex' v='hospital_vertex_3' />
+  </node>
+  <node x='1283' y='1054'>
+<tag k='hospital_vertex' v='hospital_vertex_4' />
+  </node>
+  <node x='1229' y='965'>
+<tag k='Yuanjing_side_road_2_vertex' v='Yuanjing_side_road_2_vertex_1' />
+    <tag k='door' v='hospital_door' />
+  </node>
+<hospital>
+    <nd ref='hospital_vertex_7' />
+    <nd ref='hospital_vertex_6' />
+    <nd ref='hospital_vertex_5' />
+    <nd ref='hospital_vertex_9' />
+    <nd ref='hospital_vertex_8' />
+    <nd ref='hospital_vertex_1' />
+    <nd ref='hospital_vertex_10' />
+    <nd ref='hospital_vertex_2' />
+    <nd ref='hospital_vertex_3' />
+    <nd ref='hospital_vertex_4' />
+</hospital>
+
+<location_name: Xinzhi-building>
+<!-- The following points form the location: Xinzhi-building -->
+  <node x='1423' y='762'>
+<tag k='Xinzhi_building_vertex' v='Xinzhi_building_vertex_1' />
+  </node>
+  <node x='1555' y='749'>
+<tag k='Xinzhi_building_vertex' v='Xinzhi_building_vertex_23' />
+  </node>
+  <node x='1647' y='759'>
+<tag k='Xinzhi_building_vertex' v='Xinzhi_building_vertex_22' />
+  </node>
+  <node x='1599' y='709'>
+<tag k='Xinzhi_building_vertex' v='Xinzhi_building_vertex_6' />
+  </node>
+  <node x='1477' y='715'>
+<tag k='Xinzhi_building_vertex' v='Xinzhi_building_vertex_5' />
+  </node>
+  <node x='1442' y='712'>
+<tag k='Xinzhi_building_vertex' v='Xinzhi_building_vertex_4' />
+  </node>
+  <node x='1439' y='719'>
+<tag k='Xinzhi_building_vertex' v='Xinzhi_building_vertex_3' />
+  </node>
+  <node x='1416' y='722'>
+<tag k='Xinzhi_building_vertex' v='Xinzhi_building_vertex_2' />
+  </node>
+  <node x='1599' y='701'>
+<tag k='Xinzhi_building_vertex' v='Xinzhi_building_vertex_7' />
+  </node>
+  <node x='1594' y='652'>
+<tag k='Xinzhi_building_vertex' v='Xinzhi_building_vertex_8' />
+  </node>
+  <node x='1601' y='600'>
+<tag k='Xinzhi_building_vertex' v='Xinzhi_building_vertex_9' />
+  </node>
+  <node x='1648' y='631'>
+<tag k='Xinzhi_building_vertex' v='Xinzhi_building_vertex_18' />
+  </node>
+  <node x='1664' y='631'>
+<tag k='Xinzhi_building_vertex' v='Xinzhi_building_vertex_19' />
+  </node>
+  <node x='1664' y='672'>
+<tag k='Xinzhi_building_vertex' v='Xinzhi_building_vertex_20' />
+  </node>
+  <node x='1648' y='672'>
+<tag k='Xinzhi_building_vertex' v='Xinzhi_building_vertex_21' />
+  </node>
+  <node x='1601' y='593'>
+<tag k='Xinzhi_building_vertex' v='Xinzhi_building_vertex_10' />
+  </node>
+  <node x='1479' y='585'>
+<tag k='Xinzhi_building_vertex' v='Xinzhi_building_vertex_11' />
+  </node>
+  <node x='1444' y='591'>
+<tag k='Xinzhi_building_vertex' v='Xinzhi_building_vertex_12' />
+  </node>
+  <node x='1442' y='585'>
+<tag k='Xinzhi_building_vertex' v='Xinzhi_building_vertex_13' />
+  </node>
+  <node x='1419' y='583'>
+<tag k='Xinzhi_building_vertex' v='Xinzhi_building_vertex_14' />
+  </node>
+  <node x='1422' y='547'>
+<tag k='Xinzhi_building_vertex' v='Xinzhi_building_vertex_15' />
+  </node>
+  <node x='1558' y='556'>
+<tag k='Xinzhi_building_vertex' v='Xinzhi_building_vertex_16' />
+  </node>
+  <node x='1649' y='544'>
+<tag k='Xinzhi_building_vertex' v='Xinzhi_building_vertex_17' />
+  </node>
+  <node x='1594' y='653'>
+<tag k='Chuangxin_road_vertex' v='Chuangxin_road_vertex_9' />
+    <tag k='door' v='Xinzhi_building_front_door' />
+  </node>
+  <node x='1664' y='650'>
+<tag k='Qiushi_side_road_2_vertex' v='Qiushi_side_road_2_vertex_1' />
+    <tag k='door' v='Xinzhi_building_back_door' />
+  </node>
+<Xinzhi-building>
+    <nd ref='Xinzhi_building_vertex_1' />
+    <nd ref='Xinzhi_building_vertex_23' />
+    <nd ref='Xinzhi_building_vertex_22' />
+    <nd ref='Xinzhi_building_vertex_6' />
+    <nd ref='Xinzhi_building_vertex_5' />
+    <nd ref='Xinzhi_building_vertex_4' />
+    <nd ref='Xinzhi_building_vertex_3' />
+    <nd ref='Xinzhi_building_vertex_2' />
+    <nd ref='Xinzhi_building_vertex_7' />
+    <nd ref='Xinzhi_building_vertex_8' />
+    <nd ref='Xinzhi_building_vertex_9' />
+    <nd ref='Xinzhi_building_vertex_18' />
+    <nd ref='Xinzhi_building_vertex_19' />
+    <nd ref='Xinzhi_building_vertex_20' />
+    <nd ref='Xinzhi_building_vertex_21' />
+    <nd ref='Xinzhi_building_vertex_10' />
+    <nd ref='Xinzhi_building_vertex_11' />
+    <nd ref='Xinzhi_building_vertex_12' />
+    <nd ref='Xinzhi_building_vertex_13' />
+    <nd ref='Xinzhi_building_vertex_14' />
+    <nd ref='Xinzhi_building_vertex_15' />
+    <nd ref='Xinzhi_building_vertex_16' />
+    <nd ref='Xinzhi_building_vertex_17' />
+</Xinzhi-building>
+
+<location_name: stadium>
+<!-- The following points form the location: stadium -->
+  <node x='539' y='1073'>
+<tag k='stadium_vertex' v='stadium_vertex_1' />
+  </node>
+  <node x='540' y='896'>
+<tag k='stadium_vertex' v='stadium_vertex_2' />
+  </node>
+  <node x='609' y='897'>
+<tag k='stadium_vertex' v='stadium_vertex_3' />
+  </node>
+  <node x='617' y='907'>
+<tag k='stadium_vertex' v='stadium_vertex_4' />
+  </node>
+  <node x='667' y='907'>
+<tag k='stadium_vertex' v='stadium_vertex_5' />
+  </node>
+  <node x='667' y='917'>
+<tag k='stadium_vertex' v='stadium_vertex_6' />
+  </node>
+  <node x='734' y='917'>
+<tag k='stadium_vertex' v='stadium_vertex_7' />
+  </node>
+  <node x='733' y='1056'>
+<tag k='stadium_vertex' v='stadium_vertex_8' />
+  </node>
+  <node x='659' y='1047'>
+<tag k='stadium_vertex' v='stadium_vertex_9' />
+  </node>
+  <node x='659' y='1087'>
+<tag k='stadium_vertex' v='stadium_vertex_10' />
+  </node>
+  <node x='540' y='966'>
+<tag k='Xingyun_side_road_vertex' v='Xingyun_side_road_vertex_1' />
+    <tag k='door' v='stadium_back_door' />
+  </node>
+  <node x='733' y='978'>
+<tag k='Chuangxin_road_vertex' v='Chuangxin_road_vertex_1' />
+    <tag k='door' v='stadium_front_door' />
+  </node>
+<stadium>
+    <nd ref='stadium_vertex_1' />
+    <nd ref='stadium_vertex_2' />
+    <nd ref='stadium_vertex_3' />
+    <nd ref='stadium_vertex_4' />
+    <nd ref='stadium_vertex_5' />
+    <nd ref='stadium_vertex_6' />
+    <nd ref='stadium_vertex_7' />
+    <nd ref='stadium_vertex_8' />
+    <nd ref='stadium_vertex_9' />
+    <nd ref='stadium_vertex_10' />
+</stadium>
+
+<location_name: teaching-building-3>
+<!-- The following points form the location: teaching-building-3 -->
+  <node x='1153' y='358'>
+<tag k='teaching_building_3_vertex' v='teaching_building_3_vertex_1' />
+  </node>
+  <node x='1153' y='272'>
+<tag k='teaching_building_3_vertex' v='teaching_building_3_vertex_2' />
+  </node>
+  <node x='1162' y='272'>
+<tag k='teaching_building_3_vertex' v='teaching_building_3_vertex_3' />
+  </node>
+  <node x='1163' y='240'>
+<tag k='teaching_building_3_vertex' v='teaching_building_3_vertex_4' />
+  </node>
+  <node x='1146' y='240'>
+<tag k='teaching_building_3_vertex' v='teaching_building_3_vertex_5' />
+  </node>
+  <node x='1147' y='178'>
+<tag k='teaching_building_3_vertex' v='teaching_building_3_vertex_6' />
+  </node>
+  <node x='1358' y='177'>
+<tag k='teaching_building_3_vertex' v='teaching_building_3_vertex_7' />
+  </node>
+  <node x='1357' y='261'>
+<tag k='teaching_building_3_vertex' v='teaching_building_3_vertex_8' />
+  </node>
+  <node x='1337' y='261'>
+<tag k='teaching_building_3_vertex' v='teaching_building_3_vertex_9' />
+  </node>
+  <node x='1336' y='357'>
+<tag k='teaching_building_3_vertex' v='teaching_building_3_vertex_10' />
+  </node>
+  <node x='1153' y='281'>
+<tag k='Shenglan_road_vertex' v='Shenglan_road_vertex_1' />
+    <tag k='door' v='teaching_building_3_door' />
+  </node>
+<teaching-building-3>
+    <nd ref='teaching_building_3_vertex_1' />
+    <nd ref='teaching_building_3_vertex_2' />
+    <nd ref='teaching_building_3_vertex_3' />
+    <nd ref='teaching_building_3_vertex_4' />
+    <nd ref='teaching_building_3_vertex_5' />
+    <nd ref='teaching_building_3_vertex_6' />
+    <nd ref='teaching_building_3_vertex_7' />
+    <nd ref='teaching_building_3_vertex_8' />
+    <nd ref='teaching_building_3_vertex_9' />
+    <nd ref='teaching_building_3_vertex_10' />
+</teaching-building-3>
+
+<location_name: teaching-building-1>
+<!-- The following points form the location: teaching-building-1 -->
+  <node x='1528' y='915'>
+<tag k='teaching_building_1_vertex' v='teaching_building_1_vertex_9' />
+  </node>
+  <node x='1690' y='1143'>
+<tag k='teaching_building_1_vertex' v='teaching_building_1_vertex_17' />
+  </node>
+  <node x='1748' y='915'>
+<tag k='teaching_building_1_vertex' v='teaching_building_1_vertex_10' />
+  </node>
+  <node x='1736' y='1085'>
+<tag k='teaching_building_1_vertex' v='teaching_building_1_vertex_15' />
+  </node>
+  <node x='1474' y='1084'>
+<tag k='teaching_building_1_vertex' v='teaching_building_1_vertex_2' />
+  </node>
+  <node x='1685' y='1037'>
+<tag k='teaching_building_1_vertex' v='teaching_building_1_vertex_13' />
+  </node>
+  <node x='1690' y='1086'>
+<tag k='teaching_building_1_vertex' v='teaching_building_1_vertex_16' />
+  </node>
+  <node x='1527' y='982'>
+<tag k='teaching_building_1_vertex' v='teaching_building_1_vertex_8' />
+  </node>
+  <node x='1498' y='1038'>
+<tag k='teaching_building_1_vertex' v='teaching_building_1_vertex_5' />
+  </node>
+  <node x='1526' y='1084'>
+<tag k='teaching_building_1_vertex' v='teaching_building_1_vertex_3' />
+  </node>
+  <node x='1748' y='981'>
+<tag k='teaching_building_1_vertex' v='teaching_building_1_vertex_11' />
+  </node>
+  <node x='1494' y='1029'>
+<tag k='teaching_building_1_vertex' v='teaching_building_1_vertex_6' />
+  </node>
+  <node x='1474' y='1144'>
+<tag k='teaching_building_1_vertex' v='teaching_building_1_vertex_1' />
+  </node>
+  <node x='1495' y='1018'>
+<tag k='teaching_building_1_vertex' v='teaching_building_1_vertex_7' />
+  </node>
+  <node x='1736' y='1037'>
+<tag k='teaching_building_1_vertex' v='teaching_building_1_vertex_14' />
+  </node>
+  <node x='1685' y='981'>
+<tag k='teaching_building_1_vertex' v='teaching_building_1_vertex_12' />
+  </node>
+  <node x='1526' y='1060'>
+<tag k='teaching_building_1_vertex' v='teaching_building_1_vertex_4' />
+  </node>
+  <node x='1527' y='966'>
+<tag k='Qiushi_road_vertex' v='Qiushi_road_vertex_1' />
+    <tag k='door' v='teaching_building_1_door' />
+  </node>
+<teaching-building-1>
+    <nd ref='teaching_building_1_vertex_9' />
+    <nd ref='teaching_building_1_vertex_17' />
+    <nd ref='teaching_building_1_vertex_10' />
+    <nd ref='teaching_building_1_vertex_15' />
+    <nd ref='teaching_building_1_vertex_2' />
+    <nd ref='teaching_building_1_vertex_13' />
+    <nd ref='teaching_building_1_vertex_16' />
+    <nd ref='teaching_building_1_vertex_8' />
+    <nd ref='teaching_building_1_vertex_5' />
+    <nd ref='teaching_building_1_vertex_3' />
+    <nd ref='teaching_building_1_vertex_11' />
+    <nd ref='teaching_building_1_vertex_6' />
+    <nd ref='teaching_building_1_vertex_1' />
+    <nd ref='teaching_building_1_vertex_7' />
+    <nd ref='teaching_building_1_vertex_14' />
+    <nd ref='teaching_building_1_vertex_12' />
+    <nd ref='teaching_building_1_vertex_4' />
+</teaching-building-1>
+
+<location_name: teaching-building-2>
+<!-- The following points form the location: teaching-building-2 -->
+  <node x='1657' y='344'>
+<tag k='teaching_building_2_vertex' v='teaching_building_2_vertex_12' />
+  </node>
+  <node x='1711' y='344'>
+<tag k='teaching_building_2_vertex' v='teaching_building_2_vertex_13' />
+  </node>
+  <node x='1606' y='266'>
+<tag k='teaching_building_2_vertex' v='teaching_building_2_vertex_15' />
+  </node>
+  <node x='1657' y='389'>
+<tag k='teaching_building_2_vertex' v='teaching_building_2_vertex_11' />
+  </node>
+  <node x='1755' y='389'>
+<tag k='teaching_building_2_vertex' v='teaching_building_2_vertex_10' />
+  </node>
+  <node x='1481' y='290'>
+<tag k='teaching_building_2_vertex' v='teaching_building_2_vertex_5' />
+  </node>
+  <node x='1481' y='177'>
+<tag k='teaching_building_2_vertex' v='teaching_building_2_vertex_6' />
+  </node>
+  <node x='1652' y='177'>
+<tag k='teaching_building_2_vertex' v='teaching_building_2_vertex_7' />
+  </node>
+  <node x='1635' y='319'>
+<tag k='teaching_building_2_vertex' v='teaching_building_2_vertex_17' />
+  </node>
+  <node x='1481' y='391'>
+<tag k='teaching_building_2_vertex' v='teaching_building_2_vertex_1' />
+  </node>
+  <node x='1652' y='222'>
+<tag k='teaching_building_2_vertex' v='teaching_building_2_vertex_8' />
+  </node>
+  <node x='1581' y='319'>
+<tag k='teaching_building_2_vertex' v='teaching_building_2_vertex_3' />
+  </node>
+  <node x='1482' y='320'>
+<tag k='teaching_building_2_vertex' v='teaching_building_2_vertex_2' />
+  </node>
+  <node x='1711' y='266'>
+<tag k='teaching_building_2_vertex' v='teaching_building_2_vertex_14' />
+  </node>
+  <node x='1606' y='319'>
+<tag k='teaching_building_2_vertex' v='teaching_building_2_vertex_16' />
+  </node>
+  <node x='1582' y='290'>
+<tag k='teaching_building_2_vertex' v='teaching_building_2_vertex_4' />
+  </node>
+  <node x='1755' y='222'>
+<tag k='teaching_building_2_vertex' v='teaching_building_2_vertex_9' />
+  </node>
+  <node x='1635' y='390'>
+<tag k='teaching_building_2_vertex' v='teaching_building_2_vertex_18' />
+  </node>
+  <node x='1481' y='223'>
+<tag k='Zhenhua_road_vertex' v='Zhenhua_road_vertex_1' />
+    <tag k='door' v='teaching_building_2_door' />
+  </node>
+<teaching-building-2>
+    <nd ref='teaching_building_2_vertex_12' />
+    <nd ref='teaching_building_2_vertex_13' />
+    <nd ref='teaching_building_2_vertex_15' />
+    <nd ref='teaching_building_2_vertex_11' />
+    <nd ref='teaching_building_2_vertex_10' />
+    <nd ref='teaching_building_2_vertex_5' />
+    <nd ref='teaching_building_2_vertex_6' />
+    <nd ref='teaching_building_2_vertex_7' />
+    <nd ref='teaching_building_2_vertex_17' />
+    <nd ref='teaching_building_2_vertex_1' />
+    <nd ref='teaching_building_2_vertex_8' />
+    <nd ref='teaching_building_2_vertex_3' />
+    <nd ref='teaching_building_2_vertex_2' />
+    <nd ref='teaching_building_2_vertex_14' />
+    <nd ref='teaching_building_2_vertex_16' />
+    <nd ref='teaching_building_2_vertex_4' />
+    <nd ref='teaching_building_2_vertex_9' />
+    <nd ref='teaching_building_2_vertex_18' />
+</teaching-building-2>
+
+<location_name: library>
+<!-- The following points form the location: library -->
+  <node x='855' y='636'>
+<tag k='library_vertex' v='library_vertex_2' />
+  </node>
+  <node x='923' y='548'>
+<tag k='library_vertex' v='library_vertex_10' />
+  </node>
+  <node x='1017' y='654'>
+<tag k='library_vertex' v='library_vertex_6' />
+  </node>
+  <node x='987' y='667'>
+<tag k='library_vertex' v='library_vertex_4' />
+  </node>
+  <node x='1207' y='602'>
+<tag k='library_vertex' v='library_vertex_12' />
+  </node>
+  <node x='1189' y='735'>
+<tag k='library_vertex' v='library_vertex_14' />
+  </node>
+  <node x='1157' y='602'>
+<tag k='library_vertex' v='library_vertex_8' />
+  </node>
+  <node x='1017' y='667'>
+<tag k='library_vertex' v='library_vertex_5' />
+  </node>
+  <node x='987' y='636'>
+<tag k='library_vertex' v='library_vertex_3' />
+  </node>
+  <node x='1018' y='704'>
+<tag k='library_vertex' v='library_vertex_16' />
+  </node>
+  <node x='1157' y='653'>
+<tag k='library_vertex' v='library_vertex_7' />
+  </node>
+  <node x='989' y='765'>
+<tag k='library_vertex' v='library_vertex_18' />
+  </node>
+  <node x='989' y='704'>
+<tag k='library_vertex' v='library_vertex_17' />
+  </node>
+  <node x='1018' y='736'>
+<tag k='library_vertex' v='library_vertex_15' />
+  </node>
+  <node x='1189' y='603'>
+<tag k='library_vertex' v='library_vertex_13' />
+  </node>
+  <node x='854' y='765'>
+<tag k='library_vertex' v='library_vertex_1' />
+  </node>
+  <node x='923' y='603'>
+<tag k='library_vertex' v='library_vertex_9' />
+  </node>
+  <node x='1207' y='548'>
+<tag k='library_vertex' v='library_vertex_11' />
+  </node>
+  <node x='956' y='636'>
+<tag k='Xinxi_road_vertex' v='Xinxi_road_vertex_1' />
+    <tag k='door' v='library_A_main_door' />
+  </node>
+  <node x='1105' y='653'>
+<tag k='door' v='library_B_door' />
+    <tag k='library_B_road_vertex' v='library_B_road_vertex_1' />
+  </node>
+  <node x='1105' y='602'>
+<tag k='door' v='library_C_door' />
+    <tag k='library_C_road_vertex' v='library_C_road_vertex_1' />
+  </node>
+<library>
+    <nd ref='library_vertex_2' />
+    <nd ref='library_vertex_10' />
+    <nd ref='library_vertex_6' />
+    <nd ref='library_vertex_4' />
+    <nd ref='library_vertex_12' />
+    <nd ref='library_vertex_14' />
+    <nd ref='library_vertex_8' />
+    <nd ref='library_vertex_5' />
+    <nd ref='library_vertex_3' />
+    <nd ref='library_vertex_16' />
+    <nd ref='library_vertex_7' />
+    <nd ref='library_vertex_18' />
+    <nd ref='library_vertex_17' />
+    <nd ref='library_vertex_15' />
+    <nd ref='library_vertex_13' />
+    <nd ref='library_vertex_1' />
+    <nd ref='library_vertex_9' />
+    <nd ref='library_vertex_11' />
+</library>
+
+<location_name: cafeteria>
+<!-- The following points form the location: cafeteria -->
+  <node x='717' y='827'>
+<tag k='cafeteria_vertex' v='cafeteria_vertex_20' />
+  </node>
+  <node x='660' y='777'>
+<tag k='cafeteria_vertex' v='cafeteria_vertex_4' />
+  </node>
+  <node x='597' y='462'>
+<tag k='cafeteria_vertex' v='cafeteria_vertex_10' />
+  </node>
+  <node x='591' y='500'>
+<tag k='cafeteria_vertex' v='cafeteria_vertex_7' />
+  </node>
+  <node x='705' y='843'>
+<tag k='cafeteria_vertex' v='cafeteria_vertex_21' />
+  </node>
+  <node x='727' y='791'>
+<tag k='cafeteria_vertex' v='cafeteria_vertex_18' />
+  </node>
+  <node x='779' y='279'>
+<tag k='cafeteria_vertex' v='cafeteria_vertex_15' />
+  </node>
+  <node x='718' y='241'>
+<tag k='cafeteria_vertex' v='cafeteria_vertex_11' />
+  </node>
+  <node x='657' y='746'>
+<tag k='cafeteria_vertex' v='cafeteria_vertex_6' />
+  </node>
+  <node x='649' y='807'>
+<tag k='cafeteria_vertex' v='cafeteria_vertex_2' />
+  </node>
+  <node x='637' y='819'>
+<tag k='cafeteria_vertex' v='cafeteria_vertex_1' />
+  </node>
+  <node x='764' y='283'>
+<tag k='cafeteria_vertex' v='cafeteria_vertex_16' />
+  </node>
+  <node x='734' y='228'>
+<tag k='cafeteria_vertex' v='cafeteria_vertex_12' />
+  </node>
+  <node x='574' y='490'>
+<tag k='cafeteria_vertex' v='cafeteria_vertex_8' />
+  </node>
+  <node x='683' y='862'>
+<tag k='cafeteria_vertex' v='cafeteria_vertex_22' />
+  </node>
+  <node x='758' y='221'>
+<tag k='cafeteria_vertex' v='cafeteria_vertex_13' />
+  </node>
+  <node x='590' y='459'>
+<tag k='cafeteria_vertex' v='cafeteria_vertex_9' />
+  </node>
+  <node x='725' y='809'>
+<tag k='cafeteria_vertex' v='cafeteria_vertex_19' />
+  </node>
+  <node x='657' y='792'>
+<tag k='cafeteria_vertex' v='cafeteria_vertex_3' />
+  </node>
+  <node x='660' y='761'>
+<tag k='cafeteria_vertex' v='cafeteria_vertex_5' />
+  </node>
+  <node x='650' y='490'>
+<tag k='cafeteria_vertex' v='cafeteria_vertex_17' />
+  </node>
+  <node x='779' y='223'>
+<tag k='cafeteria_vertex' v='cafeteria_vertex_14' />
+  </node>
+  <node x='583' y='473'>
+<tag k='Heping_road_vertex' v='Heping_road_vertex_1' />
+    <tag k='door' v='cafeteria_front_door' />
+  </node>
+  <node x='652' y='498'>
+<tag k='Mingzhu_side_road_2_vertex' v='Mingzhu_side_road_2_vertex_1' />
+    <tag k='door' v='cafeteria_back_door' />
+  </node>
+  <node x='726' y='799'>
+<tag k='Mingzhu_side_road_1_vertex' v='Mingzhu_side_road_1_vertex_1' />
+    <tag k='door' v='cafeteria_1F_left_door' />
+  </node>
+  <node x='748' y='314'>
+<tag k='Xinxi_side_road_vertex' v='Xinxi_side_road_vertex_1' />
+    <tag k='door' v='cafeteria_1F_right_door' />
+  </node>
+<cafeteria>
+    <nd ref='cafeteria_vertex_20' />
+    <nd ref='cafeteria_vertex_4' />
+    <nd ref='cafeteria_vertex_10' />
+    <nd ref='cafeteria_vertex_7' />
+    <nd ref='cafeteria_vertex_21' />
+    <nd ref='cafeteria_vertex_18' />
+    <nd ref='cafeteria_vertex_15' />
+    <nd ref='cafeteria_vertex_11' />
+    <nd ref='cafeteria_vertex_6' />
+    <nd ref='cafeteria_vertex_2' />
+    <nd ref='cafeteria_vertex_1' />
+    <nd ref='cafeteria_vertex_16' />
+    <nd ref='cafeteria_vertex_12' />
+    <nd ref='cafeteria_vertex_8' />
+    <nd ref='cafeteria_vertex_22' />
+    <nd ref='cafeteria_vertex_13' />
+    <nd ref='cafeteria_vertex_9' />
+    <nd ref='cafeteria_vertex_19' />
+    <nd ref='cafeteria_vertex_3' />
+    <nd ref='cafeteria_vertex_5' />
+    <nd ref='cafeteria_vertex_17' />
+    <nd ref='cafeteria_vertex_14' />
+</cafeteria>
+
+<location_name: Heping-road>
+<!-- The following points form the location: Heping-road -->
+  <node x='583' y='473'>
+<tag k='Heping_road_vertex' v='Heping_road_vertex_1' />
+    <tag k='door' v='cafeteria_front_door' />
+  </node>
+  <node x='1174' y='13'>
+<tag k='Heping_road_vertex' v='Heping_road_vertex_10' />
+    <tag k='door' v='the_south_gate_door' />
+  </node>
+  <node x='562' y='463'>
+<tag k='Heping_road_vertex' v='Heping_road_vertex_2' />
+    <tag k='Heping_side_road_1_vertex' v='Heping_side_road_1_vertex_4' />
+  </node>
+  <node x='748' y='115'>
+<tag k='Heping_road_vertex' v='Heping_road_vertex_5' />
+  </node>
+  <node x='1174' y='115'>
+<tag k='Heping_road_vertex' v='Heping_road_vertex_9' />
+    <tag k='Zhenhua_road_vertex' v='Zhenhua_road_vertex_4' />
+  </node>
+  <node x='607' y='379'>
+<tag k='Heping_road_vertex' v='Heping_road_vertex_3' />
+    <tag k='Heping_side_road_2_vertex' v='Heping_side_road_2_vertex_3' />
+  </node>
+  <node x='677' y='248'>
+<tag k='Heping_road_vertex' v='Heping_road_vertex_4' />
+    <tag k='Heping_side_road_3_vertex' v='Heping_side_road_3_vertex_4' />
+  </node>
+  <node x='1018' y='115'>
+<tag k='Heping_road_vertex' v='Heping_road_vertex_7' />
+    <tag k='faculty_center_road_vertex' v='faculty_center_road_vertex_2' />
+  </node>
+  <node x='877' y='115'>
+<tag k='Heping_road_vertex' v='Heping_road_vertex_6' />
+    <tag k='Xinxi_road_vertex' v='Xinxi_road_vertex_8' />
+  </node>
+  <node x='1119' y='115'>
+<tag k='Heping_road_vertex' v='Heping_road_vertex_8' />
+    <tag k='Tianlan_road_vertex' v='Tianlan_road_vertex_2' />
+  </node>
+  <node x='1174' y='25'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Heping_road_camera_5 & the_south_gate_door_camera' />
+  </node>
+  <node x='1066' y='115'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Heping_road_camera_4' />
+  </node>
+  <node x='714' y='180'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Heping_road_camera_3' />
+  </node>
+  <node x='572' y='468'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Heping_road_camera_1 & cafeteria_front_door_camera' />
+  </node>
+  <node x='638' y='320'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Heping_road_camera_2' />
+  </node>
+<Heping-road>
+    <nd ref='Heping_road_vertex_1' />
+    <nd ref='Heping_road_vertex_10' />
+    <nd ref='Heping_road_vertex_2' />
+    <nd ref='Heping_road_vertex_5' />
+    <nd ref='Heping_road_vertex_9' />
+    <nd ref='Heping_road_vertex_3' />
+    <nd ref='Heping_road_vertex_4' />
+    <nd ref='Heping_road_vertex_7' />
+    <nd ref='Heping_road_vertex_6' />
+    <nd ref='Heping_road_vertex_8' />
+</Heping-road>
+
+<location_name: Ankang-side-road-3>
+<!-- The following points form the location: Ankang-side-road-3 -->
+  <node x='251' y='600'>
+<tag k='Ankang_side_road_3_vertex' v='Ankang_side_road_3_vertex_1' />
+    <tag k='door' v='student_apartment_7_door' />
+  </node>
+  <node x='251' y='570'>
+<tag k='Ankang_side_road_3_vertex' v='Ankang_side_road_3_vertex_2' />
+    <tag k='Yongqing_side_road_1_vertex' v='Yongqing_side_road_1_vertex_1' />
+  </node>
+  <node x='328' y='570'>
+<tag k='Ankang_road_vertex' v='Ankang_road_vertex_6' />
+    <tag k='Ankang_side_road_3_vertex' v='Ankang_side_road_3_vertex_3' />
+  </node>
+  <node x='251' y='590'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Ankang_side_road_3_camera_1 & student_apartment_7_door_camera' />
+  </node>
+<Ankang-side-road-3>
+    <nd ref='Ankang_side_road_3_vertex_1' />
+    <nd ref='Ankang_side_road_3_vertex_2' />
+    <nd ref='Ankang_side_road_3_vertex_3' />
+</Ankang-side-road-3>
+
+<location_name: Fuhui-side-road>
+<!-- The following points form the location: Fuhui-side-road -->
+  <node x='408' y='688'>
+<tag k='Fuhui_side_road_vertex' v='Fuhui_side_road_vertex_1' />
+    <tag k='door' v='student_apartment_8_door' />
+  </node>
+  <node x='408' y='663'>
+<tag k='Fuhui_road_vertex' v='Fuhui_road_vertex_2' />
+    <tag k='Fuhui_side_road_vertex' v='Fuhui_side_road_vertex_2' />
+  </node>
+  <node x='408' y='680'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Fuhui_side_road_camera_1 & student_apartment_8_door_camera' />
+  </node>
+<Fuhui-side-road>
+    <nd ref='Fuhui_side_road_vertex_1' />
+    <nd ref='Fuhui_side_road_vertex_2' />
+</Fuhui-side-road>
+
+<location_name: library-A>
+<!-- The following points form the location: library-A -->
+  <node x='956' y='636'>
+<tag k='Xinxi_road_vertex' v='Xinxi_road_vertex_1' />
+    <tag k='door' v='library_A_main_door' />
+  </node>
+
+<location_name: Xinxi-road>
+<!-- The following points form the location: Xinxi-road -->
+  <node x='956' y='636'>
+<tag k='Xinxi_road_vertex' v='Xinxi_road_vertex_1' />
+    <tag k='door' v='library_A_main_door' />
+  </node>
+  <node x='956' y='620'>
+<tag k='Xinxi_road_vertex' v='Xinxi_road_vertex_3' />
+  </node>
+  <node x='877' y='620'>
+<tag k='Xinxi_road_vertex' v='Xinxi_road_vertex_4' />
+  </node>
+  <node x='877' y='115'>
+<tag k='Heping_road_vertex' v='Heping_road_vertex_6' />
+    <tag k='Xinxi_road_vertex' v='Xinxi_road_vertex_8' />
+  </node>
+  <node x='956' y='628'>
+<tag k='Xinxi_road_vertex' v='Xinxi_road_vertex_2' />
+    <tag k='library_B_road_vertex' v='library_B_road_vertex_3' />
+  </node>
+  <node x='877' y='434'>
+<tag k='Shenglan_side_road_1_vertex' v='Shenglan_side_road_1_vertex_2' />
+    <tag k='Xinxi_road_vertex' v='Xinxi_road_vertex_6' />
+  </node>
+  <node x='877' y='532'>
+<tag k='Mingzhu_road_vertex' v='Mingzhu_road_vertex_4' />
+    <tag k='Xinxi_road_vertex' v='Xinxi_road_vertex_5' />
+  </node>
+  <node x='877' y='313'>
+<tag k='Xinxi_road_vertex' v='Xinxi_road_vertex_7' />
+    <tag k='Xinxi_side_road_vertex' v='Xinxi_side_road_vertex_2' />
+  </node>
+  <node x='929' y='620'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Xinxi_road_camera_1 & library_A_main_door_camera' />
+  </node>
+  <node x='877' y='551'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Xinxi_road_camera_2' />
+  </node>
+  <node x='877' y='164'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Xinxi_road_camera_3' />
+  </node>
+<Xinxi-road>
+    <nd ref='Xinxi_road_vertex_1' />
+    <nd ref='Xinxi_road_vertex_3' />
+    <nd ref='Xinxi_road_vertex_4' />
+    <nd ref='Xinxi_road_vertex_8' />
+    <nd ref='Xinxi_road_vertex_2' />
+    <nd ref='Xinxi_road_vertex_6' />
+    <nd ref='Xinxi_road_vertex_5' />
+    <nd ref='Xinxi_road_vertex_7' />
+</Xinxi-road>
+
+<location_name: library-B-road>
+<!-- The following points form the location: library-B-road -->
+  <node x='1105' y='653'>
+<tag k='door' v='library_B_door' />
+    <tag k='library_B_road_vertex' v='library_B_road_vertex_1' />
+  </node>
+  <node x='1105' y='628'>
+<tag k='library_B_road_vertex' v='library_B_road_vertex_2' />
+    <tag k='library_C_road_vertex' v='library_C_road_vertex_2' />
+  </node>
+  <node x='956' y='628'>
+<tag k='Xinxi_road_vertex' v='Xinxi_road_vertex_2' />
+    <tag k='library_B_road_vertex' v='library_B_road_vertex_3' />
+  </node>
+  <node x='1105' y='648'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='library_B_road_camera_1 & library_B_door_camera' />
+  </node>
+<library-B-road>
+    <nd ref='library_B_road_vertex_1' />
+    <nd ref='library_B_road_vertex_2' />
+    <nd ref='library_B_road_vertex_3' />
+</library-B-road>
+
+<location_name: library-B>
+<!-- The following points form the location: library-B -->
+  <node x='1105' y='653'>
+<tag k='door' v='library_B_door' />
+    <tag k='library_B_road_vertex' v='library_B_road_vertex_1' />
+  </node>
+<library-B>
+    <nd ref='library_B_road_vertex_1' />
+</library-B>
+
+<location_name: library-C-road>
+<!-- The following points form the location: library-C-road -->
+  <node x='1105' y='602'>
+<tag k='door' v='library_C_door' />
+    <tag k='library_C_road_vertex' v='library_C_road_vertex_1' />
+  </node>
+  <node x='1105' y='628'>
+<tag k='library_B_road_vertex' v='library_B_road_vertex_2' />
+    <tag k='library_C_road_vertex' v='library_C_road_vertex_2' />
+  </node>
+  <node x='1105' y='608'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='library_C_road_camera_1 & library_C_door_camera' />
+  </node>
+<library-C-road>
+    <nd ref='library_C_road_vertex_1' />
+    <nd ref='library_C_road_vertex_2' />
+</library-C-road>
+
+<location_name: library-C>
+<!-- The following points form the location: library-C -->
+  <node x='1105' y='602'>
+<tag k='door' v='library_C_door' />
+    <tag k='library_C_road_vertex' v='library_C_road_vertex_1' />
+  </node>
+<library-C>
+    <nd ref='library_C_road_vertex_1' />
+</library-C>
+
+<location_name: Qiushi-road>
+<!-- The following points form the location: Qiushi-road -->
+  <node x='1527' y='966'>
+<tag k='Qiushi_road_vertex' v='Qiushi_road_vertex_1' />
+    <tag k='door' v='teaching_building_1_door' />
+  </node>
+  <node x='1817' y='650'>
+<tag k='Qiushi_road_vertex' v='Qiushi_road_vertex_6' />
+    <tag k='door' v='the_east_gate_door' />
+  </node>
+  <node x='1462' y='966'>
+<tag k='Qiushi_road_vertex' v='Qiushi_road_vertex_2' />
+  </node>
+  <node x='1462' y='834'>
+<tag k='Qiushi_road_vertex' v='Qiushi_road_vertex_3' />
+    <tag k='Qiushi_side_road_1_vertex' v='Qiushi_side_road_1_vertex_1' />
+  </node>
+  <node x='1769' y='834'>
+<tag k='Qiushi_road_vertex' v='Qiushi_road_vertex_4' />
+  </node>
+  <node x='1770' y='650'>
+<tag k='Qiushi_road_vertex' v='Qiushi_road_vertex_5' />
+    <tag k='Qiushi_side_road_2_vertex' v='Qiushi_side_road_2_vertex_2' />
+    <tag k='Weiyuan_road_vertex' v='Weiyuan_road_vertex_5' />
+  </node>
+  <node x='1796' y='650'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Qiushi_road_camera_5 & the_east_gate_door_camera' />
+  </node>
+  <node x='1769' y='801'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Qiushi_road_camera_4' />
+  </node>
+  <node x='1539' y='834'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Qiushi_road_camera_3' />
+  </node>
+  <node x='1462' y='899'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Qiushi_road_camera_2' />
+  </node>
+  <node x='1508' y='966'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Qiushi_road_camera_1 & teaching_building_1_door_camera' />
+  </node>
+<Qiushi-road>
+    <nd ref='Qiushi_road_vertex_1' />
+    <nd ref='Qiushi_road_vertex_6' />
+    <nd ref='Qiushi_road_vertex_2' />
+    <nd ref='Qiushi_road_vertex_3' />
+    <nd ref='Qiushi_road_vertex_4' />
+    <nd ref='Qiushi_road_vertex_5' />
+</Qiushi-road>
+
+<location_name: Yuanjing-side-road-2>
+<!-- The following points form the location: Yuanjing-side-road-2 -->
+  <node x='1229' y='965'>
+<tag k='Yuanjing_side_road_2_vertex' v='Yuanjing_side_road_2_vertex_1' />
+    <tag k='door' v='hospital_door' />
+  </node>
+  <node x='1172' y='965'>
+<tag k='Yuanjing_road_vertex' v='Yuanjing_road_vertex_4' />
+    <tag k='Yuanjing_side_road_2_vertex' v='Yuanjing_side_road_2_vertex_2' />
+  </node>
+  <node x='1212' y='965'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Yuanjing_side_road_2_camera_1 & hospital_door_camera' />
+  </node>
+<Yuanjing-side-road-2>
+    <nd ref='Yuanjing_side_road_2_vertex_1' />
+    <nd ref='Yuanjing_side_road_2_vertex_2' />
+</Yuanjing-side-road-2>
+
+<location_name: Yuanjing-road>
+<!-- The following points form the location: Yuanjing-road -->
+  <node x='1056' y='959'>
+<tag k='Yuanjing_road_vertex' v='Yuanjing_road_vertex_1' />
+    <tag k='door' v='staff_dormitory_door' />
+  </node>
+  <node x='1057' y='1087'>
+<tag k='Yuanjing_road_vertex' v='Yuanjing_road_vertex_6' />
+    <tag k='door' v='staff_canteen_door' />
+  </node>
+  <node x='1057' y='913'>
+<tag k='Yuanjing_road_vertex' v='Yuanjing_road_vertex_2' />
+  </node>
+  <node x='1173' y='913'>
+<tag k='Yuanjing_road_vertex' v='Yuanjing_road_vertex_3' />
+    <tag k='Yuanjing_side_road_1_vertex' v='Yuanjing_side_road_1_vertex_1' />
+  </node>
+  <node x='1172' y='1087'>
+<tag k='Yuanjing_road_vertex' v='Yuanjing_road_vertex_5' />
+  </node>
+  <node x='1172' y='965'>
+<tag k='Yuanjing_road_vertex' v='Yuanjing_road_vertex_4' />
+    <tag k='Yuanjing_side_road_2_vertex' v='Yuanjing_side_road_2_vertex_2' />
+  </node>
+  <node x='1128' y='1087'>
+<tag k='Yuanjing_road_vertex' v='Yuanjing_road_vertex_5' />
+    <tag k='Yuanjing_side_road_3_vertex' v='Yuanjing_side_road_3_vertex_1' />
+  </node>
+  <node x='1118' y='913'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Yuanjing_road_camera_2' />
+  </node>
+  <node x='1172' y='1000'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Yuanjing_road_camera_3' />
+  </node>
+  <node x='1074' y='1087'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Yuanjing_road_camera_4 & staff_canteen_door_camera' />
+  </node>
+  <node x='1056' y='937'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Yuanjing_road_camera_1 & staff_dormitory_door_camera' />
+  </node>
+<Yuanjing-road>
+    <nd ref='Yuanjing_road_vertex_1' />
+    <nd ref='Yuanjing_road_vertex_6' />
+    <nd ref='Yuanjing_road_vertex_2' />
+    <nd ref='Yuanjing_road_vertex_3' />
+    <nd ref='Yuanjing_road_vertex_5' />
+    <nd ref='Yuanjing_road_vertex_4' />
+    <nd ref='Yuanjing_road_vertex_5' />
+</Yuanjing-road>
+
+<location_name: faculty-center-road>
+<!-- The following points form the location: faculty-center-road -->
+  <node x='1018' y='176'>
+<tag k='door' v='faculty_center_door' />
+    <tag k='faculty_center_road_vertex' v='faculty_center_road_vertex_1' />
+  </node>
+  <node x='1018' y='115'>
+<tag k='Heping_road_vertex' v='Heping_road_vertex_7' />
+    <tag k='faculty_center_road_vertex' v='faculty_center_road_vertex_2' />
+  </node>
+  <node x='1018' y='147'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='faculty_center_road_camera_1 & faculty_center_door_camera' />
+  </node>
+<faculty-center-road>
+    <nd ref='faculty_center_road_vertex_1' />
+    <nd ref='faculty_center_road_vertex_2' />
+</faculty-center-road>
+
+<location_name: Shenglan-road>
+<!-- The following points form the location: Shenglan-road -->
+  <node x='1153' y='281'>
+<tag k='Shenglan_road_vertex' v='Shenglan_road_vertex_1' />
+    <tag k='door' v='teaching_building_3_door' />
+  </node>
+  <node x='1347' y='653'>
+<tag k='Chuangxin_road_vertex' v='Chuangxin_road_vertex_8' />
+    <tag k='Shenglan_road_vertex' v='Shenglan_road_vertex_7' />
+  </node>
+  <node x='1118' y='281'>
+<tag k='Shenglan_road_vertex' v='Shenglan_road_vertex_2' />
+    <tag k='Tianlan_road_vertex' v='Tianlan_road_vertex_1' />
+  </node>
+  <node x='1117' y='492'>
+<tag k='Shenglan_road_vertex' v='Shenglan_road_vertex_5' />
+  </node>
+  <node x='1348' y='493'>
+<tag k='Shenglan_road_vertex' v='Shenglan_road_vertex_6' />
+  </node>
+  <node x='1117' y='387'>
+<tag k='Shenglan_road_vertex' v='Shenglan_road_vertex_3' />
+    <tag k='Shenglan_side_road_2_vertex' v='Shenglan_side_road_2_vertex_1' />
+  </node>
+  <node x='1117' y='434'>
+<tag k='Shenglan_road_vertex' v='Shenglan_road_vertex_4' />
+    <tag k='Shenglan_side_road_1_vertex' v='Shenglan_side_road_1_vertex_1' />
+  </node>
+  <node x='1347' y='548'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Shenglan_road_camera_3' />
+  </node>
+  <node x='1181' y='492'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Shenglan_road_camera_2' />
+  </node>
+  <node x='1137' y='281'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Shenglan_road_camera_1 & teaching_building_3_door_camera' />
+  </node>
+<Shenglan-road>
+    <nd ref='Shenglan_road_vertex_1' />
+    <nd ref='Shenglan_road_vertex_7' />
+    <nd ref='Shenglan_road_vertex_2' />
+    <nd ref='Shenglan_road_vertex_5' />
+    <nd ref='Shenglan_road_vertex_6' />
+    <nd ref='Shenglan_road_vertex_3' />
+    <nd ref='Shenglan_road_vertex_4' />
+</Shenglan-road>
+
+<location_name: Zhenhua-road>
+<!-- The following points form the location: Zhenhua-road -->
+  <node x='1481' y='223'>
+<tag k='Zhenhua_road_vertex' v='Zhenhua_road_vertex_1' />
+    <tag k='door' v='teaching_building_2_door' />
+  </node>
+  <node x='1174' y='115'>
+<tag k='Heping_road_vertex' v='Heping_road_vertex_9' />
+    <tag k='Zhenhua_road_vertex' v='Zhenhua_road_vertex_4' />
+  </node>
+  <node x='1395' y='223'>
+<tag k='Weiyuan_road_vertex' v='Weiyuan_road_vertex_1' />
+    <tag k='Zhenhua_road_vertex' v='Zhenhua_road_vertex_2' />
+  </node>
+  <node x='1396' y='115'>
+<tag k='Zhenhua_road_vertex' v='Zhenhua_road_vertex_3' />
+  </node>
+  <node x='1465' y='223'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Zhenhua_road_camera_1 & teaching_building_2_door' />
+  </node>
+  <node x='1396' y='168'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Zhenhua_road_camera_2' />
+  </node>
+  <node x='1281' y='115'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Zhenhua_road_camera_3' />
+  </node>
+<Zhenhua-road>
+    <nd ref='Zhenhua_road_vertex_1' />
+    <nd ref='Zhenhua_road_vertex_4' />
+    <nd ref='Zhenhua_road_vertex_2' />
+    <nd ref='Zhenhua_road_vertex_3' />
+</Zhenhua-road>
+
+<location_name: Chuangxin-road>
+<!-- The following points form the location: Chuangxin-road -->
+  <node x='1594' y='653'>
+<tag k='Chuangxin_road_vertex' v='Chuangxin_road_vertex_9' />
+    <tag k='door' v='Xinzhi_building_front_door' />
+  </node>
+  <node x='733' y='978'>
+<tag k='Chuangxin_road_vertex' v='Chuangxin_road_vertex_1' />
+    <tag k='door' v='stadium_front_door' />
+  </node>
+  <node x='889' y='978'>
+<tag k='Chuangxin_road_vertex' v='Chuangxin_road_vertex_3' />
+  </node>
+  <node x='889' y='793'>
+<tag k='Chuangxin_road_vertex' v='Chuangxin_road_vertex_5' />
+  </node>
+  <node x='1346' y='793'>
+<tag k='Chuangxin_road_vertex' v='Chuangxin_road_vertex_7' />
+  </node>
+  <node x='1347' y='653'>
+<tag k='Chuangxin_road_vertex' v='Chuangxin_road_vertex_8' />
+    <tag k='Shenglan_road_vertex' v='Shenglan_road_vertex_7' />
+  </node>
+  <node x='889' y='889'>
+<tag k='Chuangxin_road_vertex' v='Chuangxin_road_vertex_4' />
+    <tag k='Fuhui_road_vertex' v='Fuhui_road_vertex_7' />
+  </node>
+  <node x='1173' y='793'>
+<tag k='Chuangxin_road_vertex' v='Chuangxin_road_vertex_6' />
+    <tag k='Yuanjing_side_road_1_vertex' v='Yuanjing_side_road_1_vertex_3' />
+  </node>
+  <node x='836' y='978'>
+<tag k='Chuangxin_road_vertex' v='Chuangxin_road_vertex_2' />
+    <tag k='Dongfang_road_vertex' v='Dongfang_road_vertex_1' />
+  </node>
+  <node x='784' y='978'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Chuangxin_road_camera_1 & stadium_front_door_camera' />
+  </node>
+  <node x='889' y='925'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Chuangxin_road_camera_2' />
+  </node>
+  <node x='976' y='793'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Chuangxin_road_camera_3' />
+  </node>
+  <node x='1347' y='752'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Chuangxin_road_camera_4' />
+  </node>
+  <node x='1551' y='653'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Chuangxin_road_camera_5 & Xinzhi_building_front_door_camera' />
+  </node>
+<Chuangxin-road>
+    <nd ref='Chuangxin_road_vertex_9' />
+    <nd ref='Chuangxin_road_vertex_1' />
+    <nd ref='Chuangxin_road_vertex_3' />
+    <nd ref='Chuangxin_road_vertex_5' />
+    <nd ref='Chuangxin_road_vertex_7' />
+    <nd ref='Chuangxin_road_vertex_8' />
+    <nd ref='Chuangxin_road_vertex_4' />
+    <nd ref='Chuangxin_road_vertex_6' />
+    <nd ref='Chuangxin_road_vertex_2' />
+</Chuangxin-road>
+
+<location_name: Qiushi-side-road-2>
+<!-- The following points form the location: Qiushi-side-road-2 -->
+  <node x='1664' y='650'>
+<tag k='Qiushi_side_road_2_vertex' v='Qiushi_side_road_2_vertex_1' />
+    <tag k='door' v='Xinzhi_building_back_door' />
+  </node>
+  <node x='1770' y='650'>
+<tag k='Qiushi_road_vertex' v='Qiushi_road_vertex_5' />
+    <tag k='Qiushi_side_road_2_vertex' v='Qiushi_side_road_2_vertex_2' />
+    <tag k='Weiyuan_road_vertex' v='Weiyuan_road_vertex_5' />
+  </node>
+  <node x='1689' y='650'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Qiushi_side_road_2_camera_1 & Xinzhi_building_back_door_camera' />
+  </node>
+<Qiushi-side-road-2>
+    <nd ref='Qiushi_side_road_2_vertex_1' />
+    <nd ref='Qiushi_side_road_2_vertex_2' />
+</Qiushi-side-road-2>
+
+<location_name: Heping-side-road-1>
+<!-- The following points form the location: Heping-side-road-1 -->
+  <node x='469' y='558'>
+<tag k='Heping_side_road_1_vertex' v='Heping_side_road_1_vertex_1' />
+    <tag k='door' v='student_apartment_3_door' />
+  </node>
+  <node x='562' y='463'>
+<tag k='Heping_road_vertex' v='Heping_road_vertex_2' />
+    <tag k='Heping_side_road_1_vertex' v='Heping_side_road_1_vertex_4' />
+  </node>
+  <node x='469' y='536'>
+<tag k='Ankang_side_road_4_vertex' v='Ankang_side_road_4_vertex_1' />
+    <tag k='Heping_side_road_1_vertex' v='Heping_side_road_1_vertex_2' />
+  </node>
+  <node x='526' y='536'>
+<tag k='Heping_side_road_1_vertex' v='Heping_side_road_1_vertex_3' />
+  </node>
+  <node x='469' y='549'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Heping_side_road_1_camera_1 & student_apartment_3_door_camera' />
+  </node>
+<Heping-side-road-1>
+    <nd ref='Heping_side_road_1_vertex_1' />
+    <nd ref='Heping_side_road_1_vertex_4' />
+    <nd ref='Heping_side_road_1_vertex_2' />
+    <nd ref='Heping_side_road_1_vertex_3' />
+</Heping-side-road-1>
+
+<location_name: Heping-side-road-2>
+<!-- The following points form the location: Heping-side-road-2 -->
+  <node x='492' y='409'>
+<tag k='Heping_side_road_2_vertex' v='Heping_side_road_2_vertex_1' />
+    <tag k='door' v='student_apartment_2_door' />
+  </node>
+  <node x='607' y='379'>
+<tag k='Heping_road_vertex' v='Heping_road_vertex_3' />
+    <tag k='Heping_side_road_2_vertex' v='Heping_side_road_2_vertex_3' />
+  </node>
+  <node x='492' y='380'>
+<tag k='Heping_side_road_2_vertex' v='Heping_side_road_2_vertex_2' />
+    <tag k='Shiji_road_vertex' v='Shiji_road_vertex_1' />
+  </node>
+  <node x='492' y='398'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Heping_side_road_2_camera_1 & student_apartment_2_door_camera' />
+  </node>
+<Heping-side-road-2>
+    <nd ref='Heping_side_road_2_vertex_1' />
+    <nd ref='Heping_side_road_2_vertex_3' />
+    <nd ref='Heping_side_road_2_vertex_2' />
+</Heping-side-road-2>
+
+<location_name: Heping-side-road-3>
+<!-- The following points form the location: Heping-side-road-3 -->
+  <node x='545' y='279'>
+<tag k='Heping_side_road_3_vertex' v='Heping_side_road_3_vertex_1' />
+    <tag k='door' v='student_apartment_1_door' />
+  </node>
+  <node x='545' y='248'>
+<tag k='Heping_side_road_3_vertex' v='Heping_side_road_3_vertex_2' />
+    <tag k='outdoor_basketball_court_road_vertex' v='outdoor_basketball_court_road_vertex_3' />
+  </node>
+  <node x='677' y='248'>
+<tag k='Heping_road_vertex' v='Heping_road_vertex_4' />
+    <tag k='Heping_side_road_3_vertex' v='Heping_side_road_3_vertex_4' />
+  </node>
+  <node x='595' y='248'>
+<tag k='Heping_side_road_3_vertex' v='Heping_side_road_3_vertex_3' />
+    <tag k='outdoor_tennis_court_road_vertex' v='outdoor_tennis_court_road_vertex_2' />
+  </node>
+  <node x='545' y='267'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Heping_side_road_3_camera_1 & student_apartment_1_door_camera' />
+  </node>
+<Heping-side-road-3>
+    <nd ref='Heping_side_road_3_vertex_1' />
+    <nd ref='Heping_side_road_3_vertex_2' />
+    <nd ref='Heping_side_road_3_vertex_4' />
+    <nd ref='Heping_side_road_3_vertex_3' />
+</Heping-side-road-3>
+
+<location_name: Yongqing-side-road-3>
+<!-- The following points form the location: Yongqing-side-road-3 -->
+  <node x='210' y='299'>
+<tag k='Yongqing_side_road_3_vertex' v='Yongqing_side_road_3_vertex_1' />
+    <tag k='door' v='student_apartment_5_door' />
+  </node>
+  <node x='210' y='248'>
+<tag k='Yongqing_road_vertex' v='Yongqing_road_vertex_5' />
+    <tag k='Yongqing_side_road_3_vertex' v='Yongqing_side_road_3_vertex_2' />
+  </node>
+  <node x='210' y='286'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Yongqing_side_road_3_camera_1 & student_apartment_5_door_camera' />
+  </node>
+<Yongqing-side-road-3>
+    <nd ref='Yongqing_side_road_3_vertex_1' />
+    <nd ref='Yongqing_side_road_3_vertex_2' />
+</Yongqing-side-road-3>
+
+<location_name: Ankang-road>
+<!-- The following points form the location: Ankang-road -->
+  <node x='234' y='455'>
+<tag k='Ankang_road_vertex' v='Ankang_road_vertex_10' />
+    <tag k='door' v='student_apartment_6_door' />
+  </node>
+  <node x='279' y='803'>
+<tag k='Ankang_road_vertex' v='Ankang_road_vertex_1' />
+    <tag k='door' v='playground_back_door' />
+  </node>
+  <node x='279' y='781'>
+<tag k='Ankang_road_vertex' v='Ankang_road_vertex_2' />
+    <tag k='Ankang_side_road_1_vertex' v='Ankang_side_road_1_vertex_3' />
+  </node>
+  <node x='328' y='781'>
+<tag k='Ankang_road_vertex' v='Ankang_road_vertex_3' />
+  </node>
+  <node x='329' y='430'>
+<tag k='Ankang_road_vertex' v='Ankang_road_vertex_8' />
+    <tag k='Shiji_road_vertex' v='Shiji_road_vertex_3' />
+  </node>
+  <node x='234' y='430'>
+<tag k='Ankang_road_vertex' v='Ankang_road_vertex_9' />
+    <tag k='Yongqing_side_road_2_vertex' v='Yongqing_side_road_2_vertex_1' />
+  </node>
+  <node x='328' y='663'>
+<tag k='Ankang_road_vertex' v='Ankang_road_vertex_5' />
+    <tag k='Fuhui_road_vertex' v='Fuhui_road_vertex_1' />
+  </node>
+  <node x='328' y='702'>
+<tag k='Ankang_road_vertex' v='Ankang_road_vertex_4' />
+    <tag k='Ankang_side_road_2_vertex' v='Ankang_side_road_2_vertex_3' />
+  </node>
+  <node x='328' y='570'>
+<tag k='Ankang_road_vertex' v='Ankang_road_vertex_6' />
+    <tag k='Ankang_side_road_3_vertex' v='Ankang_side_road_3_vertex_3' />
+  </node>
+  <node x='328' y='536'>
+<tag k='Ankang_road_vertex' v='Ankang_road_vertex_7' />
+    <tag k='Ankang_side_road_4_vertex' v='Ankang_side_road_4_vertex_2' />
+  </node>
+  <node x='234' y='445'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Ankang_road_camera_4 & student_apartment_6_door_camera' />
+  </node>
+  <node x='329' y='459'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Ankang_road_camera_3' />
+  </node>
+  <node x='328' y='627'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Ankang_road_camera_2' />
+  </node>
+  <node x='279' y='792'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Ankang_road_camera_1 & playground_back_door_camera' />
+  </node>
+<Ankang-road>
+    <nd ref='Ankang_road_vertex_10' />
+    <nd ref='Ankang_road_vertex_1' />
+    <nd ref='Ankang_road_vertex_2' />
+    <nd ref='Ankang_road_vertex_3' />
+    <nd ref='Ankang_road_vertex_8' />
+    <nd ref='Ankang_road_vertex_9' />
+    <nd ref='Ankang_road_vertex_5' />
+    <nd ref='Ankang_road_vertex_4' />
+    <nd ref='Ankang_road_vertex_6' />
+    <nd ref='Ankang_road_vertex_7' />
+</Ankang-road>
+
+<location_name: Lixiang-road>
+<!-- The following points form the location: Lixiang-road -->
+  <node x='290' y='154'>
+<tag k='Lixiang_road_vertex' v='Lixiang_road_vertex_1' />
+    <tag k='door' v='student_apartment_4_door' />
+  </node>
+  <node x='329' y='379'>
+<tag k='Lixiang_road_vertex' v='Lixiang_road_vertex_5' />
+    <tag k='Shiji_road_vertex' v='Shiji_road_vertex_2' />
+  </node>
+  <node x='291' y='131'>
+<tag k='Lixiang_road_vertex' v='Lixiang_road_vertex_2' />
+  </node>
+  <node x='330' y='131'>
+<tag k='Lixiang_road_vertex' v='Lixiang_road_vertex_3' />
+  </node>
+  <node x='330' y='248'>
+<tag k='Futian_road_vertex' v='Futian_road_vertex_2' />
+    <tag k='Lixiang_road_vertex' v='Lixiang_road_vertex_4' />
+    <tag k='Yongqing_road_vertex' v='Yongqing_road_vertex_6' />
+  </node>
+  <node x='290' y='142'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Lixiang_road_camera_1 & student_apartment_4_door' />
+  </node>
+<Lixiang-road>
+    <nd ref='Lixiang_road_vertex_1' />
+    <nd ref='Lixiang_road_vertex_5' />
+    <nd ref='Lixiang_road_vertex_2' />
+    <nd ref='Lixiang_road_vertex_3' />
+    <nd ref='Lixiang_road_vertex_4' />
+</Lixiang-road>
+
+<location_name: outdoor-basketball-court-road>
+<!-- The following points form the location: outdoor-basketball-court-road -->
+  <node x='508' y='171'>
+<tag k='door' v='outdoor_basketball_court_door' />
+    <tag k='outdoor_basketball_court_road_vertex' v='outdoor_basketball_court_road_vertex_1' />
+  </node>
+  <node x='545' y='248'>
+<tag k='Heping_side_road_3_vertex' v='Heping_side_road_3_vertex_2' />
+    <tag k='outdoor_basketball_court_road_vertex' v='outdoor_basketball_court_road_vertex_3' />
+  </node>
+  <node x='508' y='248'>
+<tag k='Futian_road_vertex' v='Futian_road_vertex_1' />
+    <tag k='outdoor_basketball_court_road_vertex' v='outdoor_basketball_court_road_vertex_2' />
+  </node>
+  <node x='508' y='188'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='outdoor_basketball_court_road_camera_1 & outdoor_basketball_court_door' />
+  </node>
+<outdoor-basketball-court-road>
+    <nd ref='outdoor_basketball_court_road_vertex_1' />
+    <nd ref='outdoor_basketball_court_road_vertex_3' />
+    <nd ref='outdoor_basketball_court_road_vertex_2' />
+</outdoor-basketball-court-road>
+
+<location_name: outdoor-tennis-court-road>
+<!-- The following points form the location: outdoor-tennis-court-road -->
+  <node x='595' y='172'>
+<tag k='door' v='outdoor_tennis_court_door' />
+    <tag k='outdoor_tennis_court_road_vertex' v='outdoor_tennis_court_road_vertex_1' />
+  </node>
+  <node x='595' y='248'>
+<tag k='Heping_side_road_3_vertex' v='Heping_side_road_3_vertex_3' />
+    <tag k='outdoor_tennis_court_road_vertex' v='outdoor_tennis_court_road_vertex_2' />
+  </node>
+  <node x='595' y='186'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='outdoor_tennis_court_road_camera_1 & outdoor_tennis_court_door_camera' />
+  </node>
+<outdoor-tennis-court-road>
+    <nd ref='outdoor_tennis_court_road_vertex_1' />
+    <nd ref='outdoor_tennis_court_road_vertex_2' />
+</outdoor-tennis-court-road>
+
+<location_name: Shuangyong-road>
+<!-- The following points form the location: Shuangyong-road -->
+  <node x='157' y='588'>
+<tag k='Shuangyong_road_vertex' v='Shuangyong_road_vertex_3' />
+    <tag k='door' v='outdoor_volleyball_court_4_door' />
+  </node>
+  <node x='194' y='674'>
+<tag k='Shuangyong_road_vertex' v='Shuangyong_road_vertex_1' />
+    <tag k='Xinguang_road_vertex' v='Xinguang_road_vertex_4' />
+  </node>
+  <node x='194' y='588'>
+<tag k='Shuangyong_road_vertex' v='Shuangyong_road_vertex_2' />
+    <tag k='Shuangyong_side_road_vertex' v='Shuangyong_side_road_vertex_1' />
+  </node>
+  <node x='167' y='588'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Shuangyong_road_camera_1 & outdoor_volleyball_court_4_door_camera' />
+  </node>
+<Shuangyong-road>
+    <nd ref='Shuangyong_road_vertex_3' />
+    <nd ref='Shuangyong_road_vertex_1' />
+    <nd ref='Shuangyong_road_vertex_2' />
+</Shuangyong-road>
+
+<location_name: Xinguang-road>
+<!-- The following points form the location: Xinguang-road -->
+  <node x='157' y='674'>
+<tag k='Xinguang_road_vertex' v='Xinguang_road_vertex_5' />
+    <tag k='door' v='outdoor_volleyball_court_3_door' />
+  </node>
+  <node x='165' y='750'>
+<tag k='Xinguang_road_vertex' v='Xinguang_road_vertex_1' />
+    <tag k='door' v='outdoor_volleyball_court_2_door' />
+  </node>
+  <node x='193' y='750'>
+<tag k='Xinguang_road_vertex' v='Xinguang_road_vertex_2' />
+  </node>
+  <node x='194' y='674'>
+<tag k='Shuangyong_road_vertex' v='Shuangyong_road_vertex_1' />
+    <tag k='Xinguang_road_vertex' v='Xinguang_road_vertex_4' />
+  </node>
+  <node x='194' y='703'>
+<tag k='Xinguang_road_vertex' v='Xinguang_road_vertex_3' />
+    <tag k='Xinguang_side_road_vertex' v='Xinguang_side_road_vertex_2' />
+  </node>
+  <node x='176' y='750'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Xinguang_road_camera_1 & outdoor_volleyball_court_2_door_camera' />
+  </node>
+  <node x='166' y='674'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Xinguang_road_camera_2 & outdoor_volleyball_court_3_door_camera' />
+  </node>
+<Xinguang-road>
+    <nd ref='Xinguang_road_vertex_5' />
+    <nd ref='Xinguang_road_vertex_1' />
+    <nd ref='Xinguang_road_vertex_2' />
+    <nd ref='Xinguang_road_vertex_4' />
+    <nd ref='Xinguang_road_vertex_3' />
+</Xinguang-road>
+
+<location_name: Ankang-side-road-1>
+<!-- The following points form the location: Ankang-side-road-1 -->
+  <node x='174' y='797'>
+<tag k='Ankang_side_road_1_vertex' v='Ankang_side_road_1_vertex_1' />
+    <tag k='door' v='car_park_1_front_door' />
+  </node>
+  <node x='279' y='781'>
+<tag k='Ankang_road_vertex' v='Ankang_road_vertex_2' />
+    <tag k='Ankang_side_road_1_vertex' v='Ankang_side_road_1_vertex_3' />
+  </node>
+  <node x='174' y='781'>
+<tag k='Ankang_side_road_1_vertex' v='Ankang_side_road_1_vertex_2' />
+  </node>
+  <node x='174' y='787'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Ankang_side_road_1_camera_1 & car_park_1_front_door_camera' />
+  </node>
+<Ankang-side-road-1>
+    <nd ref='Ankang_side_road_1_vertex_1' />
+    <nd ref='Ankang_side_road_1_vertex_3' />
+    <nd ref='Ankang_side_road_1_vertex_2' />
+</Ankang-side-road-1>
+
+<location_name: Liyuan-road>
+<!-- The following points form the location: Liyuan-road -->
+  <node x='113' y='798'>
+<tag k='Liyuan_road_vertex' v='Liyuan_road_vertex_1' />
+    <tag k='door' v='car_park_1_back_door' />
+  </node>
+  <node x='62' y='786'>
+<tag k='Liyuan_road_vertex' v='Liyuan_road_vertex_3' />
+    <tag k='Zhuoyue_road_vertex' v='Zhuoyue_road_vertex_8' />
+  </node>
+  <node x='113' y='786'>
+<tag k='Liyuan_road_vertex' v='Liyuan_road_vertex_2' />
+  </node>
+  <node x='113' y='791'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Liyuan_road_camera_1 & car_park_1_back_door_camera' />
+  </node>
+<Liyuan-road>
+    <nd ref='Liyuan_road_vertex_1' />
+    <nd ref='Liyuan_road_vertex_3' />
+    <nd ref='Liyuan_road_vertex_2' />
+</Liyuan-road>
+
+<location_name: Ankang-side-road-2>
+<!-- The following points form the location: Ankang-side-road-2 -->
+  <node x='260' y='721'>
+<tag k='Ankang_side_road_2_vertex' v='Ankang_side_road_2_vertex_1' />
+    <tag k='door' v='outdoor_volleyball_court_1_door' />
+  </node>
+  <node x='260' y='702'>
+<tag k='Ankang_side_road_2_vertex' v='Ankang_side_road_2_vertex_2' />
+    <tag k='Xinguang_side_road_vertex' v='Xinguang_side_road_vertex_1' />
+  </node>
+  <node x='328' y='702'>
+<tag k='Ankang_road_vertex' v='Ankang_road_vertex_4' />
+    <tag k='Ankang_side_road_2_vertex' v='Ankang_side_road_2_vertex_3' />
+  </node>
+  <node x='260' y='710'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Ankang_side_road_2_camera_1 & outdoor_volleyball_court_1_door_camera' />
+  </node>
+<Ankang-side-road-2>
+    <nd ref='Ankang_side_road_2_vertex_1' />
+    <nd ref='Ankang_side_road_2_vertex_2' />
+    <nd ref='Ankang_side_road_2_vertex_3' />
+</Ankang-side-road-2>
+
+<location_name: Xingyun-road>
+<!-- The following points form the location: Xingyun-road -->
+  <node x='352' y='943'>
+<tag k='Xingyun_road_vertex' v='Xingyun_road_vertex_1' />
+    <tag k='door' v='playground_front_door' />
+  </node>
+  <node x='445' y='942'>
+<tag k='Xingyun_road_vertex' v='Xingyun_road_vertex_2' />
+  </node>
+  <node x='445' y='1200'>
+<tag k='Xingyun_road_vertex' v='Xingyun_road_vertex_4' />
+    <tag k='Zhuoyue_road_vertex' v='Zhuoyue_road_vertex_4' />
+  </node>
+  <node x='445' y='967'>
+<tag k='Xingyun_road_vertex' v='Xingyun_road_vertex_3' />
+    <tag k='Xingyun_side_road_vertex' v='Xingyun_side_road_vertex_2' />
+  </node>
+  <node x='410' y='943'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Xingyun_road_camera_1 & playground_front_door_camera' />
+  </node>
+  <node x='445' y='1089'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Xingyun_road_camera_2' />
+  </node>
+<Xingyun-road>
+    <nd ref='Xingyun_road_vertex_1' />
+    <nd ref='Xingyun_road_vertex_2' />
+    <nd ref='Xingyun_road_vertex_4' />
+    <nd ref='Xingyun_road_vertex_3' />
+</Xingyun-road>
+
+<location_name: rostrum-right>
+<!-- The following points form the location: rostrum-right -->
+  <node x='160' y='953'>
+<tag k='door' v='rostrum_right_door & track-and-field_ground_stand_south_door' />
+  </node>
+
+<location_name: rostrum-left>
+<!-- The following points form the location: rostrum-left -->
+  <node x='160' y='989'>
+<tag k='door' v='rostrum_left_door & track-and-field_ground_stand_south_door' />
+  </node>
+
+<location_name: Xingyun-side-road>
+<!-- The following points form the location: Xingyun-side-road -->
+  <node x='540' y='966'>
+<tag k='Xingyun_side_road_vertex' v='Xingyun_side_road_vertex_1' />
+    <tag k='door' v='stadium_back_door' />
+  </node>
+  <node x='445' y='967'>
+<tag k='Xingyun_road_vertex' v='Xingyun_road_vertex_3' />
+    <tag k='Xingyun_side_road_vertex' v='Xingyun_side_road_vertex_2' />
+  </node>
+  <node x='500' y='966'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Xingyun_side_road_camera_1' />
+  </node>
+<Xingyun-side-road>
+    <nd ref='Xingyun_side_road_vertex_1' />
+    <nd ref='Xingyun_side_road_vertex_2' />
+</Xingyun-side-road>
+
+<location_name: the-north-gate>
+<!-- The following points form the location: the-north-gate -->
+  <node x='946' y='1253'>
+<tag k='the_north_gate_vertex' v='the_north_gate_vertex_2' />
+  </node>
+  <node x='999' y='1252'>
+<tag k='the_north_gate_vertex' v='the_north_gate_vertex_3' />
+  </node>
+  <node x='999' y='1265'>
+<tag k='the_north_gate_vertex' v='the_north_gate_vertex_4' />
+  </node>
+  <node x='946' y='1265'>
+<tag k='the_north_gate_vertex' v='the_north_gate_vertex_1' />
+  </node>
+  <node x='973' y='1253'>
+<tag k='Zhuoyue_road_vertex' v='Zhuoyue_road_vertex_1' />
+    <tag k='door' v='the_north_gate_door' />
+  </node>
+<the-north-gate>
+    <nd ref='the_north_gate_vertex_2' />
+    <nd ref='the_north_gate_vertex_3' />
+    <nd ref='the_north_gate_vertex_4' />
+    <nd ref='the_north_gate_vertex_1' />
+</the-north-gate>
+
+<location_name: Zhuoyue-road>
+<!-- The following points form the location: Zhuoyue-road -->
+  <node x='973' y='1253'>
+<tag k='Zhuoyue_road_vertex' v='Zhuoyue_road_vertex_1' />
+    <tag k='door' v='the_north_gate_door' />
+  </node>
+  <node x='10' y='653'>
+<tag k='Zhuoyue_road_vertex' v='Zhuoyue_road_vertex_10' />
+    <tag k='door' v='the_west_gate_door' />
+  </node>
+  <node x='973' y='1200'>
+<tag k='Yuanjing_side_road_3_vertex' v='Yuanjing_side_road_3_vertex_3' />
+    <tag k='Zhuoyue_road_vertex' v='Zhuoyue_road_vertex_2' />
+  </node>
+  <node x='62' y='1199'>
+<tag k='Zhuoyue_road_vertex' v='Zhuoyue_road_vertex_6' />
+  </node>
+  <node x='62' y='652'>
+<tag k='Yongqing_road_vertex' v='Yongqing_road_vertex_1' />
+    <tag k='Zhuoyue_road_vertex' v='Zhuoyue_road_vertex_9' />
+  </node>
+  <node x='445' y='1200'>
+<tag k='Xingyun_road_vertex' v='Xingyun_road_vertex_4' />
+    <tag k='Zhuoyue_road_vertex' v='Zhuoyue_road_vertex_4' />
+  </node>
+  <node x='230' y='1199'>
+<tag k='Qinghe_road_vertex' v='Qinghe_road_vertex_3' />
+    <tag k='Zhuoyue_road_vertex' v='Zhuoyue_road_vertex_5' />
+  </node>
+  <node x='62' y='1131'>
+<tag k='Jiyuan_road_vertex' v='Jiyuan_road_vertex_2' />
+    <tag k='Zhuoyue_road_vertex' v='Zhuoyue_road_vertex_7' />
+  </node>
+  <node x='62' y='786'>
+<tag k='Liyuan_road_vertex' v='Liyuan_road_vertex_3' />
+    <tag k='Zhuoyue_road_vertex' v='Zhuoyue_road_vertex_8' />
+  </node>
+  <node x='835' y='1200'>
+<tag k='Dongfang_road_vertex' v='Dongfang_road_vertex_2' />
+    <tag k='Zhuoyue_road_vertex' v='Zhuoyue_road_vertex_3' />
+  </node>
+  <node x='973' y='1235'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Zhuoyue_road_camera_1 & the_north_gate_camera' />
+  </node>
+  <node x='907' y='1200'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Zhuoyue_road_camera_2' />
+  </node>
+  <node x='712' y='1200'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Zhuoyue_road_camera_3' />
+  </node>
+  <node x='327' y='1199'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Zhuoyue_road_camera_4' />
+  </node>
+  <node x='101' y='1199'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Zhuoyue_road_camera_5' />
+  </node>
+  <node x='62' y='1009'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Zhuoyue_road_camera_6' />
+  </node>
+  <node x='62' y='701'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Zhuoyue_road_camera_7' />
+  </node>
+  <node x='19' y='653'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Zhuoyue_road_camera_8 & the_west_gate_camera' />
+  </node>
+<Zhuoyue-road>
+    <nd ref='Zhuoyue_road_vertex_1' />
+    <nd ref='Zhuoyue_road_vertex_10' />
+    <nd ref='Zhuoyue_road_vertex_2' />
+    <nd ref='Zhuoyue_road_vertex_6' />
+    <nd ref='Zhuoyue_road_vertex_9' />
+    <nd ref='Zhuoyue_road_vertex_4' />
+    <nd ref='Zhuoyue_road_vertex_5' />
+    <nd ref='Zhuoyue_road_vertex_7' />
+    <nd ref='Zhuoyue_road_vertex_8' />
+    <nd ref='Zhuoyue_road_vertex_3' />
+</Zhuoyue-road>
+
+<location_name: the-south-gate>
+<!-- The following points form the location: the-south-gate -->
+  <node x='1146' y='0'>
+<tag k='the_south_gate_vertex' v='the_south_gate_vertex_2' />
+  </node>
+  <node x='1200' y='0'>
+<tag k='the_south_gate_vertex' v='the_south_gate_vertex_3' />
+  </node>
+  <node x='1200' y='13'>
+<tag k='the_south_gate_vertex' v='the_south_gate_vertex_4' />
+  </node>
+  <node x='1146' y='13'>
+<tag k='the_south_gate_vertex' v='the_south_gate_vertex_1' />
+  </node>
+  <node x='1174' y='13'>
+<tag k='Heping_road_vertex' v='Heping_road_vertex_10' />
+    <tag k='door' v='the_south_gate_door' />
+  </node>
+<the-south-gate>
+    <nd ref='the_south_gate_vertex_2' />
+    <nd ref='the_south_gate_vertex_3' />
+    <nd ref='the_south_gate_vertex_4' />
+    <nd ref='the_south_gate_vertex_1' />
+</the-south-gate>
+
+<location_name: the-west-gate>
+<!-- The following points form the location: the-west-gate -->
+  <node x='0' y='638'>
+<tag k='the_west_gate_vertex' v='the_west_gate_vertex_2' />
+  </node>
+  <node x='10' y='638'>
+<tag k='the_west_gate_vertex' v='the_west_gate_vertex_3' />
+  </node>
+  <node x='10' y='667'>
+<tag k='the_west_gate_vertex' v='the_west_gate_vertex_4' />
+  </node>
+  <node x='0' y='667'>
+<tag k='the_west_gate_vertex' v='the_west_gate_vertex_1' />
+  </node>
+  <node x='10' y='653'>
+<tag k='Zhuoyue_road_vertex' v='Zhuoyue_road_vertex_10' />
+    <tag k='door' v='the_west_gate_door' />
+  </node>
+<the-west-gate>
+    <nd ref='the_west_gate_vertex_2' />
+    <nd ref='the_west_gate_vertex_3' />
+    <nd ref='the_west_gate_vertex_4' />
+    <nd ref='the_west_gate_vertex_1' />
+</the-west-gate>
+
+<location_name: the-east-gate>
+<!-- The following points form the location: the-east-gate -->
+  <node x='1817' y='637'>
+<tag k='the_east_gate_vertex' v='the_east_gate_vertex_2' />
+  </node>
+  <node x='1827' y='637'>
+<tag k='the_east_gate_vertex' v='the_east_gate_vertex_3' />
+  </node>
+  <node x='1827' y='666'>
+<tag k='the_east_gate_vertex' v='the_east_gate_vertex_4' />
+  </node>
+  <node x='1817' y='666'>
+<tag k='the_east_gate_vertex' v='the_east_gate_vertex_1' />
+  </node>
+  <node x='1817' y='650'>
+<tag k='Qiushi_road_vertex' v='Qiushi_road_vertex_6' />
+    <tag k='door' v='the_east_gate_door' />
+  </node>
+<the-east-gate>
+    <nd ref='the_east_gate_vertex_2' />
+    <nd ref='the_east_gate_vertex_3' />
+    <nd ref='the_east_gate_vertex_4' />
+    <nd ref='the_east_gate_vertex_1' />
+</the-east-gate>
+
+<location_name: Yuanjing-side-road-3>
+<!-- The following points form the location: Yuanjing-side-road-3 -->
+  <node x='973' y='1200'>
+<tag k='Yuanjing_side_road_3_vertex' v='Yuanjing_side_road_3_vertex_3' />
+    <tag k='Zhuoyue_road_vertex' v='Zhuoyue_road_vertex_2' />
+  </node>
+  <node x='1128' y='1087'>
+<tag k='Yuanjing_road_vertex' v='Yuanjing_road_vertex_5' />
+    <tag k='Yuanjing_side_road_3_vertex' v='Yuanjing_side_road_3_vertex_1' />
+  </node>
+  <node x='1128' y='1200'>
+<tag k='Yuanjing_side_road_3_vertex' v='Yuanjing_side_road_3_vertex_2' />
+  </node>
+  <node x='1085' y='1200'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Yuanjing_side_road_3_camera_1' />
+  </node>
+<Yuanjing-side-road-3>
+    <nd ref='Yuanjing_side_road_3_vertex_3' />
+    <nd ref='Yuanjing_side_road_3_vertex_1' />
+    <nd ref='Yuanjing_side_road_3_vertex_2' />
+</Yuanjing-side-road-3>
+
+<location_name: Yongqing-road>
+<!-- The following points form the location: Yongqing-road -->
+  <node x='62' y='652'>
+<tag k='Yongqing_road_vertex' v='Yongqing_road_vertex_1' />
+    <tag k='Zhuoyue_road_vertex' v='Zhuoyue_road_vertex_9' />
+  </node>
+  <node x='330' y='248'>
+<tag k='Futian_road_vertex' v='Futian_road_vertex_2' />
+    <tag k='Lixiang_road_vertex' v='Lixiang_road_vertex_4' />
+    <tag k='Yongqing_road_vertex' v='Yongqing_road_vertex_6' />
+  </node>
+  <node x='62' y='247'>
+<tag k='Yongqing_road_vertex' v='Yongqing_road_vertex_4' />
+  </node>
+  <node x='210' y='248'>
+<tag k='Yongqing_road_vertex' v='Yongqing_road_vertex_5' />
+    <tag k='Yongqing_side_road_3_vertex' v='Yongqing_side_road_3_vertex_2' />
+  </node>
+  <node x='62' y='430'>
+<tag k='Yongqing_road_vertex' v='Yongqing_road_vertex_3' />
+    <tag k='Yongqing_side_road_2_vertex' v='Yongqing_side_road_2_vertex_2' />
+  </node>
+  <node x='62' y='541'>
+<tag k='Yongqing_road_vertex' v='Yongqing_road_vertex_2' />
+    <tag k='Yongqing_side_road_1_vertex' v='Yongqing_side_road_1_vertex_4' />
+  </node>
+  <node x='62' y='304'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Yongqing_road_camera_1' />
+  </node>
+<Yongqing-road>
+    <nd ref='Yongqing_road_vertex_1' />
+    <nd ref='Yongqing_road_vertex_6' />
+    <nd ref='Yongqing_road_vertex_4' />
+    <nd ref='Yongqing_road_vertex_5' />
+    <nd ref='Yongqing_road_vertex_3' />
+    <nd ref='Yongqing_road_vertex_2' />
+</Yongqing-road>
+
+<location_name: Qiushi-side-road-1>
+<!-- The following points form the location: Qiushi-side-road-1 -->
+  <node x='1462' y='834'>
+<tag k='Qiushi_road_vertex' v='Qiushi_road_vertex_3' />
+    <tag k='Qiushi_side_road_1_vertex' v='Qiushi_side_road_1_vertex_1' />
+  </node>
+  <node x='1173' y='835'>
+<tag k='Qiushi_side_road_1_vertex' v='Qiushi_side_road_1_vertex_2' />
+    <tag k='Yuanjing_side_road_1_vertex' v='Yuanjing_side_road_1_vertex_2' />
+  </node>
+  <node x='1325' y='835'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Qiushi_side_road_1_camera_1' />
+  </node>
+<Qiushi-side-road-1>
+    <nd ref='Qiushi_side_road_1_vertex_1' />
+    <nd ref='Qiushi_side_road_1_vertex_2' />
+</Qiushi-side-road-1>
+
+<location_name: Weiyuan-road>
+<!-- The following points form the location: Weiyuan-road -->
+  <node x='1770' y='650'>
+<tag k='Qiushi_road_vertex' v='Qiushi_road_vertex_5' />
+    <tag k='Qiushi_side_road_2_vertex' v='Qiushi_side_road_2_vertex_2' />
+    <tag k='Weiyuan_road_vertex' v='Weiyuan_road_vertex_5' />
+  </node>
+  <node x='1395' y='223'>
+<tag k='Weiyuan_road_vertex' v='Weiyuan_road_vertex_1' />
+    <tag k='Zhenhua_road_vertex' v='Zhenhua_road_vertex_2' />
+  </node>
+  <node x='1395' y='449'>
+<tag k='Weiyuan_road_vertex' v='Weiyuan_road_vertex_3' />
+  </node>
+  <node x='1771' y='447'>
+<tag k='Weiyuan_road_vertex' v='Weiyuan_road_vertex_4' />
+  </node>
+  <node x='1395' y='387'>
+<tag k='Shenglan_side_road_2_vertex' v='Shenglan_side_road_2_vertex_2' />
+    <tag k='Weiyuan_road_vertex' v='Weiyuan_road_vertex_2' />
+  </node>
+  <node x='1395' y='308'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Weiyuan_road_camera_1' />
+  </node>
+  <node x='1615' y='448'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Weiyuan_road_camera_2' />
+  </node>
+  <node x='1770' y='602'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Weiyuan_road_camera_3' />
+  </node>
+<Weiyuan-road>
+    <nd ref='Weiyuan_road_vertex_5' />
+    <nd ref='Weiyuan_road_vertex_1' />
+    <nd ref='Weiyuan_road_vertex_3' />
+    <nd ref='Weiyuan_road_vertex_4' />
+    <nd ref='Weiyuan_road_vertex_2' />
+</Weiyuan-road>
+
+<location_name: Shiji-road>
+<!-- The following points form the location: Shiji-road -->
+  <node x='329' y='430'>
+<tag k='Ankang_road_vertex' v='Ankang_road_vertex_8' />
+    <tag k='Shiji_road_vertex' v='Shiji_road_vertex_3' />
+  </node>
+  <node x='492' y='380'>
+<tag k='Heping_side_road_2_vertex' v='Heping_side_road_2_vertex_2' />
+    <tag k='Shiji_road_vertex' v='Shiji_road_vertex_1' />
+  </node>
+  <node x='329' y='379'>
+<tag k='Lixiang_road_vertex' v='Lixiang_road_vertex_5' />
+    <tag k='Shiji_road_vertex' v='Shiji_road_vertex_2' />
+  </node>
+  <node x='386' y='380'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Shiji_road_camera_1' />
+  </node>
+<Shiji-road>
+    <nd ref='Shiji_road_vertex_3' />
+    <nd ref='Shiji_road_vertex_1' />
+    <nd ref='Shiji_road_vertex_2' />
+</Shiji-road>
+
+<location_name: Yongqing-side-road-2>
+<!-- The following points form the location: Yongqing-side-road-2 -->
+  <node x='234' y='430'>
+<tag k='Ankang_road_vertex' v='Ankang_road_vertex_9' />
+    <tag k='Yongqing_side_road_2_vertex' v='Yongqing_side_road_2_vertex_1' />
+  </node>
+  <node x='62' y='430'>
+<tag k='Yongqing_road_vertex' v='Yongqing_road_vertex_3' />
+    <tag k='Yongqing_side_road_2_vertex' v='Yongqing_side_road_2_vertex_2' />
+  </node>
+<Yongqing-side-road-2>
+    <nd ref='Yongqing_side_road_2_vertex_1' />
+    <nd ref='Yongqing_side_road_2_vertex_2' />
+</Yongqing-side-road-2>
+
+<location_name: Qinghe-road>
+<!-- The following points form the location: Qinghe-road -->
+  <node x='170' y='1131'>
+<tag k='Qinghe_road_vertex' v='Qinghe_road_vertex_1' />
+    <tag k='door' v='car_park_2_front_door' />
+  </node>
+  <node x='230' y='1131'>
+<tag k='Qinghe_road_vertex' v='Qinghe_road_vertex_2' />
+  </node>
+  <node x='230' y='1199'>
+<tag k='Qinghe_road_vertex' v='Qinghe_road_vertex_3' />
+    <tag k='Zhuoyue_road_vertex' v='Zhuoyue_road_vertex_5' />
+  </node>
+  <node x='230' y='1178'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Qinghe_road_camera_2' />
+  </node>
+  <node x='196' y='1131'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Qinghe_road_camera_1 & car_park_2_front_door_camera' />
+  </node>
+<Qinghe-road>
+    <nd ref='Qinghe_road_vertex_1' />
+    <nd ref='Qinghe_road_vertex_2' />
+    <nd ref='Qinghe_road_vertex_3' />
+</Qinghe-road>
+
+<location_name: Jiyuan-road>
+<!-- The following points form the location: Jiyuan-road -->
+  <node x='131' y='1131'>
+<tag k='Jiyuan_road_vertex' v='Jiyuan_road_vertex_1' />
+    <tag k='door' v='car_park_2_back_door' />
+  </node>
+  <node x='62' y='1131'>
+<tag k='Jiyuan_road_vertex' v='Jiyuan_road_vertex_2' />
+    <tag k='Zhuoyue_road_vertex' v='Zhuoyue_road_vertex_7' />
+  </node>
+  <node x='101' y='1131'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Jiyuan_road_camera_1 & car_park_2_back_door_camera' />
+  </node>
+<Jiyuan-road>
+    <nd ref='Jiyuan_road_vertex_1' />
+    <nd ref='Jiyuan_road_vertex_2' />
+</Jiyuan-road>
+
+<location_name: Fuhui-road>
+<!-- The following points form the location: Fuhui-road -->
+  <node x='328' y='663'>
+<tag k='Ankang_road_vertex' v='Ankang_road_vertex_5' />
+    <tag k='Fuhui_road_vertex' v='Fuhui_road_vertex_1' />
+  </node>
+  <node x='529' y='663'>
+<tag k='Fuhui_road_vertex' v='Fuhui_road_vertex_3' />
+  </node>
+  <node x='530' y='832'>
+<tag k='Fuhui_road_vertex' v='Fuhui_road_vertex_4' />
+  </node>
+  <node x='704' y='889'>
+<tag k='Fuhui_road_vertex' v='Fuhui_road_vertex_5' />
+  </node>
+  <node x='889' y='889'>
+<tag k='Chuangxin_road_vertex' v='Chuangxin_road_vertex_4' />
+    <tag k='Fuhui_road_vertex' v='Fuhui_road_vertex_7' />
+  </node>
+  <node x='783' y='889'>
+<tag k='Fuhui_road_vertex' v='Fuhui_road_vertex_6' />
+    <tag k='Mingzhu_road_vertex' v='Mingzhu_road_vertex_1' />
+  </node>
+  <node x='408' y='663'>
+<tag k='Fuhui_road_vertex' v='Fuhui_road_vertex_2' />
+    <tag k='Fuhui_side_road_vertex' v='Fuhui_side_road_vertex_2' />
+  </node>
+  <node x='489' y='663'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Fuhui_road_camera_1' />
+  </node>
+  <node x='530' y='773'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Fuhui_road_camera_2' />
+  </node>
+  <node x='840' y='889'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Fuhui_road_camera_3' />
+  </node>
+<Fuhui-road>
+    <nd ref='Fuhui_road_vertex_1' />
+    <nd ref='Fuhui_road_vertex_3' />
+    <nd ref='Fuhui_road_vertex_4' />
+    <nd ref='Fuhui_road_vertex_5' />
+    <nd ref='Fuhui_road_vertex_7' />
+    <nd ref='Fuhui_road_vertex_6' />
+    <nd ref='Fuhui_road_vertex_2' />
+</Fuhui-road>
+
+<location_name: Ankang-side-road-4>
+<!-- The following points form the location: Ankang-side-road-4 -->
+  <node x='469' y='536'>
+<tag k='Ankang_side_road_4_vertex' v='Ankang_side_road_4_vertex_1' />
+    <tag k='Heping_side_road_1_vertex' v='Heping_side_road_1_vertex_2' />
+  </node>
+  <node x='328' y='536'>
+<tag k='Ankang_road_vertex' v='Ankang_road_vertex_7' />
+    <tag k='Ankang_side_road_4_vertex' v='Ankang_side_road_4_vertex_2' />
+  </node>
+  <node x='407' y='536'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Ankang_side_road_4_camera_1' />
+  </node>
+<Ankang-side-road-4>
+    <nd ref='Ankang_side_road_4_vertex_1' />
+    <nd ref='Ankang_side_road_4_vertex_2' />
+</Ankang-side-road-4>
+
+<location_name: Tianlan-road>
+<!-- The following points form the location: Tianlan-road -->
+  <node x='1118' y='281'>
+<tag k='Shenglan_road_vertex' v='Shenglan_road_vertex_2' />
+    <tag k='Tianlan_road_vertex' v='Tianlan_road_vertex_1' />
+  </node>
+  <node x='1119' y='115'>
+<tag k='Heping_road_vertex' v='Heping_road_vertex_8' />
+    <tag k='Tianlan_road_vertex' v='Tianlan_road_vertex_2' />
+  </node>
+  <node x='1118' y='194'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Tianlan_road_camera_1' />
+  </node>
+<Tianlan-road>
+    <nd ref='Tianlan_road_vertex_1' />
+    <nd ref='Tianlan_road_vertex_2' />
+</Tianlan-road>
+
+<location_name: Xinguang-side-road>
+<!-- The following points form the location: Xinguang-side-road -->
+  <node x='260' y='702'>
+<tag k='Ankang_side_road_2_vertex' v='Ankang_side_road_2_vertex_2' />
+    <tag k='Xinguang_side_road_vertex' v='Xinguang_side_road_vertex_1' />
+  </node>
+  <node x='194' y='703'>
+<tag k='Xinguang_road_vertex' v='Xinguang_road_vertex_3' />
+    <tag k='Xinguang_side_road_vertex' v='Xinguang_side_road_vertex_2' />
+  </node>
+  <node x='226' y='703'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Xinguang_side_road_camera_1' />
+  </node>
+<Xinguang-side-road>
+    <nd ref='Xinguang_side_road_vertex_1' />
+    <nd ref='Xinguang_side_road_vertex_2' />
+</Xinguang-side-road>
+
+<location_name: Yongqing-side-road-1>
+<!-- The following points form the location: Yongqing-side-road-1 -->
+  <node x='251' y='570'>
+<tag k='Ankang_side_road_3_vertex' v='Ankang_side_road_3_vertex_2' />
+    <tag k='Yongqing_side_road_1_vertex' v='Yongqing_side_road_1_vertex_1' />
+  </node>
+  <node x='250' y='541'>
+<tag k='Yongqing_side_road_1_vertex' v='Yongqing_side_road_1_vertex_2' />
+  </node>
+  <node x='62' y='541'>
+<tag k='Yongqing_road_vertex' v='Yongqing_road_vertex_2' />
+    <tag k='Yongqing_side_road_1_vertex' v='Yongqing_side_road_1_vertex_4' />
+  </node>
+  <node x='194' y='541'>
+<tag k='Shuangyong_side_road_vertex' v='Shuangyong_side_road_vertex_2' />
+    <tag k='Yongqing_side_road_1_vertex' v='Yongqing_side_road_1_vertex_3' />
+  </node>
+  <node x='150' y='541'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Yongqing_side_road_1_camera_1' />
+  </node>
+<Yongqing-side-road-1>
+    <nd ref='Yongqing_side_road_1_vertex_1' />
+    <nd ref='Yongqing_side_road_1_vertex_2' />
+    <nd ref='Yongqing_side_road_1_vertex_4' />
+    <nd ref='Yongqing_side_road_1_vertex_3' />
+</Yongqing-side-road-1>
+
+<location_name: Shenglan-side-road-2>
+<!-- The following points form the location: Shenglan-side-road-2 -->
+  <node x='1117' y='387'>
+<tag k='Shenglan_road_vertex' v='Shenglan_road_vertex_3' />
+    <tag k='Shenglan_side_road_2_vertex' v='Shenglan_side_road_2_vertex_1' />
+  </node>
+  <node x='1395' y='387'>
+<tag k='Shenglan_side_road_2_vertex' v='Shenglan_side_road_2_vertex_2' />
+    <tag k='Weiyuan_road_vertex' v='Weiyuan_road_vertex_2' />
+  </node>
+  <node x='1257' y='387'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Shenglan_side_road_2_camera_1' />
+  </node>
+<Shenglan-side-road-2>
+    <nd ref='Shenglan_side_road_2_vertex_1' />
+    <nd ref='Shenglan_side_road_2_vertex_2' />
+</Shenglan-side-road-2>
+
+<location_name: Shenglan-side-road-1>
+<!-- The following points form the location: Shenglan-side-road-1 -->
+  <node x='1117' y='434'>
+<tag k='Shenglan_road_vertex' v='Shenglan_road_vertex_4' />
+    <tag k='Shenglan_side_road_1_vertex' v='Shenglan_side_road_1_vertex_1' />
+  </node>
+  <node x='877' y='434'>
+<tag k='Shenglan_side_road_1_vertex' v='Shenglan_side_road_1_vertex_2' />
+    <tag k='Xinxi_road_vertex' v='Xinxi_road_vertex_6' />
+  </node>
+  <node x='1003' y='434'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Shenglan_side_road_1_camera_1' />
+  </node>
+<Shenglan-side-road-1>
+    <nd ref='Shenglan_side_road_1_vertex_1' />
+    <nd ref='Shenglan_side_road_1_vertex_2' />
+</Shenglan-side-road-1>
+
+<location_name: Mingzhu-road>
+<!-- The following points form the location: Mingzhu-road -->
+  <node x='783' y='889'>
+<tag k='Fuhui_road_vertex' v='Fuhui_road_vertex_6' />
+    <tag k='Mingzhu_road_vertex' v='Mingzhu_road_vertex_1' />
+  </node>
+  <node x='783' y='532'>
+<tag k='Mingzhu_road_vertex' v='Mingzhu_road_vertex_3' />
+    <tag k='Mingzhu_side_road_2_vertex' v='Mingzhu_side_road_2_vertex_3' />
+  </node>
+  <node x='877' y='532'>
+<tag k='Mingzhu_road_vertex' v='Mingzhu_road_vertex_4' />
+    <tag k='Xinxi_road_vertex' v='Xinxi_road_vertex_5' />
+  </node>
+  <node x='783' y='799'>
+<tag k='Mingzhu_road_vertex' v='Mingzhu_road_vertex_2' />
+    <tag k='Mingzhu_side_road_1_vertex' v='Mingzhu_side_road_1_vertex_2' />
+  </node>
+  <node x='783' y='666'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Mingzhu_road_camera_1' />
+  </node>
+<Mingzhu-road>
+    <nd ref='Mingzhu_road_vertex_1' />
+    <nd ref='Mingzhu_road_vertex_3' />
+    <nd ref='Mingzhu_road_vertex_4' />
+    <nd ref='Mingzhu_road_vertex_2' />
+</Mingzhu-road>
+
+<location_name: Mingzhu-side-road-2>
+<!-- The following points form the location: Mingzhu-side-road-2 -->
+  <node x='783' y='532'>
+<tag k='Mingzhu_road_vertex' v='Mingzhu_road_vertex_3' />
+    <tag k='Mingzhu_side_road_2_vertex' v='Mingzhu_side_road_2_vertex_3' />
+  </node>
+  <node x='652' y='498'>
+<tag k='Mingzhu_side_road_2_vertex' v='Mingzhu_side_road_2_vertex_1' />
+    <tag k='door' v='cafeteria_back_door' />
+  </node>
+  <node x='783' y='498'>
+<tag k='Mingzhu_side_road_2_vertex' v='Mingzhu_side_road_2_vertex_2' />
+  </node>
+  <node x='683' y='498'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Mingzhu_side_road_2_camera_1 & cafeteria_back_door_camera' />
+  </node>
+<Mingzhu-side-road-2>
+    <nd ref='Mingzhu_side_road_2_vertex_3' />
+    <nd ref='Mingzhu_side_road_2_vertex_1' />
+    <nd ref='Mingzhu_side_road_2_vertex_2' />
+</Mingzhu-side-road-2>
+
+<location_name: Yuanjing-side-road-1>
+<!-- The following points form the location: Yuanjing-side-road-1 -->
+  <node x='1173' y='913'>
+<tag k='Yuanjing_road_vertex' v='Yuanjing_road_vertex_3' />
+    <tag k='Yuanjing_side_road_1_vertex' v='Yuanjing_side_road_1_vertex_1' />
+  </node>
+  <node x='1173' y='793'>
+<tag k='Chuangxin_road_vertex' v='Chuangxin_road_vertex_6' />
+    <tag k='Yuanjing_side_road_1_vertex' v='Yuanjing_side_road_1_vertex_3' />
+  </node>
+  <node x='1173' y='835'>
+<tag k='Qiushi_side_road_1_vertex' v='Qiushi_side_road_1_vertex_2' />
+    <tag k='Yuanjing_side_road_1_vertex' v='Yuanjing_side_road_1_vertex_2' />
+  </node>
+  <node x='1173' y='869'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Yuanjing_side_road_1_camera_1' />
+  </node>
+<Yuanjing-side-road-1>
+    <nd ref='Yuanjing_side_road_1_vertex_1' />
+    <nd ref='Yuanjing_side_road_1_vertex_3' />
+    <nd ref='Yuanjing_side_road_1_vertex_2' />
+</Yuanjing-side-road-1>
+
+<location_name: Futian-road>
+<!-- The following points form the location: Futian-road -->
+  <node x='508' y='248'>
+<tag k='Futian_road_vertex' v='Futian_road_vertex_1' />
+    <tag k='outdoor_basketball_court_road_vertex' v='outdoor_basketball_court_road_vertex_2' />
+  </node>
+  <node x='330' y='248'>
+<tag k='Futian_road_vertex' v='Futian_road_vertex_2' />
+    <tag k='Lixiang_road_vertex' v='Lixiang_road_vertex_4' />
+    <tag k='Yongqing_road_vertex' v='Yongqing_road_vertex_6' />
+  </node>
+  <node x='422' y='248'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Futian_road_camera_1' />
+  </node>
+<Futian-road>
+    <nd ref='Futian_road_vertex_1' />
+    <nd ref='Futian_road_vertex_2' />
+</Futian-road>
+
+<location_name: Shuangyong-side-road>
+<!-- The following points form the location: Shuangyong-side-road -->
+  <node x='194' y='588'>
+<tag k='Shuangyong_road_vertex' v='Shuangyong_road_vertex_2' />
+    <tag k='Shuangyong_side_road_vertex' v='Shuangyong_side_road_vertex_1' />
+  </node>
+  <node x='194' y='541'>
+<tag k='Shuangyong_side_road_vertex' v='Shuangyong_side_road_vertex_2' />
+    <tag k='Yongqing_side_road_1_vertex' v='Yongqing_side_road_1_vertex_3' />
+  </node>
+  <node x='194' y='564'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Shuangyong_side_road_camera_1' />
+  </node>
+<Shuangyong-side-road>
+    <nd ref='Shuangyong_side_road_vertex_1' />
+    <nd ref='Shuangyong_side_road_vertex_2' />
+</Shuangyong-side-road>
+
+<location_name: Mingzhu-side-road-1>
+<!-- The following points form the location: Mingzhu-side-road-1 -->
+  <node x='726' y='799'>
+<tag k='Mingzhu_side_road_1_vertex' v='Mingzhu_side_road_1_vertex_1' />
+    <tag k='door' v='cafeteria_1F_left_door' />
+  </node>
+  <node x='783' y='799'>
+<tag k='Mingzhu_road_vertex' v='Mingzhu_road_vertex_2' />
+    <tag k='Mingzhu_side_road_1_vertex' v='Mingzhu_side_road_1_vertex_2' />
+  </node>
+  <node x='753' y='799'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Mingzhu_side_road_1_camera_1 & cafeteria_1F_left_door_camera' />
+  </node>
+<Mingzhu-side-road-1>
+    <nd ref='Mingzhu_side_road_1_vertex_1' />
+    <nd ref='Mingzhu_side_road_1_vertex_2' />
+</Mingzhu-side-road-1>
+
+<location_name: Xinxi-side-road>
+<!-- The following points form the location: Xinxi-side-road -->
+  <node x='748' y='314'>
+<tag k='Xinxi_side_road_vertex' v='Xinxi_side_road_vertex_1' />
+    <tag k='door' v='cafeteria_1F_right_door' />
+  </node>
+  <node x='877' y='313'>
+<tag k='Xinxi_road_vertex' v='Xinxi_road_vertex_7' />
+    <tag k='Xinxi_side_road_vertex' v='Xinxi_side_road_vertex_2' />
+  </node>
+  <node x='818' y='313'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Xinxi_side_road_camera_1 & cafeteria_1F_right_door_camera' />
+  </node>
+<Xinxi-side-road>
+    <nd ref='Xinxi_side_road_vertex_1' />
+    <nd ref='Xinxi_side_road_vertex_2' />
+</Xinxi-side-road>
+
+<location_name: Dongfang-road>
+<!-- The following points form the location: Dongfang-road -->
+  <node x='836' y='978'>
+<tag k='Chuangxin_road_vertex' v='Chuangxin_road_vertex_2' />
+    <tag k='Dongfang_road_vertex' v='Dongfang_road_vertex_1' />
+  </node>
+  <node x='835' y='1200'>
+<tag k='Dongfang_road_vertex' v='Dongfang_road_vertex_2' />
+    <tag k='Zhuoyue_road_vertex' v='Zhuoyue_road_vertex_3' />
+  </node>
+  <node x='835' y='1091'>
+<tag k='man_made' v='surveillance' />
+    <tag k='name' v='Dongfang_road_camera_1' />
+  </node>
+<Dongfang-road>
+    <nd ref='Dongfang_road_vertex_1' />
+    <nd ref='Dongfang_road_vertex_2' />
+</Dongfang-road>
+
+
+

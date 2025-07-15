@@ -1,0 +1,45 @@
+# =============================================================================
+# Main Configuration for IoT-Brain
+# =============================================================================
+# This file centralizes all user-configurable parameters for the framework.
+
+# -----------------------------------------------------------------------------
+# LLM Configuration
+# -----------------------------------------------------------------------------
+# Specifies the language models to be used by the agents.
+llm:
+  # The primary model used for reasoning and generation by most agents.
+  # Examples: "gpt-4-turbo", "gemini-2.5-flash-preview-0524", "deepseek-chat"
+  default_model_name: "gemini-2.5-flash-preview-0524"
+
+  # Optional: A specific model for the Perception Aligner (VLM).
+  # If not specified, falls back to the default model.
+  vision_model_name: "gpt-4-vision-preview"
+
+  # API call parameters
+  max_retries: 3
+  request_timeout: 120
+
+# -----------------------------------------------------------------------------
+# Memory Configuration
+# -----------------------------------------------------------------------------
+# Paths are relative to the project root.
+memory:
+  # Stores verified facts about the environment's topology.
+  geospatial_memory_path: "memory/geospatial_memory.json"
+  
+  # Stores successfully generated and executed scripts for ICL.
+  programming_memory_path: "memory/programming_memory.json"
+  
+  # Configuration for the sentence transformer model used in ProgrammingMemory.
+  sentence_transformer_model: "all-MiniLM-L6-v2"
+  # Similarity score threshold for retrieving examples from memory.
+  similarity_threshold: 0.9
+
+# -----------------------------------------------------------------------------
+# Dataset and Topology Configuration
+# -----------------------------------------------------------------------------
+# Path to the folder containing the environment's topological data.
+# Path is relative to the project root.
+dataset:
+  topology_sample_path: "dataset/topology_sample"

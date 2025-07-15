@@ -1,0 +1,43 @@
+# =============================================================================
+# Core Dependencies for IoT-Brain Framework
+# =============================================================================
+
+# For making API calls to Large Language Models.
+# Required by: agents/base_agent.py
+openai>=1.0.0
+
+# For handling environment variables (e.g., API keys in .env file).
+# Required by: main_controller.py
+python-dotenv
+
+# For parsing the YAML configuration file (configs/prompts.yml).
+# Required by: main_controller.py
+PyYAML
+
+# =============================================================================
+# Dependencies for Specific Modules
+# =============================================================================
+
+# For semantic similarity search (embeddings) in memory/programming_memory.py.
+# This library is the core of the ICL retrieval mechanism.
+sentence-transformers
+
+# PyTorch is a core dependency for sentence-transformers.
+# It's used for all tensor operations and running the embedding models.
+torch
+
+# For geospatial calculations, such as handling room/corridor polygons.
+# Required by: utils/map_toolkit.py
+shapely
+
+# For numerical operations, potentially used with Shapely or pathfinding.
+# Required by: utils/map_toolkit.py
+numpy
+
+# For solving the Integer Linear Programming problem in camera_coverage_search.
+# Required by: utils/execution_api_pool.py
+pulp
+
+# For image processing, specifically for the PerceptionAligner demo.
+# Required by: agents/a6_perception_aligner.py
+Pillow
