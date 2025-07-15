@@ -50,7 +50,7 @@ This repository is structured to ensure full reproducibility of the results pres
 
 **1. Clone the Repository** 
 
-```bash git clone https://github.com/anonymous-submission/iot-brain.git ```
+```bash git clone https://github.com/houqiii/IoT-Brain.git ```
 
 ```cd iot-brain```
 
