@@ -1,4 +1,4 @@
-#  *IoT-Brain*<img src="./figure/logo.png" alt="IoT-Brain Logo" width="60"/>: Intelligent Sensor Scheduling via Progressive Grounding
+#  *IoT-Brain*<img src="./figure/logo.png" alt="IoT-Brain Logo" width="60"/>: Intelligent Sensor Scheduling via Progressive Grounding of Spatial Trajectory Graphs
 
 <p align="center">   <a href="#"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>   <a href="#"><img src="https://img.shields.io/badge/Python-3.10+-yellow.svg" alt="Python Version"></a>   <a href="#"><img src="https://img.shields.io/badge/Status-Under_Review-lightgrey.svg" alt="Status"></a> </p>
 
