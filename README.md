@@ -782,6 +782,193 @@ You can easily test the system by modifying the query variable at the bottom of 
 
   > "I had breakfast in the lounge, and finally do exercise in the sports-space at faculty center 1F this morning. I found my mobile phone lost. Please help me look for it in all the places I might pass by."
 
+
+
+## 🔬 A Complex Running Example
+
+To further illustrate the framework's capabilities, this section details a complete, multi-stage execution trace for a complex query. This example demonstrates how IoT-Brain handles indoor-outdoor transitions, resolves ambiguities, and compiles a final, executable plan.
+
+### User Query
+
+The process begins with a complex, natural language query from the user:
+
+> "This morning, I attended a meeting in discussion-room-3 on the first floor of teaching-building-1, then went to billiards-hall-1 on the first floor of the stadium to play billiards. I lost my notebook. Please check all possible cameras along the paths I mentioned above to help me find my notebook."
+
+---
+
+### Phase I: Semantic Structuring
+
+The initial phase transforms the user's intent into a structured, hypothesized plan.
+
+#### 1. Topological Anchor Output
+
+The `Anchor` first identifies the key geographical entities, creating an initial graph. Note that it correctly identifies the indoor-outdoor-indoor transition.
+
+```json
+{
+    "path": [
+        {
+            "name": "discussion-room-3",
+            "floor": "first",
+            "building": "teaching-building-1",
+            "type": "indoor"
+        },
+        {
+            "name": "road-network",
+            "floor": null,
+            "building": null,
+            "type": "outdoor"
+        },
+        {
+            "name": "stadium",
+            "floor": null,
+            "building": null,
+            "type": "outdoor"
+        },
+        {
+            "name": "billiards-hall-1",
+            "floor": "first",
+            "building": "stadium",
+            "type": "indoor"
+        }
+    ]
+}
+```
+
+#### 2. Semantic Decomposer Output
+
+The `Decomposer` breaks down the user's high-level goal into a logical sequence of 9 atomic sub-tasks, covering each location and trajectory segment.
+
+```json
+{
+    "task_objective": "Find the user's lost notebook along the trajectory from discussion-room-3 to billiards-hall-1.",
+    "atomic_tasks": [
+        {"step": 1, "description": "Schedule cameras covering 'notebook' in discussion-room-3..."},
+        {"step": 2, "description": "Fit trajectory from discussion-room-3 to the road-network..."},
+        {"step": 3, "description": "Schedule cameras covering Trajectory Segment 1..."},
+        {"step": 4, "description": "Fit trajectory from the road-network to the stadium..."},
+        {"step": 5, "description": "Schedule cameras covering Trajectory Segment 2..."},
+        {"step": 6, "description": "Fit trajectory from the stadium to billiards-hall-1..."},
+        {"step": 7, "description": "Schedule cameras covering Trajectory Segment 3..."},
+        {"step": 8, "description": "Schedule cameras covering 'notebook' in billiards-hall-1..."},
+        {"step": 9, "description": "Integrate all camera sets..."}
+    ]
+}
+```
+*(For brevity, descriptions are shortened)*
+
+#### 3. Spatial Reasoner Output
+
+The `Reasoner` enriches each sub-task with specific, verifiable hypotheses. This step is crucial for identifying all potential ambiguities before the grounding phase.
+
+```json
+{
+    "atomic_tasks": [
+        {
+            "step": 1,
+            "description": "Schedule cameras... in discussion-room-3...",
+            "hypotheses": [
+                "Is there only one camera in discussion-room-3?",
+                "If multiple, are there facilities like 'discussion table' that imply the notebook's location? If yes, dispatch specific cameras; if not, dispatch full coverage set."
+            ]
+        },
+        {
+            "step": 2,
+            "description": "Fit trajectory from discussion-room-3 to the road-network...",
+            "hypotheses": [
+                "No specific start/end facilities mentioned, assume optimal path to the nearest road-network access point."
+            ]
+        },
+        // ... (Hypotheses generated for all other relevant steps) ...
+        {
+            "step": 8,
+            "description": "Schedule cameras... in billiards-hall-1...",
+            "hypotheses": [
+                "Is there only one camera in billiards-hall-1?",
+                "If multiple, are there facilities like 'billiards table' that imply the notebook's location? If yes, dispatch specific cameras; if not, dispatch full coverage set."
+            ]
+        }
+    ]
+}
+```
+*(For brevity, only key hypotheses are shown)*
+
+---
+
+### Phase II: Symbolic Grounding
+
+The `GroundingVerifier` now systematically resolves every hypothesis by calling the `VerificationToolkit`.
+
+#### Verification History (TAO Loop)
+
+This log shows the iterative Thought-Action-Observation process. The `Verifier` checks camera counts and facility presence to decide on the final scheduling strategy.
+
+```json
+[
+    {
+        "tool_call": {"tool_name": "cameras_verify", "args": {"location_name": "teaching-building-1...", "scenario_name": "discussion-room-3"}},
+        "tool_output": "The location 'discussion-room-3' has 2 cameras."
+    },
+    {
+        "tool_call": {"tool_name": "facilities_verify", "args": {"location_name": "teaching-building-1...", "scenario_name": "discussion-room-3"}},
+        "tool_output": "The scenario 'discussion-room-3' has facilities: office_desk: 5, computer: 5."
+    },
+    {
+        "tool_call": {"tool_name": "cameras_verify", "args": {"location_name": "stadium...", "scenario_name": "billiards-hall-1"}},
+        "tool_output": "The location 'billiards-hall-1' has 2 cameras."
+    },
+    {
+        "tool_call": {"tool_name": "facilities_verify", "args": {"location_name": "stadium...", "scenario_name": "billiards-hall-1"}},
+        "tool_output": "The scenario 'billiards-hall-1' has facilities: office_desk: 5, computer: 5."
+    }
+]
+```
+
+---
+
+### Phase III: Physical Execution & Perception
+
+After all hypotheses are grounded, the plan is passed to the `SchedulingSynthesizer`.
+
+#### Synthesizer Output (Final Executable Script)
+
+The `Synthesizer` compiles the verified plan into a clean, executable Python script that uses the `ExecutionAPIPool`. This final script is ready to be executed to orchestrate the physical sensors.
+
+```python
+# Final script generated by Scheduling Synthesizer
+
+# Phase 1: Analyze start location
+# Indoor path from discussion-room-3 to nearest exit in teaching-building-1 first floor
+teaching_building_1_1F = get_indoor_nodes('./teaching_building_1_1F.txt')
+camera_set_1 = camera_coverage_search(teaching_building_1_1F, 'discussion-room-3')
+
+# Phase 2: Analyze outdoor trajectory
+# Outdoor path from teaching-building-1 to stadium
+campus = get_outdoor_nodes('./campus.txt')
+trajectory_segment_1 = road_path_trajectory_fitting(campus, start_location='teaching-building-1', dest_location='stadium')
+camera_set_2 = road_path_camera_search(campus, trajectory_segment_1)
+
+# Phase 3: Analyze indoor trajectory at destination
+# Indoor path from stadium entrance to billiards-hall-1 in stadium first floor
+stadium_1F = get_indoor_nodes('./stadium_1F.txt')
+trajectory_segment_2 = indoor_path_search(stadium_1F, {'billiards-hall-1': None})
+camera_set_3 = indoor_path_camera_search(stadium_1F, trajectory_segment_2)
+
+# Phase 4: Analyze end location
+# Cameras covering billiards-hall-1
+camera_set_4 = camera_coverage_search(stadium_1F, 'billiards-hall-1')
+
+# Final Integration
+# Combine all camera sets
+final_scheduled_camera_set = camera_set_1 + camera_set_2 + camera_set_3 + camera_set_4
+```
+
+This complete example demonstrates the end-to-end, principled process by which IoT-Brain transforms a high-level, ambiguous query into a concrete, verifiable, and executable sensor scheduling plan.
+
+
+
+
+
 ## 📜 License
 
 The code in this repository is licensed under the MIT License. See the [LICENSE](https://github.com/houqiii/IoT-Brain/blob/main/LICENSE) file for details.
